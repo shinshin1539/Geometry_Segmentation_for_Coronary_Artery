@@ -44,7 +44,7 @@ class VesselSegmentMeshDataSet(dataset):
         verts = 2. * verts / image.GetSize()[0] - 1.
         verts = verts[np.random.choice(len(verts), 3000)]
 
-        image, _ = get_medical_image(image)
+        image, _ = get_medical_image(self.images[index])
         image = norm_zero_one(image, span=[-200, 400])
         label, _ = get_medical_image(self.labels[index])
 
@@ -55,7 +55,7 @@ class VesselSegmentMeshDataSet(dataset):
 
 
 def get_dataset():
-    dire = './data/CoronaryArtery'
+    dire = '/media/connect-to-vm/data/CoronaryArtery'
     json_path = './data.json'
 
     indexes = list(get_json(json_path).keys())

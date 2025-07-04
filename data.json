@@ -1,0 +1,7002 @@
+{
+    "0": [
+        {
+            "image": "case_1/img.nii.gz",
+            "label": "case_1/lab.nii.gz",
+            "verts": "case_1/mesh.xyz"
+        }
+    ],
+    "1": [
+        {
+            "image": "case_2/img.nii.gz",
+            "label": "case_2/lab.nii.gz",
+            "verts": "case_2/mesh.xyz"
+        }
+    ],
+    "2": [
+        {
+            "image": "case_3/img.nii.gz",
+            "label": "case_3/lab.nii.gz",
+            "verts": "case_3/mesh.xyz"
+        }
+    ],
+    "3": [
+        {
+            "image": "case_4/img.nii.gz",
+            "label": "case_4/lab.nii.gz",
+            "verts": "case_4/mesh.xyz"
+        }
+    ],
+    "4": [
+        {
+            "image": "case_5/img.nii.gz",
+            "label": "case_5/lab.nii.gz",
+            "verts": "case_5/mesh.xyz"
+        }
+    ],
+    "5": [
+        {
+            "image": "case_6/img.nii.gz",
+            "label": "case_6/lab.nii.gz",
+            "verts": "case_6/mesh.xyz"
+        }
+    ],
+    "6": [
+        {
+            "image": "case_7/img.nii.gz",
+            "label": "case_7/lab.nii.gz",
+            "verts": "case_7/mesh.xyz"
+        }
+    ],
+    "7": [
+        {
+            "image": "case_8/img.nii.gz",
+            "label": "case_8/lab.nii.gz",
+            "verts": "case_8/mesh.xyz"
+        }
+    ],
+    "8": [
+        {
+            "image": "case_9/img.nii.gz",
+            "label": "case_9/lab.nii.gz",
+            "verts": "case_9/mesh.xyz"
+        }
+    ],
+    "9": [
+        {
+            "image": "case_10/img.nii.gz",
+            "label": "case_10/lab.nii.gz",
+            "verts": "case_10/mesh.xyz"
+        }
+    ],
+    "10": [
+        {
+            "image": "case_11/img.nii.gz",
+            "label": "case_11/lab.nii.gz",
+            "verts": "case_11/mesh.xyz"
+        }
+    ],
+    "11": [
+        {
+            "image": "case_12/img.nii.gz",
+            "label": "case_12/lab.nii.gz",
+            "verts": "case_12/mesh.xyz"
+        }
+    ],
+    "12": [
+        {
+            "image": "case_13/img.nii.gz",
+            "label": "case_13/lab.nii.gz",
+            "verts": "case_13/mesh.xyz"
+        }
+    ],
+    "13": [
+        {
+            "image": "case_14/img.nii.gz",
+            "label": "case_14/lab.nii.gz",
+            "verts": "case_14/mesh.xyz"
+        }
+    ],
+    "14": [
+        {
+            "image": "case_15/img.nii.gz",
+            "label": "case_15/lab.nii.gz",
+            "verts": "case_15/mesh.xyz"
+        }
+    ],
+    "15": [
+        {
+            "image": "case_16/img.nii.gz",
+            "label": "case_16/lab.nii.gz",
+            "verts": "case_16/mesh.xyz"
+        }
+    ],
+    "16": [
+        {
+            "image": "case_17/img.nii.gz",
+            "label": "case_17/lab.nii.gz",
+            "verts": "case_17/mesh.xyz"
+        }
+    ],
+    "17": [
+        {
+            "image": "case_18/img.nii.gz",
+            "label": "case_18/lab.nii.gz",
+            "verts": "case_18/mesh.xyz"
+        }
+    ],
+    "18": [
+        {
+            "image": "case_19/img.nii.gz",
+            "label": "case_19/lab.nii.gz",
+            "verts": "case_19/mesh.xyz"
+        }
+    ],
+    "19": [
+        {
+            "image": "case_20/img.nii.gz",
+            "label": "case_20/lab.nii.gz",
+            "verts": "case_20/mesh.xyz"
+        }
+    ],
+    "20": [
+        {
+            "image": "case_21/img.nii.gz",
+            "label": "case_21/lab.nii.gz",
+            "verts": "case_21/mesh.xyz"
+        }
+    ],
+    "21": [
+        {
+            "image": "case_22/img.nii.gz",
+            "label": "case_22/lab.nii.gz",
+            "verts": "case_22/mesh.xyz"
+        }
+    ],
+    "22": [
+        {
+            "image": "case_23/img.nii.gz",
+            "label": "case_23/lab.nii.gz",
+            "verts": "case_23/mesh.xyz"
+        }
+    ],
+    "23": [
+        {
+            "image": "case_24/img.nii.gz",
+            "label": "case_24/lab.nii.gz",
+            "verts": "case_24/mesh.xyz"
+        }
+    ],
+    "24": [
+        {
+            "image": "case_25/img.nii.gz",
+            "label": "case_25/lab.nii.gz",
+            "verts": "case_25/mesh.xyz"
+        }
+    ],
+    "25": [
+        {
+            "image": "case_26/img.nii.gz",
+            "label": "case_26/lab.nii.gz",
+            "verts": "case_26/mesh.xyz"
+        }
+    ],
+    "26": [
+        {
+            "image": "case_27/img.nii.gz",
+            "label": "case_27/lab.nii.gz",
+            "verts": "case_27/mesh.xyz"
+        }
+    ],
+    "27": [
+        {
+            "image": "case_28/img.nii.gz",
+            "label": "case_28/lab.nii.gz",
+            "verts": "case_28/mesh.xyz"
+        }
+    ],
+    "28": [
+        {
+            "image": "case_29/img.nii.gz",
+            "label": "case_29/lab.nii.gz",
+            "verts": "case_29/mesh.xyz"
+        }
+    ],
+    "29": [
+        {
+            "image": "case_30/img.nii.gz",
+            "label": "case_30/lab.nii.gz",
+            "verts": "case_30/mesh.xyz"
+        }
+    ],
+    "30": [
+        {
+            "image": "case_31/img.nii.gz",
+            "label": "case_31/lab.nii.gz",
+            "verts": "case_31/mesh.xyz"
+        }
+    ],
+    "31": [
+        {
+            "image": "case_32/img.nii.gz",
+            "label": "case_32/lab.nii.gz",
+            "verts": "case_32/mesh.xyz"
+        }
+    ],
+    "32": [
+        {
+            "image": "case_33/img.nii.gz",
+            "label": "case_33/lab.nii.gz",
+            "verts": "case_33/mesh.xyz"
+        }
+    ],
+    "33": [
+        {
+            "image": "case_34/img.nii.gz",
+            "label": "case_34/lab.nii.gz",
+            "verts": "case_34/mesh.xyz"
+        }
+    ],
+    "34": [
+        {
+            "image": "case_35/img.nii.gz",
+            "label": "case_35/lab.nii.gz",
+            "verts": "case_35/mesh.xyz"
+        }
+    ],
+    "35": [
+        {
+            "image": "case_36/img.nii.gz",
+            "label": "case_36/lab.nii.gz",
+            "verts": "case_36/mesh.xyz"
+        }
+    ],
+    "36": [
+        {
+            "image": "case_37/img.nii.gz",
+            "label": "case_37/lab.nii.gz",
+            "verts": "case_37/mesh.xyz"
+        }
+    ],
+    "37": [
+        {
+            "image": "case_38/img.nii.gz",
+            "label": "case_38/lab.nii.gz",
+            "verts": "case_38/mesh.xyz"
+        }
+    ],
+    "38": [
+        {
+            "image": "case_39/img.nii.gz",
+            "label": "case_39/lab.nii.gz",
+            "verts": "case_39/mesh.xyz"
+        }
+    ],
+    "39": [
+        {
+            "image": "case_40/img.nii.gz",
+            "label": "case_40/lab.nii.gz",
+            "verts": "case_40/mesh.xyz"
+        }
+    ],
+    "40": [
+        {
+            "image": "case_41/img.nii.gz",
+            "label": "case_41/lab.nii.gz",
+            "verts": "case_41/mesh.xyz"
+        }
+    ],
+    "41": [
+        {
+            "image": "case_42/img.nii.gz",
+            "label": "case_42/lab.nii.gz",
+            "verts": "case_42/mesh.xyz"
+        }
+    ],
+    "42": [
+        {
+            "image": "case_43/img.nii.gz",
+            "label": "case_43/lab.nii.gz",
+            "verts": "case_43/mesh.xyz"
+        }
+    ],
+    "43": [
+        {
+            "image": "case_44/img.nii.gz",
+            "label": "case_44/lab.nii.gz",
+            "verts": "case_44/mesh.xyz"
+        }
+    ],
+    "44": [
+        {
+            "image": "case_45/img.nii.gz",
+            "label": "case_45/lab.nii.gz",
+            "verts": "case_45/mesh.xyz"
+        }
+    ],
+    "45": [
+        {
+            "image": "case_46/img.nii.gz",
+            "label": "case_46/lab.nii.gz",
+            "verts": "case_46/mesh.xyz"
+        }
+    ],
+    "46": [
+        {
+            "image": "case_47/img.nii.gz",
+            "label": "case_47/lab.nii.gz",
+            "verts": "case_47/mesh.xyz"
+        }
+    ],
+    "47": [
+        {
+            "image": "case_48/img.nii.gz",
+            "label": "case_48/lab.nii.gz",
+            "verts": "case_48/mesh.xyz"
+        }
+    ],
+    "48": [
+        {
+            "image": "case_49/img.nii.gz",
+            "label": "case_49/lab.nii.gz",
+            "verts": "case_49/mesh.xyz"
+        }
+    ],
+    "49": [
+        {
+            "image": "case_50/img.nii.gz",
+            "label": "case_50/lab.nii.gz",
+            "verts": "case_50/mesh.xyz"
+        }
+    ],
+    "50": [
+        {
+            "image": "case_51/img.nii.gz",
+            "label": "case_51/lab.nii.gz",
+            "verts": "case_51/mesh.xyz"
+        }
+    ],
+    "51": [
+        {
+            "image": "case_52/img.nii.gz",
+            "label": "case_52/lab.nii.gz",
+            "verts": "case_52/mesh.xyz"
+        }
+    ],
+    "52": [
+        {
+            "image": "case_53/img.nii.gz",
+            "label": "case_53/lab.nii.gz",
+            "verts": "case_53/mesh.xyz"
+        }
+    ],
+    "53": [
+        {
+            "image": "case_54/img.nii.gz",
+            "label": "case_54/lab.nii.gz",
+            "verts": "case_54/mesh.xyz"
+        }
+    ],
+    "54": [
+        {
+            "image": "case_55/img.nii.gz",
+            "label": "case_55/lab.nii.gz",
+            "verts": "case_55/mesh.xyz"
+        }
+    ],
+    "55": [
+        {
+            "image": "case_56/img.nii.gz",
+            "label": "case_56/lab.nii.gz",
+            "verts": "case_56/mesh.xyz"
+        }
+    ],
+    "56": [
+        {
+            "image": "case_57/img.nii.gz",
+            "label": "case_57/lab.nii.gz",
+            "verts": "case_57/mesh.xyz"
+        }
+    ],
+    "57": [
+        {
+            "image": "case_58/img.nii.gz",
+            "label": "case_58/lab.nii.gz",
+            "verts": "case_58/mesh.xyz"
+        }
+    ],
+    "58": [
+        {
+            "image": "case_59/img.nii.gz",
+            "label": "case_59/lab.nii.gz",
+            "verts": "case_59/mesh.xyz"
+        }
+    ],
+    "59": [
+        {
+            "image": "case_60/img.nii.gz",
+            "label": "case_60/lab.nii.gz",
+            "verts": "case_60/mesh.xyz"
+        }
+    ],
+    "60": [
+        {
+            "image": "case_61/img.nii.gz",
+            "label": "case_61/lab.nii.gz",
+            "verts": "case_61/mesh.xyz"
+        }
+    ],
+    "61": [
+        {
+            "image": "case_62/img.nii.gz",
+            "label": "case_62/lab.nii.gz",
+            "verts": "case_62/mesh.xyz"
+        }
+    ],
+    "62": [
+        {
+            "image": "case_63/img.nii.gz",
+            "label": "case_63/lab.nii.gz",
+            "verts": "case_63/mesh.xyz"
+        }
+    ],
+    "63": [
+        {
+            "image": "case_64/img.nii.gz",
+            "label": "case_64/lab.nii.gz",
+            "verts": "case_64/mesh.xyz"
+        }
+    ],
+    "64": [
+        {
+            "image": "case_65/img.nii.gz",
+            "label": "case_65/lab.nii.gz",
+            "verts": "case_65/mesh.xyz"
+        }
+    ],
+    "65": [
+        {
+            "image": "case_66/img.nii.gz",
+            "label": "case_66/lab.nii.gz",
+            "verts": "case_66/mesh.xyz"
+        }
+    ],
+    "66": [
+        {
+            "image": "case_67/img.nii.gz",
+            "label": "case_67/lab.nii.gz",
+            "verts": "case_67/mesh.xyz"
+        }
+    ],
+    "67": [
+        {
+            "image": "case_68/img.nii.gz",
+            "label": "case_68/lab.nii.gz",
+            "verts": "case_68/mesh.xyz"
+        }
+    ],
+    "68": [
+        {
+            "image": "case_69/img.nii.gz",
+            "label": "case_69/lab.nii.gz",
+            "verts": "case_69/mesh.xyz"
+        }
+    ],
+    "69": [
+        {
+            "image": "case_70/img.nii.gz",
+            "label": "case_70/lab.nii.gz",
+            "verts": "case_70/mesh.xyz"
+        }
+    ],
+    "70": [
+        {
+            "image": "case_71/img.nii.gz",
+            "label": "case_71/lab.nii.gz",
+            "verts": "case_71/mesh.xyz"
+        }
+    ],
+    "71": [
+        {
+            "image": "case_72/img.nii.gz",
+            "label": "case_72/lab.nii.gz",
+            "verts": "case_72/mesh.xyz"
+        }
+    ],
+    "72": [
+        {
+            "image": "case_73/img.nii.gz",
+            "label": "case_73/lab.nii.gz",
+            "verts": "case_73/mesh.xyz"
+        }
+    ],
+    "73": [
+        {
+            "image": "case_74/img.nii.gz",
+            "label": "case_74/lab.nii.gz",
+            "verts": "case_74/mesh.xyz"
+        }
+    ],
+    "74": [
+        {
+            "image": "case_75/img.nii.gz",
+            "label": "case_75/lab.nii.gz",
+            "verts": "case_75/mesh.xyz"
+        }
+    ],
+    "75": [
+        {
+            "image": "case_76/img.nii.gz",
+            "label": "case_76/lab.nii.gz",
+            "verts": "case_76/mesh.xyz"
+        }
+    ],
+    "76": [
+        {
+            "image": "case_77/img.nii.gz",
+            "label": "case_77/lab.nii.gz",
+            "verts": "case_77/mesh.xyz"
+        }
+    ],
+    "77": [
+        {
+            "image": "case_78/img.nii.gz",
+            "label": "case_78/lab.nii.gz",
+            "verts": "case_78/mesh.xyz"
+        }
+    ],
+    "78": [
+        {
+            "image": "case_79/img.nii.gz",
+            "label": "case_79/lab.nii.gz",
+            "verts": "case_79/mesh.xyz"
+        }
+    ],
+    "79": [
+        {
+            "image": "case_80/img.nii.gz",
+            "label": "case_80/lab.nii.gz",
+            "verts": "case_80/mesh.xyz"
+        }
+    ],
+    "80": [
+        {
+            "image": "case_81/img.nii.gz",
+            "label": "case_81/lab.nii.gz",
+            "verts": "case_81/mesh.xyz"
+        }
+    ],
+    "81": [
+        {
+            "image": "case_82/img.nii.gz",
+            "label": "case_82/lab.nii.gz",
+            "verts": "case_82/mesh.xyz"
+        }
+    ],
+    "82": [
+        {
+            "image": "case_83/img.nii.gz",
+            "label": "case_83/lab.nii.gz",
+            "verts": "case_83/mesh.xyz"
+        }
+    ],
+    "83": [
+        {
+            "image": "case_84/img.nii.gz",
+            "label": "case_84/lab.nii.gz",
+            "verts": "case_84/mesh.xyz"
+        }
+    ],
+    "84": [
+        {
+            "image": "case_85/img.nii.gz",
+            "label": "case_85/lab.nii.gz",
+            "verts": "case_85/mesh.xyz"
+        }
+    ],
+    "85": [
+        {
+            "image": "case_86/img.nii.gz",
+            "label": "case_86/lab.nii.gz",
+            "verts": "case_86/mesh.xyz"
+        }
+    ],
+    "86": [
+        {
+            "image": "case_87/img.nii.gz",
+            "label": "case_87/lab.nii.gz",
+            "verts": "case_87/mesh.xyz"
+        }
+    ],
+    "87": [
+        {
+            "image": "case_88/img.nii.gz",
+            "label": "case_88/lab.nii.gz",
+            "verts": "case_88/mesh.xyz"
+        }
+    ],
+    "88": [
+        {
+            "image": "case_89/img.nii.gz",
+            "label": "case_89/lab.nii.gz",
+            "verts": "case_89/mesh.xyz"
+        }
+    ],
+    "89": [
+        {
+            "image": "case_90/img.nii.gz",
+            "label": "case_90/lab.nii.gz",
+            "verts": "case_90/mesh.xyz"
+        }
+    ],
+    "90": [
+        {
+            "image": "case_91/img.nii.gz",
+            "label": "case_91/lab.nii.gz",
+            "verts": "case_91/mesh.xyz"
+        }
+    ],
+    "91": [
+        {
+            "image": "case_92/img.nii.gz",
+            "label": "case_92/lab.nii.gz",
+            "verts": "case_92/mesh.xyz"
+        }
+    ],
+    "92": [
+        {
+            "image": "case_93/img.nii.gz",
+            "label": "case_93/lab.nii.gz",
+            "verts": "case_93/mesh.xyz"
+        }
+    ],
+    "93": [
+        {
+            "image": "case_94/img.nii.gz",
+            "label": "case_94/lab.nii.gz",
+            "verts": "case_94/mesh.xyz"
+        }
+    ],
+    "94": [
+        {
+            "image": "case_95/img.nii.gz",
+            "label": "case_95/lab.nii.gz",
+            "verts": "case_95/mesh.xyz"
+        }
+    ],
+    "95": [
+        {
+            "image": "case_96/img.nii.gz",
+            "label": "case_96/lab.nii.gz",
+            "verts": "case_96/mesh.xyz"
+        }
+    ],
+    "96": [
+        {
+            "image": "case_97/img.nii.gz",
+            "label": "case_97/lab.nii.gz",
+            "verts": "case_97/mesh.xyz"
+        }
+    ],
+    "97": [
+        {
+            "image": "case_98/img.nii.gz",
+            "label": "case_98/lab.nii.gz",
+            "verts": "case_98/mesh.xyz"
+        }
+    ],
+    "98": [
+        {
+            "image": "case_99/img.nii.gz",
+            "label": "case_99/lab.nii.gz",
+            "verts": "case_99/mesh.xyz"
+        }
+    ],
+    "99": [
+        {
+            "image": "case_100/img.nii.gz",
+            "label": "case_100/lab.nii.gz",
+            "verts": "case_100/mesh.xyz"
+        }
+    ],
+    "100": [
+        {
+            "image": "case_101/img.nii.gz",
+            "label": "case_101/lab.nii.gz",
+            "verts": "case_101/mesh.xyz"
+        }
+    ],
+    "101": [
+        {
+            "image": "case_102/img.nii.gz",
+            "label": "case_102/lab.nii.gz",
+            "verts": "case_102/mesh.xyz"
+        }
+    ],
+    "102": [
+        {
+            "image": "case_103/img.nii.gz",
+            "label": "case_103/lab.nii.gz",
+            "verts": "case_103/mesh.xyz"
+        }
+    ],
+    "103": [
+        {
+            "image": "case_104/img.nii.gz",
+            "label": "case_104/lab.nii.gz",
+            "verts": "case_104/mesh.xyz"
+        }
+    ],
+    "104": [
+        {
+            "image": "case_105/img.nii.gz",
+            "label": "case_105/lab.nii.gz",
+            "verts": "case_105/mesh.xyz"
+        }
+    ],
+    "105": [
+        {
+            "image": "case_106/img.nii.gz",
+            "label": "case_106/lab.nii.gz",
+            "verts": "case_106/mesh.xyz"
+        }
+    ],
+    "106": [
+        {
+            "image": "case_107/img.nii.gz",
+            "label": "case_107/lab.nii.gz",
+            "verts": "case_107/mesh.xyz"
+        }
+    ],
+    "107": [
+        {
+            "image": "case_108/img.nii.gz",
+            "label": "case_108/lab.nii.gz",
+            "verts": "case_108/mesh.xyz"
+        }
+    ],
+    "108": [
+        {
+            "image": "case_109/img.nii.gz",
+            "label": "case_109/lab.nii.gz",
+            "verts": "case_109/mesh.xyz"
+        }
+    ],
+    "109": [
+        {
+            "image": "case_110/img.nii.gz",
+            "label": "case_110/lab.nii.gz",
+            "verts": "case_110/mesh.xyz"
+        }
+    ],
+    "110": [
+        {
+            "image": "case_111/img.nii.gz",
+            "label": "case_111/lab.nii.gz",
+            "verts": "case_111/mesh.xyz"
+        }
+    ],
+    "111": [
+        {
+            "image": "case_112/img.nii.gz",
+            "label": "case_112/lab.nii.gz",
+            "verts": "case_112/mesh.xyz"
+        }
+    ],
+    "112": [
+        {
+            "image": "case_113/img.nii.gz",
+            "label": "case_113/lab.nii.gz",
+            "verts": "case_113/mesh.xyz"
+        }
+    ],
+    "113": [
+        {
+            "image": "case_114/img.nii.gz",
+            "label": "case_114/lab.nii.gz",
+            "verts": "case_114/mesh.xyz"
+        }
+    ],
+    "114": [
+        {
+            "image": "case_115/img.nii.gz",
+            "label": "case_115/lab.nii.gz",
+            "verts": "case_115/mesh.xyz"
+        }
+    ],
+    "115": [
+        {
+            "image": "case_116/img.nii.gz",
+            "label": "case_116/lab.nii.gz",
+            "verts": "case_116/mesh.xyz"
+        }
+    ],
+    "116": [
+        {
+            "image": "case_117/img.nii.gz",
+            "label": "case_117/lab.nii.gz",
+            "verts": "case_117/mesh.xyz"
+        }
+    ],
+    "117": [
+        {
+            "image": "case_118/img.nii.gz",
+            "label": "case_118/lab.nii.gz",
+            "verts": "case_118/mesh.xyz"
+        }
+    ],
+    "118": [
+        {
+            "image": "case_119/img.nii.gz",
+            "label": "case_119/lab.nii.gz",
+            "verts": "case_119/mesh.xyz"
+        }
+    ],
+    "119": [
+        {
+            "image": "case_120/img.nii.gz",
+            "label": "case_120/lab.nii.gz",
+            "verts": "case_120/mesh.xyz"
+        }
+    ],
+    "120": [
+        {
+            "image": "case_121/img.nii.gz",
+            "label": "case_121/lab.nii.gz",
+            "verts": "case_121/mesh.xyz"
+        }
+    ],
+    "121": [
+        {
+            "image": "case_122/img.nii.gz",
+            "label": "case_122/lab.nii.gz",
+            "verts": "case_122/mesh.xyz"
+        }
+    ],
+    "122": [
+        {
+            "image": "case_123/img.nii.gz",
+            "label": "case_123/lab.nii.gz",
+            "verts": "case_123/mesh.xyz"
+        }
+    ],
+    "123": [
+        {
+            "image": "case_124/img.nii.gz",
+            "label": "case_124/lab.nii.gz",
+            "verts": "case_124/mesh.xyz"
+        }
+    ],
+    "124": [
+        {
+            "image": "case_125/img.nii.gz",
+            "label": "case_125/lab.nii.gz",
+            "verts": "case_125/mesh.xyz"
+        }
+    ],
+    "125": [
+        {
+            "image": "case_126/img.nii.gz",
+            "label": "case_126/lab.nii.gz",
+            "verts": "case_126/mesh.xyz"
+        }
+    ],
+    "126": [
+        {
+            "image": "case_127/img.nii.gz",
+            "label": "case_127/lab.nii.gz",
+            "verts": "case_127/mesh.xyz"
+        }
+    ],
+    "127": [
+        {
+            "image": "case_128/img.nii.gz",
+            "label": "case_128/lab.nii.gz",
+            "verts": "case_128/mesh.xyz"
+        }
+    ],
+    "128": [
+        {
+            "image": "case_129/img.nii.gz",
+            "label": "case_129/lab.nii.gz",
+            "verts": "case_129/mesh.xyz"
+        }
+    ],
+    "129": [
+        {
+            "image": "case_130/img.nii.gz",
+            "label": "case_130/lab.nii.gz",
+            "verts": "case_130/mesh.xyz"
+        }
+    ],
+    "130": [
+        {
+            "image": "case_131/img.nii.gz",
+            "label": "case_131/lab.nii.gz",
+            "verts": "case_131/mesh.xyz"
+        }
+    ],
+    "131": [
+        {
+            "image": "case_132/img.nii.gz",
+            "label": "case_132/lab.nii.gz",
+            "verts": "case_132/mesh.xyz"
+        }
+    ],
+    "132": [
+        {
+            "image": "case_133/img.nii.gz",
+            "label": "case_133/lab.nii.gz",
+            "verts": "case_133/mesh.xyz"
+        }
+    ],
+    "133": [
+        {
+            "image": "case_134/img.nii.gz",
+            "label": "case_134/lab.nii.gz",
+            "verts": "case_134/mesh.xyz"
+        }
+    ],
+    "134": [
+        {
+            "image": "case_135/img.nii.gz",
+            "label": "case_135/lab.nii.gz",
+            "verts": "case_135/mesh.xyz"
+        }
+    ],
+    "135": [
+        {
+            "image": "case_136/img.nii.gz",
+            "label": "case_136/lab.nii.gz",
+            "verts": "case_136/mesh.xyz"
+        }
+    ],
+    "136": [
+        {
+            "image": "case_137/img.nii.gz",
+            "label": "case_137/lab.nii.gz",
+            "verts": "case_137/mesh.xyz"
+        }
+    ],
+    "137": [
+        {
+            "image": "case_138/img.nii.gz",
+            "label": "case_138/lab.nii.gz",
+            "verts": "case_138/mesh.xyz"
+        }
+    ],
+    "138": [
+        {
+            "image": "case_139/img.nii.gz",
+            "label": "case_139/lab.nii.gz",
+            "verts": "case_139/mesh.xyz"
+        }
+    ],
+    "139": [
+        {
+            "image": "case_140/img.nii.gz",
+            "label": "case_140/lab.nii.gz",
+            "verts": "case_140/mesh.xyz"
+        }
+    ],
+    "140": [
+        {
+            "image": "case_141/img.nii.gz",
+            "label": "case_141/lab.nii.gz",
+            "verts": "case_141/mesh.xyz"
+        }
+    ],
+    "141": [
+        {
+            "image": "case_142/img.nii.gz",
+            "label": "case_142/lab.nii.gz",
+            "verts": "case_142/mesh.xyz"
+        }
+    ],
+    "142": [
+        {
+            "image": "case_143/img.nii.gz",
+            "label": "case_143/lab.nii.gz",
+            "verts": "case_143/mesh.xyz"
+        }
+    ],
+    "143": [
+        {
+            "image": "case_144/img.nii.gz",
+            "label": "case_144/lab.nii.gz",
+            "verts": "case_144/mesh.xyz"
+        }
+    ],
+    "144": [
+        {
+            "image": "case_145/img.nii.gz",
+            "label": "case_145/lab.nii.gz",
+            "verts": "case_145/mesh.xyz"
+        }
+    ],
+    "145": [
+        {
+            "image": "case_146/img.nii.gz",
+            "label": "case_146/lab.nii.gz",
+            "verts": "case_146/mesh.xyz"
+        }
+    ],
+    "146": [
+        {
+            "image": "case_147/img.nii.gz",
+            "label": "case_147/lab.nii.gz",
+            "verts": "case_147/mesh.xyz"
+        }
+    ],
+    "147": [
+        {
+            "image": "case_148/img.nii.gz",
+            "label": "case_148/lab.nii.gz",
+            "verts": "case_148/mesh.xyz"
+        }
+    ],
+    "148": [
+        {
+            "image": "case_149/img.nii.gz",
+            "label": "case_149/lab.nii.gz",
+            "verts": "case_149/mesh.xyz"
+        }
+    ],
+    "149": [
+        {
+            "image": "case_150/img.nii.gz",
+            "label": "case_150/lab.nii.gz",
+            "verts": "case_150/mesh.xyz"
+        }
+    ],
+    "150": [
+        {
+            "image": "case_151/img.nii.gz",
+            "label": "case_151/lab.nii.gz",
+            "verts": "case_151/mesh.xyz"
+        }
+    ],
+    "151": [
+        {
+            "image": "case_152/img.nii.gz",
+            "label": "case_152/lab.nii.gz",
+            "verts": "case_152/mesh.xyz"
+        }
+    ],
+    "152": [
+        {
+            "image": "case_153/img.nii.gz",
+            "label": "case_153/lab.nii.gz",
+            "verts": "case_153/mesh.xyz"
+        }
+    ],
+    "153": [
+        {
+            "image": "case_154/img.nii.gz",
+            "label": "case_154/lab.nii.gz",
+            "verts": "case_154/mesh.xyz"
+        }
+    ],
+    "154": [
+        {
+            "image": "case_155/img.nii.gz",
+            "label": "case_155/lab.nii.gz",
+            "verts": "case_155/mesh.xyz"
+        }
+    ],
+    "155": [
+        {
+            "image": "case_156/img.nii.gz",
+            "label": "case_156/lab.nii.gz",
+            "verts": "case_156/mesh.xyz"
+        }
+    ],
+    "156": [
+        {
+            "image": "case_157/img.nii.gz",
+            "label": "case_157/lab.nii.gz",
+            "verts": "case_157/mesh.xyz"
+        }
+    ],
+    "157": [
+        {
+            "image": "case_158/img.nii.gz",
+            "label": "case_158/lab.nii.gz",
+            "verts": "case_158/mesh.xyz"
+        }
+    ],
+    "158": [
+        {
+            "image": "case_159/img.nii.gz",
+            "label": "case_159/lab.nii.gz",
+            "verts": "case_159/mesh.xyz"
+        }
+    ],
+    "159": [
+        {
+            "image": "case_160/img.nii.gz",
+            "label": "case_160/lab.nii.gz",
+            "verts": "case_160/mesh.xyz"
+        }
+    ],
+    "160": [
+        {
+            "image": "case_161/img.nii.gz",
+            "label": "case_161/lab.nii.gz",
+            "verts": "case_161/mesh.xyz"
+        }
+    ],
+    "161": [
+        {
+            "image": "case_162/img.nii.gz",
+            "label": "case_162/lab.nii.gz",
+            "verts": "case_162/mesh.xyz"
+        }
+    ],
+    "162": [
+        {
+            "image": "case_163/img.nii.gz",
+            "label": "case_163/lab.nii.gz",
+            "verts": "case_163/mesh.xyz"
+        }
+    ],
+    "163": [
+        {
+            "image": "case_164/img.nii.gz",
+            "label": "case_164/lab.nii.gz",
+            "verts": "case_164/mesh.xyz"
+        }
+    ],
+    "164": [
+        {
+            "image": "case_165/img.nii.gz",
+            "label": "case_165/lab.nii.gz",
+            "verts": "case_165/mesh.xyz"
+        }
+    ],
+    "165": [
+        {
+            "image": "case_166/img.nii.gz",
+            "label": "case_166/lab.nii.gz",
+            "verts": "case_166/mesh.xyz"
+        }
+    ],
+    "166": [
+        {
+            "image": "case_167/img.nii.gz",
+            "label": "case_167/lab.nii.gz",
+            "verts": "case_167/mesh.xyz"
+        }
+    ],
+    "167": [
+        {
+            "image": "case_168/img.nii.gz",
+            "label": "case_168/lab.nii.gz",
+            "verts": "case_168/mesh.xyz"
+        }
+    ],
+    "168": [
+        {
+            "image": "case_169/img.nii.gz",
+            "label": "case_169/lab.nii.gz",
+            "verts": "case_169/mesh.xyz"
+        }
+    ],
+    "169": [
+        {
+            "image": "case_170/img.nii.gz",
+            "label": "case_170/lab.nii.gz",
+            "verts": "case_170/mesh.xyz"
+        }
+    ],
+    "170": [
+        {
+            "image": "case_171/img.nii.gz",
+            "label": "case_171/lab.nii.gz",
+            "verts": "case_171/mesh.xyz"
+        }
+    ],
+    "171": [
+        {
+            "image": "case_172/img.nii.gz",
+            "label": "case_172/lab.nii.gz",
+            "verts": "case_172/mesh.xyz"
+        }
+    ],
+    "172": [
+        {
+            "image": "case_173/img.nii.gz",
+            "label": "case_173/lab.nii.gz",
+            "verts": "case_173/mesh.xyz"
+        }
+    ],
+    "173": [
+        {
+            "image": "case_174/img.nii.gz",
+            "label": "case_174/lab.nii.gz",
+            "verts": "case_174/mesh.xyz"
+        }
+    ],
+    "174": [
+        {
+            "image": "case_175/img.nii.gz",
+            "label": "case_175/lab.nii.gz",
+            "verts": "case_175/mesh.xyz"
+        }
+    ],
+    "175": [
+        {
+            "image": "case_176/img.nii.gz",
+            "label": "case_176/lab.nii.gz",
+            "verts": "case_176/mesh.xyz"
+        }
+    ],
+    "176": [
+        {
+            "image": "case_177/img.nii.gz",
+            "label": "case_177/lab.nii.gz",
+            "verts": "case_177/mesh.xyz"
+        }
+    ],
+    "177": [
+        {
+            "image": "case_178/img.nii.gz",
+            "label": "case_178/lab.nii.gz",
+            "verts": "case_178/mesh.xyz"
+        }
+    ],
+    "178": [
+        {
+            "image": "case_179/img.nii.gz",
+            "label": "case_179/lab.nii.gz",
+            "verts": "case_179/mesh.xyz"
+        }
+    ],
+    "179": [
+        {
+            "image": "case_180/img.nii.gz",
+            "label": "case_180/lab.nii.gz",
+            "verts": "case_180/mesh.xyz"
+        }
+    ],
+    "180": [
+        {
+            "image": "case_181/img.nii.gz",
+            "label": "case_181/lab.nii.gz",
+            "verts": "case_181/mesh.xyz"
+        }
+    ],
+    "181": [
+        {
+            "image": "case_182/img.nii.gz",
+            "label": "case_182/lab.nii.gz",
+            "verts": "case_182/mesh.xyz"
+        }
+    ],
+    "182": [
+        {
+            "image": "case_183/img.nii.gz",
+            "label": "case_183/lab.nii.gz",
+            "verts": "case_183/mesh.xyz"
+        }
+    ],
+    "183": [
+        {
+            "image": "case_184/img.nii.gz",
+            "label": "case_184/lab.nii.gz",
+            "verts": "case_184/mesh.xyz"
+        }
+    ],
+    "184": [
+        {
+            "image": "case_185/img.nii.gz",
+            "label": "case_185/lab.nii.gz",
+            "verts": "case_185/mesh.xyz"
+        }
+    ],
+    "185": [
+        {
+            "image": "case_186/img.nii.gz",
+            "label": "case_186/lab.nii.gz",
+            "verts": "case_186/mesh.xyz"
+        }
+    ],
+    "186": [
+        {
+            "image": "case_187/img.nii.gz",
+            "label": "case_187/lab.nii.gz",
+            "verts": "case_187/mesh.xyz"
+        }
+    ],
+    "187": [
+        {
+            "image": "case_188/img.nii.gz",
+            "label": "case_188/lab.nii.gz",
+            "verts": "case_188/mesh.xyz"
+        }
+    ],
+    "188": [
+        {
+            "image": "case_189/img.nii.gz",
+            "label": "case_189/lab.nii.gz",
+            "verts": "case_189/mesh.xyz"
+        }
+    ],
+    "189": [
+        {
+            "image": "case_190/img.nii.gz",
+            "label": "case_190/lab.nii.gz",
+            "verts": "case_190/mesh.xyz"
+        }
+    ],
+    "190": [
+        {
+            "image": "case_191/img.nii.gz",
+            "label": "case_191/lab.nii.gz",
+            "verts": "case_191/mesh.xyz"
+        }
+    ],
+    "191": [
+        {
+            "image": "case_192/img.nii.gz",
+            "label": "case_192/lab.nii.gz",
+            "verts": "case_192/mesh.xyz"
+        }
+    ],
+    "192": [
+        {
+            "image": "case_193/img.nii.gz",
+            "label": "case_193/lab.nii.gz",
+            "verts": "case_193/mesh.xyz"
+        }
+    ],
+    "193": [
+        {
+            "image": "case_194/img.nii.gz",
+            "label": "case_194/lab.nii.gz",
+            "verts": "case_194/mesh.xyz"
+        }
+    ],
+    "194": [
+        {
+            "image": "case_195/img.nii.gz",
+            "label": "case_195/lab.nii.gz",
+            "verts": "case_195/mesh.xyz"
+        }
+    ],
+    "195": [
+        {
+            "image": "case_196/img.nii.gz",
+            "label": "case_196/lab.nii.gz",
+            "verts": "case_196/mesh.xyz"
+        }
+    ],
+    "196": [
+        {
+            "image": "case_197/img.nii.gz",
+            "label": "case_197/lab.nii.gz",
+            "verts": "case_197/mesh.xyz"
+        }
+    ],
+    "197": [
+        {
+            "image": "case_198/img.nii.gz",
+            "label": "case_198/lab.nii.gz",
+            "verts": "case_198/mesh.xyz"
+        }
+    ],
+    "198": [
+        {
+            "image": "case_199/img.nii.gz",
+            "label": "case_199/lab.nii.gz",
+            "verts": "case_199/mesh.xyz"
+        }
+    ],
+    "199": [
+        {
+            "image": "case_200/img.nii.gz",
+            "label": "case_200/lab.nii.gz",
+            "verts": "case_200/mesh.xyz"
+        }
+    ],
+    "200": [
+        {
+            "image": "case_201/img.nii.gz",
+            "label": "case_201/lab.nii.gz",
+            "verts": "case_201/mesh.xyz"
+        }
+    ],
+    "201": [
+        {
+            "image": "case_202/img.nii.gz",
+            "label": "case_202/lab.nii.gz",
+            "verts": "case_202/mesh.xyz"
+        }
+    ],
+    "202": [
+        {
+            "image": "case_203/img.nii.gz",
+            "label": "case_203/lab.nii.gz",
+            "verts": "case_203/mesh.xyz"
+        }
+    ],
+    "203": [
+        {
+            "image": "case_204/img.nii.gz",
+            "label": "case_204/lab.nii.gz",
+            "verts": "case_204/mesh.xyz"
+        }
+    ],
+    "204": [
+        {
+            "image": "case_205/img.nii.gz",
+            "label": "case_205/lab.nii.gz",
+            "verts": "case_205/mesh.xyz"
+        }
+    ],
+    "205": [
+        {
+            "image": "case_206/img.nii.gz",
+            "label": "case_206/lab.nii.gz",
+            "verts": "case_206/mesh.xyz"
+        }
+    ],
+    "206": [
+        {
+            "image": "case_207/img.nii.gz",
+            "label": "case_207/lab.nii.gz",
+            "verts": "case_207/mesh.xyz"
+        }
+    ],
+    "207": [
+        {
+            "image": "case_208/img.nii.gz",
+            "label": "case_208/lab.nii.gz",
+            "verts": "case_208/mesh.xyz"
+        }
+    ],
+    "208": [
+        {
+            "image": "case_209/img.nii.gz",
+            "label": "case_209/lab.nii.gz",
+            "verts": "case_209/mesh.xyz"
+        }
+    ],
+    "209": [
+        {
+            "image": "case_210/img.nii.gz",
+            "label": "case_210/lab.nii.gz",
+            "verts": "case_210/mesh.xyz"
+        }
+    ],
+    "210": [
+        {
+            "image": "case_211/img.nii.gz",
+            "label": "case_211/lab.nii.gz",
+            "verts": "case_211/mesh.xyz"
+        }
+    ],
+    "211": [
+        {
+            "image": "case_212/img.nii.gz",
+            "label": "case_212/lab.nii.gz",
+            "verts": "case_212/mesh.xyz"
+        }
+    ],
+    "212": [
+        {
+            "image": "case_213/img.nii.gz",
+            "label": "case_213/lab.nii.gz",
+            "verts": "case_213/mesh.xyz"
+        }
+    ],
+    "213": [
+        {
+            "image": "case_214/img.nii.gz",
+            "label": "case_214/lab.nii.gz",
+            "verts": "case_214/mesh.xyz"
+        }
+    ],
+    "214": [
+        {
+            "image": "case_215/img.nii.gz",
+            "label": "case_215/lab.nii.gz",
+            "verts": "case_215/mesh.xyz"
+        }
+    ],
+    "215": [
+        {
+            "image": "case_216/img.nii.gz",
+            "label": "case_216/lab.nii.gz",
+            "verts": "case_216/mesh.xyz"
+        }
+    ],
+    "216": [
+        {
+            "image": "case_217/img.nii.gz",
+            "label": "case_217/lab.nii.gz",
+            "verts": "case_217/mesh.xyz"
+        }
+    ],
+    "217": [
+        {
+            "image": "case_218/img.nii.gz",
+            "label": "case_218/lab.nii.gz",
+            "verts": "case_218/mesh.xyz"
+        }
+    ],
+    "218": [
+        {
+            "image": "case_219/img.nii.gz",
+            "label": "case_219/lab.nii.gz",
+            "verts": "case_219/mesh.xyz"
+        }
+    ],
+    "219": [
+        {
+            "image": "case_220/img.nii.gz",
+            "label": "case_220/lab.nii.gz",
+            "verts": "case_220/mesh.xyz"
+        }
+    ],
+    "220": [
+        {
+            "image": "case_221/img.nii.gz",
+            "label": "case_221/lab.nii.gz",
+            "verts": "case_221/mesh.xyz"
+        }
+    ],
+    "221": [
+        {
+            "image": "case_222/img.nii.gz",
+            "label": "case_222/lab.nii.gz",
+            "verts": "case_222/mesh.xyz"
+        }
+    ],
+    "222": [
+        {
+            "image": "case_223/img.nii.gz",
+            "label": "case_223/lab.nii.gz",
+            "verts": "case_223/mesh.xyz"
+        }
+    ],
+    "223": [
+        {
+            "image": "case_224/img.nii.gz",
+            "label": "case_224/lab.nii.gz",
+            "verts": "case_224/mesh.xyz"
+        }
+    ],
+    "224": [
+        {
+            "image": "case_225/img.nii.gz",
+            "label": "case_225/lab.nii.gz",
+            "verts": "case_225/mesh.xyz"
+        }
+    ],
+    "225": [
+        {
+            "image": "case_226/img.nii.gz",
+            "label": "case_226/lab.nii.gz",
+            "verts": "case_226/mesh.xyz"
+        }
+    ],
+    "226": [
+        {
+            "image": "case_227/img.nii.gz",
+            "label": "case_227/lab.nii.gz",
+            "verts": "case_227/mesh.xyz"
+        }
+    ],
+    "227": [
+        {
+            "image": "case_228/img.nii.gz",
+            "label": "case_228/lab.nii.gz",
+            "verts": "case_228/mesh.xyz"
+        }
+    ],
+    "228": [
+        {
+            "image": "case_229/img.nii.gz",
+            "label": "case_229/lab.nii.gz",
+            "verts": "case_229/mesh.xyz"
+        }
+    ],
+    "229": [
+        {
+            "image": "case_230/img.nii.gz",
+            "label": "case_230/lab.nii.gz",
+            "verts": "case_230/mesh.xyz"
+        }
+    ],
+    "230": [
+        {
+            "image": "case_231/img.nii.gz",
+            "label": "case_231/lab.nii.gz",
+            "verts": "case_231/mesh.xyz"
+        }
+    ],
+    "231": [
+        {
+            "image": "case_232/img.nii.gz",
+            "label": "case_232/lab.nii.gz",
+            "verts": "case_232/mesh.xyz"
+        }
+    ],
+    "232": [
+        {
+            "image": "case_233/img.nii.gz",
+            "label": "case_233/lab.nii.gz",
+            "verts": "case_233/mesh.xyz"
+        }
+    ],
+    "233": [
+        {
+            "image": "case_234/img.nii.gz",
+            "label": "case_234/lab.nii.gz",
+            "verts": "case_234/mesh.xyz"
+        }
+    ],
+    "234": [
+        {
+            "image": "case_235/img.nii.gz",
+            "label": "case_235/lab.nii.gz",
+            "verts": "case_235/mesh.xyz"
+        }
+    ],
+    "235": [
+        {
+            "image": "case_236/img.nii.gz",
+            "label": "case_236/lab.nii.gz",
+            "verts": "case_236/mesh.xyz"
+        }
+    ],
+    "236": [
+        {
+            "image": "case_237/img.nii.gz",
+            "label": "case_237/lab.nii.gz",
+            "verts": "case_237/mesh.xyz"
+        }
+    ],
+    "237": [
+        {
+            "image": "case_238/img.nii.gz",
+            "label": "case_238/lab.nii.gz",
+            "verts": "case_238/mesh.xyz"
+        }
+    ],
+    "238": [
+        {
+            "image": "case_239/img.nii.gz",
+            "label": "case_239/lab.nii.gz",
+            "verts": "case_239/mesh.xyz"
+        }
+    ],
+    "239": [
+        {
+            "image": "case_240/img.nii.gz",
+            "label": "case_240/lab.nii.gz",
+            "verts": "case_240/mesh.xyz"
+        }
+    ],
+    "240": [
+        {
+            "image": "case_241/img.nii.gz",
+            "label": "case_241/lab.nii.gz",
+            "verts": "case_241/mesh.xyz"
+        }
+    ],
+    "241": [
+        {
+            "image": "case_242/img.nii.gz",
+            "label": "case_242/lab.nii.gz",
+            "verts": "case_242/mesh.xyz"
+        }
+    ],
+    "242": [
+        {
+            "image": "case_243/img.nii.gz",
+            "label": "case_243/lab.nii.gz",
+            "verts": "case_243/mesh.xyz"
+        }
+    ],
+    "243": [
+        {
+            "image": "case_244/img.nii.gz",
+            "label": "case_244/lab.nii.gz",
+            "verts": "case_244/mesh.xyz"
+        }
+    ],
+    "244": [
+        {
+            "image": "case_245/img.nii.gz",
+            "label": "case_245/lab.nii.gz",
+            "verts": "case_245/mesh.xyz"
+        }
+    ],
+    "245": [
+        {
+            "image": "case_246/img.nii.gz",
+            "label": "case_246/lab.nii.gz",
+            "verts": "case_246/mesh.xyz"
+        }
+    ],
+    "246": [
+        {
+            "image": "case_247/img.nii.gz",
+            "label": "case_247/lab.nii.gz",
+            "verts": "case_247/mesh.xyz"
+        }
+    ],
+    "247": [
+        {
+            "image": "case_248/img.nii.gz",
+            "label": "case_248/lab.nii.gz",
+            "verts": "case_248/mesh.xyz"
+        }
+    ],
+    "248": [
+        {
+            "image": "case_249/img.nii.gz",
+            "label": "case_249/lab.nii.gz",
+            "verts": "case_249/mesh.xyz"
+        }
+    ],
+    "249": [
+        {
+            "image": "case_250/img.nii.gz",
+            "label": "case_250/lab.nii.gz",
+            "verts": "case_250/mesh.xyz"
+        }
+    ],
+    "250": [
+        {
+            "image": "case_251/img.nii.gz",
+            "label": "case_251/lab.nii.gz",
+            "verts": "case_251/mesh.xyz"
+        }
+    ],
+    "251": [
+        {
+            "image": "case_252/img.nii.gz",
+            "label": "case_252/lab.nii.gz",
+            "verts": "case_252/mesh.xyz"
+        }
+    ],
+    "252": [
+        {
+            "image": "case_253/img.nii.gz",
+            "label": "case_253/lab.nii.gz",
+            "verts": "case_253/mesh.xyz"
+        }
+    ],
+    "253": [
+        {
+            "image": "case_254/img.nii.gz",
+            "label": "case_254/lab.nii.gz",
+            "verts": "case_254/mesh.xyz"
+        }
+    ],
+    "254": [
+        {
+            "image": "case_255/img.nii.gz",
+            "label": "case_255/lab.nii.gz",
+            "verts": "case_255/mesh.xyz"
+        }
+    ],
+    "255": [
+        {
+            "image": "case_256/img.nii.gz",
+            "label": "case_256/lab.nii.gz",
+            "verts": "case_256/mesh.xyz"
+        }
+    ],
+    "256": [
+        {
+            "image": "case_257/img.nii.gz",
+            "label": "case_257/lab.nii.gz",
+            "verts": "case_257/mesh.xyz"
+        }
+    ],
+    "257": [
+        {
+            "image": "case_258/img.nii.gz",
+            "label": "case_258/lab.nii.gz",
+            "verts": "case_258/mesh.xyz"
+        }
+    ],
+    "258": [
+        {
+            "image": "case_259/img.nii.gz",
+            "label": "case_259/lab.nii.gz",
+            "verts": "case_259/mesh.xyz"
+        }
+    ],
+    "259": [
+        {
+            "image": "case_260/img.nii.gz",
+            "label": "case_260/lab.nii.gz",
+            "verts": "case_260/mesh.xyz"
+        }
+    ],
+    "260": [
+        {
+            "image": "case_261/img.nii.gz",
+            "label": "case_261/lab.nii.gz",
+            "verts": "case_261/mesh.xyz"
+        }
+    ],
+    "261": [
+        {
+            "image": "case_262/img.nii.gz",
+            "label": "case_262/lab.nii.gz",
+            "verts": "case_262/mesh.xyz"
+        }
+    ],
+    "262": [
+        {
+            "image": "case_263/img.nii.gz",
+            "label": "case_263/lab.nii.gz",
+            "verts": "case_263/mesh.xyz"
+        }
+    ],
+    "263": [
+        {
+            "image": "case_264/img.nii.gz",
+            "label": "case_264/lab.nii.gz",
+            "verts": "case_264/mesh.xyz"
+        }
+    ],
+    "264": [
+        {
+            "image": "case_265/img.nii.gz",
+            "label": "case_265/lab.nii.gz",
+            "verts": "case_265/mesh.xyz"
+        }
+    ],
+    "265": [
+        {
+            "image": "case_266/img.nii.gz",
+            "label": "case_266/lab.nii.gz",
+            "verts": "case_266/mesh.xyz"
+        }
+    ],
+    "266": [
+        {
+            "image": "case_267/img.nii.gz",
+            "label": "case_267/lab.nii.gz",
+            "verts": "case_267/mesh.xyz"
+        }
+    ],
+    "267": [
+        {
+            "image": "case_268/img.nii.gz",
+            "label": "case_268/lab.nii.gz",
+            "verts": "case_268/mesh.xyz"
+        }
+    ],
+    "268": [
+        {
+            "image": "case_269/img.nii.gz",
+            "label": "case_269/lab.nii.gz",
+            "verts": "case_269/mesh.xyz"
+        }
+    ],
+    "269": [
+        {
+            "image": "case_270/img.nii.gz",
+            "label": "case_270/lab.nii.gz",
+            "verts": "case_270/mesh.xyz"
+        }
+    ],
+    "270": [
+        {
+            "image": "case_271/img.nii.gz",
+            "label": "case_271/lab.nii.gz",
+            "verts": "case_271/mesh.xyz"
+        }
+    ],
+    "271": [
+        {
+            "image": "case_272/img.nii.gz",
+            "label": "case_272/lab.nii.gz",
+            "verts": "case_272/mesh.xyz"
+        }
+    ],
+    "272": [
+        {
+            "image": "case_273/img.nii.gz",
+            "label": "case_273/lab.nii.gz",
+            "verts": "case_273/mesh.xyz"
+        }
+    ],
+    "273": [
+        {
+            "image": "case_274/img.nii.gz",
+            "label": "case_274/lab.nii.gz",
+            "verts": "case_274/mesh.xyz"
+        }
+    ],
+    "274": [
+        {
+            "image": "case_275/img.nii.gz",
+            "label": "case_275/lab.nii.gz",
+            "verts": "case_275/mesh.xyz"
+        }
+    ],
+    "275": [
+        {
+            "image": "case_276/img.nii.gz",
+            "label": "case_276/lab.nii.gz",
+            "verts": "case_276/mesh.xyz"
+        }
+    ],
+    "276": [
+        {
+            "image": "case_277/img.nii.gz",
+            "label": "case_277/lab.nii.gz",
+            "verts": "case_277/mesh.xyz"
+        }
+    ],
+    "277": [
+        {
+            "image": "case_278/img.nii.gz",
+            "label": "case_278/lab.nii.gz",
+            "verts": "case_278/mesh.xyz"
+        }
+    ],
+    "278": [
+        {
+            "image": "case_279/img.nii.gz",
+            "label": "case_279/lab.nii.gz",
+            "verts": "case_279/mesh.xyz"
+        }
+    ],
+    "279": [
+        {
+            "image": "case_280/img.nii.gz",
+            "label": "case_280/lab.nii.gz",
+            "verts": "case_280/mesh.xyz"
+        }
+    ],
+    "280": [
+        {
+            "image": "case_281/img.nii.gz",
+            "label": "case_281/lab.nii.gz",
+            "verts": "case_281/mesh.xyz"
+        }
+    ],
+    "281": [
+        {
+            "image": "case_282/img.nii.gz",
+            "label": "case_282/lab.nii.gz",
+            "verts": "case_282/mesh.xyz"
+        }
+    ],
+    "282": [
+        {
+            "image": "case_283/img.nii.gz",
+            "label": "case_283/lab.nii.gz",
+            "verts": "case_283/mesh.xyz"
+        }
+    ],
+    "283": [
+        {
+            "image": "case_284/img.nii.gz",
+            "label": "case_284/lab.nii.gz",
+            "verts": "case_284/mesh.xyz"
+        }
+    ],
+    "284": [
+        {
+            "image": "case_285/img.nii.gz",
+            "label": "case_285/lab.nii.gz",
+            "verts": "case_285/mesh.xyz"
+        }
+    ],
+    "285": [
+        {
+            "image": "case_286/img.nii.gz",
+            "label": "case_286/lab.nii.gz",
+            "verts": "case_286/mesh.xyz"
+        }
+    ],
+    "286": [
+        {
+            "image": "case_287/img.nii.gz",
+            "label": "case_287/lab.nii.gz",
+            "verts": "case_287/mesh.xyz"
+        }
+    ],
+    "287": [
+        {
+            "image": "case_288/img.nii.gz",
+            "label": "case_288/lab.nii.gz",
+            "verts": "case_288/mesh.xyz"
+        }
+    ],
+    "288": [
+        {
+            "image": "case_289/img.nii.gz",
+            "label": "case_289/lab.nii.gz",
+            "verts": "case_289/mesh.xyz"
+        }
+    ],
+    "289": [
+        {
+            "image": "case_290/img.nii.gz",
+            "label": "case_290/lab.nii.gz",
+            "verts": "case_290/mesh.xyz"
+        }
+    ],
+    "290": [
+        {
+            "image": "case_291/img.nii.gz",
+            "label": "case_291/lab.nii.gz",
+            "verts": "case_291/mesh.xyz"
+        }
+    ],
+    "291": [
+        {
+            "image": "case_292/img.nii.gz",
+            "label": "case_292/lab.nii.gz",
+            "verts": "case_292/mesh.xyz"
+        }
+    ],
+    "292": [
+        {
+            "image": "case_293/img.nii.gz",
+            "label": "case_293/lab.nii.gz",
+            "verts": "case_293/mesh.xyz"
+        }
+    ],
+    "293": [
+        {
+            "image": "case_294/img.nii.gz",
+            "label": "case_294/lab.nii.gz",
+            "verts": "case_294/mesh.xyz"
+        }
+    ],
+    "294": [
+        {
+            "image": "case_295/img.nii.gz",
+            "label": "case_295/lab.nii.gz",
+            "verts": "case_295/mesh.xyz"
+        }
+    ],
+    "295": [
+        {
+            "image": "case_296/img.nii.gz",
+            "label": "case_296/lab.nii.gz",
+            "verts": "case_296/mesh.xyz"
+        }
+    ],
+    "296": [
+        {
+            "image": "case_297/img.nii.gz",
+            "label": "case_297/lab.nii.gz",
+            "verts": "case_297/mesh.xyz"
+        }
+    ],
+    "297": [
+        {
+            "image": "case_298/img.nii.gz",
+            "label": "case_298/lab.nii.gz",
+            "verts": "case_298/mesh.xyz"
+        }
+    ],
+    "298": [
+        {
+            "image": "case_299/img.nii.gz",
+            "label": "case_299/lab.nii.gz",
+            "verts": "case_299/mesh.xyz"
+        }
+    ],
+    "299": [
+        {
+            "image": "case_300/img.nii.gz",
+            "label": "case_300/lab.nii.gz",
+            "verts": "case_300/mesh.xyz"
+        }
+    ],
+    "300": [
+        {
+            "image": "case_301/img.nii.gz",
+            "label": "case_301/lab.nii.gz",
+            "verts": "case_301/mesh.xyz"
+        }
+    ],
+    "301": [
+        {
+            "image": "case_302/img.nii.gz",
+            "label": "case_302/lab.nii.gz",
+            "verts": "case_302/mesh.xyz"
+        }
+    ],
+    "302": [
+        {
+            "image": "case_303/img.nii.gz",
+            "label": "case_303/lab.nii.gz",
+            "verts": "case_303/mesh.xyz"
+        }
+    ],
+    "303": [
+        {
+            "image": "case_304/img.nii.gz",
+            "label": "case_304/lab.nii.gz",
+            "verts": "case_304/mesh.xyz"
+        }
+    ],
+    "304": [
+        {
+            "image": "case_305/img.nii.gz",
+            "label": "case_305/lab.nii.gz",
+            "verts": "case_305/mesh.xyz"
+        }
+    ],
+    "305": [
+        {
+            "image": "case_306/img.nii.gz",
+            "label": "case_306/lab.nii.gz",
+            "verts": "case_306/mesh.xyz"
+        }
+    ],
+    "306": [
+        {
+            "image": "case_307/img.nii.gz",
+            "label": "case_307/lab.nii.gz",
+            "verts": "case_307/mesh.xyz"
+        }
+    ],
+    "307": [
+        {
+            "image": "case_308/img.nii.gz",
+            "label": "case_308/lab.nii.gz",
+            "verts": "case_308/mesh.xyz"
+        }
+    ],
+    "308": [
+        {
+            "image": "case_309/img.nii.gz",
+            "label": "case_309/lab.nii.gz",
+            "verts": "case_309/mesh.xyz"
+        }
+    ],
+    "309": [
+        {
+            "image": "case_310/img.nii.gz",
+            "label": "case_310/lab.nii.gz",
+            "verts": "case_310/mesh.xyz"
+        }
+    ],
+    "310": [
+        {
+            "image": "case_311/img.nii.gz",
+            "label": "case_311/lab.nii.gz",
+            "verts": "case_311/mesh.xyz"
+        }
+    ],
+    "311": [
+        {
+            "image": "case_312/img.nii.gz",
+            "label": "case_312/lab.nii.gz",
+            "verts": "case_312/mesh.xyz"
+        }
+    ],
+    "312": [
+        {
+            "image": "case_313/img.nii.gz",
+            "label": "case_313/lab.nii.gz",
+            "verts": "case_313/mesh.xyz"
+        }
+    ],
+    "313": [
+        {
+            "image": "case_314/img.nii.gz",
+            "label": "case_314/lab.nii.gz",
+            "verts": "case_314/mesh.xyz"
+        }
+    ],
+    "314": [
+        {
+            "image": "case_315/img.nii.gz",
+            "label": "case_315/lab.nii.gz",
+            "verts": "case_315/mesh.xyz"
+        }
+    ],
+    "315": [
+        {
+            "image": "case_316/img.nii.gz",
+            "label": "case_316/lab.nii.gz",
+            "verts": "case_316/mesh.xyz"
+        }
+    ],
+    "316": [
+        {
+            "image": "case_317/img.nii.gz",
+            "label": "case_317/lab.nii.gz",
+            "verts": "case_317/mesh.xyz"
+        }
+    ],
+    "317": [
+        {
+            "image": "case_318/img.nii.gz",
+            "label": "case_318/lab.nii.gz",
+            "verts": "case_318/mesh.xyz"
+        }
+    ],
+    "318": [
+        {
+            "image": "case_319/img.nii.gz",
+            "label": "case_319/lab.nii.gz",
+            "verts": "case_319/mesh.xyz"
+        }
+    ],
+    "319": [
+        {
+            "image": "case_320/img.nii.gz",
+            "label": "case_320/lab.nii.gz",
+            "verts": "case_320/mesh.xyz"
+        }
+    ],
+    "320": [
+        {
+            "image": "case_321/img.nii.gz",
+            "label": "case_321/lab.nii.gz",
+            "verts": "case_321/mesh.xyz"
+        }
+    ],
+    "321": [
+        {
+            "image": "case_322/img.nii.gz",
+            "label": "case_322/lab.nii.gz",
+            "verts": "case_322/mesh.xyz"
+        }
+    ],
+    "322": [
+        {
+            "image": "case_323/img.nii.gz",
+            "label": "case_323/lab.nii.gz",
+            "verts": "case_323/mesh.xyz"
+        }
+    ],
+    "323": [
+        {
+            "image": "case_324/img.nii.gz",
+            "label": "case_324/lab.nii.gz",
+            "verts": "case_324/mesh.xyz"
+        }
+    ],
+    "324": [
+        {
+            "image": "case_325/img.nii.gz",
+            "label": "case_325/lab.nii.gz",
+            "verts": "case_325/mesh.xyz"
+        }
+    ],
+    "325": [
+        {
+            "image": "case_326/img.nii.gz",
+            "label": "case_326/lab.nii.gz",
+            "verts": "case_326/mesh.xyz"
+        }
+    ],
+    "326": [
+        {
+            "image": "case_327/img.nii.gz",
+            "label": "case_327/lab.nii.gz",
+            "verts": "case_327/mesh.xyz"
+        }
+    ],
+    "327": [
+        {
+            "image": "case_328/img.nii.gz",
+            "label": "case_328/lab.nii.gz",
+            "verts": "case_328/mesh.xyz"
+        }
+    ],
+    "328": [
+        {
+            "image": "case_329/img.nii.gz",
+            "label": "case_329/lab.nii.gz",
+            "verts": "case_329/mesh.xyz"
+        }
+    ],
+    "329": [
+        {
+            "image": "case_330/img.nii.gz",
+            "label": "case_330/lab.nii.gz",
+            "verts": "case_330/mesh.xyz"
+        }
+    ],
+    "330": [
+        {
+            "image": "case_331/img.nii.gz",
+            "label": "case_331/lab.nii.gz",
+            "verts": "case_331/mesh.xyz"
+        }
+    ],
+    "331": [
+        {
+            "image": "case_332/img.nii.gz",
+            "label": "case_332/lab.nii.gz",
+            "verts": "case_332/mesh.xyz"
+        }
+    ],
+    "332": [
+        {
+            "image": "case_333/img.nii.gz",
+            "label": "case_333/lab.nii.gz",
+            "verts": "case_333/mesh.xyz"
+        }
+    ],
+    "333": [
+        {
+            "image": "case_334/img.nii.gz",
+            "label": "case_334/lab.nii.gz",
+            "verts": "case_334/mesh.xyz"
+        }
+    ],
+    "334": [
+        {
+            "image": "case_335/img.nii.gz",
+            "label": "case_335/lab.nii.gz",
+            "verts": "case_335/mesh.xyz"
+        }
+    ],
+    "335": [
+        {
+            "image": "case_336/img.nii.gz",
+            "label": "case_336/lab.nii.gz",
+            "verts": "case_336/mesh.xyz"
+        }
+    ],
+    "336": [
+        {
+            "image": "case_337/img.nii.gz",
+            "label": "case_337/lab.nii.gz",
+            "verts": "case_337/mesh.xyz"
+        }
+    ],
+    "337": [
+        {
+            "image": "case_338/img.nii.gz",
+            "label": "case_338/lab.nii.gz",
+            "verts": "case_338/mesh.xyz"
+        }
+    ],
+    "338": [
+        {
+            "image": "case_339/img.nii.gz",
+            "label": "case_339/lab.nii.gz",
+            "verts": "case_339/mesh.xyz"
+        }
+    ],
+    "339": [
+        {
+            "image": "case_340/img.nii.gz",
+            "label": "case_340/lab.nii.gz",
+            "verts": "case_340/mesh.xyz"
+        }
+    ],
+    "340": [
+        {
+            "image": "case_341/img.nii.gz",
+            "label": "case_341/lab.nii.gz",
+            "verts": "case_341/mesh.xyz"
+        }
+    ],
+    "341": [
+        {
+            "image": "case_342/img.nii.gz",
+            "label": "case_342/lab.nii.gz",
+            "verts": "case_342/mesh.xyz"
+        }
+    ],
+    "342": [
+        {
+            "image": "case_343/img.nii.gz",
+            "label": "case_343/lab.nii.gz",
+            "verts": "case_343/mesh.xyz"
+        }
+    ],
+    "343": [
+        {
+            "image": "case_344/img.nii.gz",
+            "label": "case_344/lab.nii.gz",
+            "verts": "case_344/mesh.xyz"
+        }
+    ],
+    "344": [
+        {
+            "image": "case_345/img.nii.gz",
+            "label": "case_345/lab.nii.gz",
+            "verts": "case_345/mesh.xyz"
+        }
+    ],
+    "345": [
+        {
+            "image": "case_346/img.nii.gz",
+            "label": "case_346/lab.nii.gz",
+            "verts": "case_346/mesh.xyz"
+        }
+    ],
+    "346": [
+        {
+            "image": "case_347/img.nii.gz",
+            "label": "case_347/lab.nii.gz",
+            "verts": "case_347/mesh.xyz"
+        }
+    ],
+    "347": [
+        {
+            "image": "case_348/img.nii.gz",
+            "label": "case_348/lab.nii.gz",
+            "verts": "case_348/mesh.xyz"
+        }
+    ],
+    "348": [
+        {
+            "image": "case_349/img.nii.gz",
+            "label": "case_349/lab.nii.gz",
+            "verts": "case_349/mesh.xyz"
+        }
+    ],
+    "349": [
+        {
+            "image": "case_350/img.nii.gz",
+            "label": "case_350/lab.nii.gz",
+            "verts": "case_350/mesh.xyz"
+        }
+    ],
+    "350": [
+        {
+            "image": "case_351/img.nii.gz",
+            "label": "case_351/lab.nii.gz",
+            "verts": "case_351/mesh.xyz"
+        }
+    ],
+    "351": [
+        {
+            "image": "case_352/img.nii.gz",
+            "label": "case_352/lab.nii.gz",
+            "verts": "case_352/mesh.xyz"
+        }
+    ],
+    "352": [
+        {
+            "image": "case_353/img.nii.gz",
+            "label": "case_353/lab.nii.gz",
+            "verts": "case_353/mesh.xyz"
+        }
+    ],
+    "353": [
+        {
+            "image": "case_354/img.nii.gz",
+            "label": "case_354/lab.nii.gz",
+            "verts": "case_354/mesh.xyz"
+        }
+    ],
+    "354": [
+        {
+            "image": "case_355/img.nii.gz",
+            "label": "case_355/lab.nii.gz",
+            "verts": "case_355/mesh.xyz"
+        }
+    ],
+    "355": [
+        {
+            "image": "case_356/img.nii.gz",
+            "label": "case_356/lab.nii.gz",
+            "verts": "case_356/mesh.xyz"
+        }
+    ],
+    "356": [
+        {
+            "image": "case_357/img.nii.gz",
+            "label": "case_357/lab.nii.gz",
+            "verts": "case_357/mesh.xyz"
+        }
+    ],
+    "357": [
+        {
+            "image": "case_358/img.nii.gz",
+            "label": "case_358/lab.nii.gz",
+            "verts": "case_358/mesh.xyz"
+        }
+    ],
+    "358": [
+        {
+            "image": "case_359/img.nii.gz",
+            "label": "case_359/lab.nii.gz",
+            "verts": "case_359/mesh.xyz"
+        }
+    ],
+    "359": [
+        {
+            "image": "case_360/img.nii.gz",
+            "label": "case_360/lab.nii.gz",
+            "verts": "case_360/mesh.xyz"
+        }
+    ],
+    "360": [
+        {
+            "image": "case_361/img.nii.gz",
+            "label": "case_361/lab.nii.gz",
+            "verts": "case_361/mesh.xyz"
+        }
+    ],
+    "361": [
+        {
+            "image": "case_362/img.nii.gz",
+            "label": "case_362/lab.nii.gz",
+            "verts": "case_362/mesh.xyz"
+        }
+    ],
+    "362": [
+        {
+            "image": "case_363/img.nii.gz",
+            "label": "case_363/lab.nii.gz",
+            "verts": "case_363/mesh.xyz"
+        }
+    ],
+    "363": [
+        {
+            "image": "case_364/img.nii.gz",
+            "label": "case_364/lab.nii.gz",
+            "verts": "case_364/mesh.xyz"
+        }
+    ],
+    "364": [
+        {
+            "image": "case_365/img.nii.gz",
+            "label": "case_365/lab.nii.gz",
+            "verts": "case_365/mesh.xyz"
+        }
+    ],
+    "365": [
+        {
+            "image": "case_366/img.nii.gz",
+            "label": "case_366/lab.nii.gz",
+            "verts": "case_366/mesh.xyz"
+        }
+    ],
+    "366": [
+        {
+            "image": "case_367/img.nii.gz",
+            "label": "case_367/lab.nii.gz",
+            "verts": "case_367/mesh.xyz"
+        }
+    ],
+    "367": [
+        {
+            "image": "case_368/img.nii.gz",
+            "label": "case_368/lab.nii.gz",
+            "verts": "case_368/mesh.xyz"
+        }
+    ],
+    "368": [
+        {
+            "image": "case_369/img.nii.gz",
+            "label": "case_369/lab.nii.gz",
+            "verts": "case_369/mesh.xyz"
+        }
+    ],
+    "369": [
+        {
+            "image": "case_370/img.nii.gz",
+            "label": "case_370/lab.nii.gz",
+            "verts": "case_370/mesh.xyz"
+        }
+    ],
+    "370": [
+        {
+            "image": "case_371/img.nii.gz",
+            "label": "case_371/lab.nii.gz",
+            "verts": "case_371/mesh.xyz"
+        }
+    ],
+    "371": [
+        {
+            "image": "case_372/img.nii.gz",
+            "label": "case_372/lab.nii.gz",
+            "verts": "case_372/mesh.xyz"
+        }
+    ],
+    "372": [
+        {
+            "image": "case_373/img.nii.gz",
+            "label": "case_373/lab.nii.gz",
+            "verts": "case_373/mesh.xyz"
+        }
+    ],
+    "373": [
+        {
+            "image": "case_374/img.nii.gz",
+            "label": "case_374/lab.nii.gz",
+            "verts": "case_374/mesh.xyz"
+        }
+    ],
+    "374": [
+        {
+            "image": "case_375/img.nii.gz",
+            "label": "case_375/lab.nii.gz",
+            "verts": "case_375/mesh.xyz"
+        }
+    ],
+    "375": [
+        {
+            "image": "case_376/img.nii.gz",
+            "label": "case_376/lab.nii.gz",
+            "verts": "case_376/mesh.xyz"
+        }
+    ],
+    "376": [
+        {
+            "image": "case_377/img.nii.gz",
+            "label": "case_377/lab.nii.gz",
+            "verts": "case_377/mesh.xyz"
+        }
+    ],
+    "377": [
+        {
+            "image": "case_378/img.nii.gz",
+            "label": "case_378/lab.nii.gz",
+            "verts": "case_378/mesh.xyz"
+        }
+    ],
+    "378": [
+        {
+            "image": "case_379/img.nii.gz",
+            "label": "case_379/lab.nii.gz",
+            "verts": "case_379/mesh.xyz"
+        }
+    ],
+    "379": [
+        {
+            "image": "case_380/img.nii.gz",
+            "label": "case_380/lab.nii.gz",
+            "verts": "case_380/mesh.xyz"
+        }
+    ],
+    "380": [
+        {
+            "image": "case_381/img.nii.gz",
+            "label": "case_381/lab.nii.gz",
+            "verts": "case_381/mesh.xyz"
+        }
+    ],
+    "381": [
+        {
+            "image": "case_382/img.nii.gz",
+            "label": "case_382/lab.nii.gz",
+            "verts": "case_382/mesh.xyz"
+        }
+    ],
+    "382": [
+        {
+            "image": "case_383/img.nii.gz",
+            "label": "case_383/lab.nii.gz",
+            "verts": "case_383/mesh.xyz"
+        }
+    ],
+    "383": [
+        {
+            "image": "case_384/img.nii.gz",
+            "label": "case_384/lab.nii.gz",
+            "verts": "case_384/mesh.xyz"
+        }
+    ],
+    "384": [
+        {
+            "image": "case_385/img.nii.gz",
+            "label": "case_385/lab.nii.gz",
+            "verts": "case_385/mesh.xyz"
+        }
+    ],
+    "385": [
+        {
+            "image": "case_386/img.nii.gz",
+            "label": "case_386/lab.nii.gz",
+            "verts": "case_386/mesh.xyz"
+        }
+    ],
+    "386": [
+        {
+            "image": "case_387/img.nii.gz",
+            "label": "case_387/lab.nii.gz",
+            "verts": "case_387/mesh.xyz"
+        }
+    ],
+    "387": [
+        {
+            "image": "case_388/img.nii.gz",
+            "label": "case_388/lab.nii.gz",
+            "verts": "case_388/mesh.xyz"
+        }
+    ],
+    "388": [
+        {
+            "image": "case_389/img.nii.gz",
+            "label": "case_389/lab.nii.gz",
+            "verts": "case_389/mesh.xyz"
+        }
+    ],
+    "389": [
+        {
+            "image": "case_390/img.nii.gz",
+            "label": "case_390/lab.nii.gz",
+            "verts": "case_390/mesh.xyz"
+        }
+    ],
+    "390": [
+        {
+            "image": "case_391/img.nii.gz",
+            "label": "case_391/lab.nii.gz",
+            "verts": "case_391/mesh.xyz"
+        }
+    ],
+    "391": [
+        {
+            "image": "case_392/img.nii.gz",
+            "label": "case_392/lab.nii.gz",
+            "verts": "case_392/mesh.xyz"
+        }
+    ],
+    "392": [
+        {
+            "image": "case_393/img.nii.gz",
+            "label": "case_393/lab.nii.gz",
+            "verts": "case_393/mesh.xyz"
+        }
+    ],
+    "393": [
+        {
+            "image": "case_394/img.nii.gz",
+            "label": "case_394/lab.nii.gz",
+            "verts": "case_394/mesh.xyz"
+        }
+    ],
+    "394": [
+        {
+            "image": "case_395/img.nii.gz",
+            "label": "case_395/lab.nii.gz",
+            "verts": "case_395/mesh.xyz"
+        }
+    ],
+    "395": [
+        {
+            "image": "case_396/img.nii.gz",
+            "label": "case_396/lab.nii.gz",
+            "verts": "case_396/mesh.xyz"
+        }
+    ],
+    "396": [
+        {
+            "image": "case_397/img.nii.gz",
+            "label": "case_397/lab.nii.gz",
+            "verts": "case_397/mesh.xyz"
+        }
+    ],
+    "397": [
+        {
+            "image": "case_398/img.nii.gz",
+            "label": "case_398/lab.nii.gz",
+            "verts": "case_398/mesh.xyz"
+        }
+    ],
+    "398": [
+        {
+            "image": "case_399/img.nii.gz",
+            "label": "case_399/lab.nii.gz",
+            "verts": "case_399/mesh.xyz"
+        }
+    ],
+    "399": [
+        {
+            "image": "case_400/img.nii.gz",
+            "label": "case_400/lab.nii.gz",
+            "verts": "case_400/mesh.xyz"
+        }
+    ],
+    "400": [
+        {
+            "image": "case_401/img.nii.gz",
+            "label": "case_401/lab.nii.gz",
+            "verts": "case_401/mesh.xyz"
+        }
+    ],
+    "401": [
+        {
+            "image": "case_402/img.nii.gz",
+            "label": "case_402/lab.nii.gz",
+            "verts": "case_402/mesh.xyz"
+        }
+    ],
+    "402": [
+        {
+            "image": "case_403/img.nii.gz",
+            "label": "case_403/lab.nii.gz",
+            "verts": "case_403/mesh.xyz"
+        }
+    ],
+    "403": [
+        {
+            "image": "case_404/img.nii.gz",
+            "label": "case_404/lab.nii.gz",
+            "verts": "case_404/mesh.xyz"
+        }
+    ],
+    "404": [
+        {
+            "image": "case_405/img.nii.gz",
+            "label": "case_405/lab.nii.gz",
+            "verts": "case_405/mesh.xyz"
+        }
+    ],
+    "405": [
+        {
+            "image": "case_406/img.nii.gz",
+            "label": "case_406/lab.nii.gz",
+            "verts": "case_406/mesh.xyz"
+        }
+    ],
+    "406": [
+        {
+            "image": "case_407/img.nii.gz",
+            "label": "case_407/lab.nii.gz",
+            "verts": "case_407/mesh.xyz"
+        }
+    ],
+    "407": [
+        {
+            "image": "case_408/img.nii.gz",
+            "label": "case_408/lab.nii.gz",
+            "verts": "case_408/mesh.xyz"
+        }
+    ],
+    "408": [
+        {
+            "image": "case_409/img.nii.gz",
+            "label": "case_409/lab.nii.gz",
+            "verts": "case_409/mesh.xyz"
+        }
+    ],
+    "409": [
+        {
+            "image": "case_410/img.nii.gz",
+            "label": "case_410/lab.nii.gz",
+            "verts": "case_410/mesh.xyz"
+        }
+    ],
+    "410": [
+        {
+            "image": "case_411/img.nii.gz",
+            "label": "case_411/lab.nii.gz",
+            "verts": "case_411/mesh.xyz"
+        }
+    ],
+    "411": [
+        {
+            "image": "case_412/img.nii.gz",
+            "label": "case_412/lab.nii.gz",
+            "verts": "case_412/mesh.xyz"
+        }
+    ],
+    "412": [
+        {
+            "image": "case_413/img.nii.gz",
+            "label": "case_413/lab.nii.gz",
+            "verts": "case_413/mesh.xyz"
+        }
+    ],
+    "413": [
+        {
+            "image": "case_414/img.nii.gz",
+            "label": "case_414/lab.nii.gz",
+            "verts": "case_414/mesh.xyz"
+        }
+    ],
+    "414": [
+        {
+            "image": "case_415/img.nii.gz",
+            "label": "case_415/lab.nii.gz",
+            "verts": "case_415/mesh.xyz"
+        }
+    ],
+    "415": [
+        {
+            "image": "case_416/img.nii.gz",
+            "label": "case_416/lab.nii.gz",
+            "verts": "case_416/mesh.xyz"
+        }
+    ],
+    "416": [
+        {
+            "image": "case_417/img.nii.gz",
+            "label": "case_417/lab.nii.gz",
+            "verts": "case_417/mesh.xyz"
+        }
+    ],
+    "417": [
+        {
+            "image": "case_418/img.nii.gz",
+            "label": "case_418/lab.nii.gz",
+            "verts": "case_418/mesh.xyz"
+        }
+    ],
+    "418": [
+        {
+            "image": "case_419/img.nii.gz",
+            "label": "case_419/lab.nii.gz",
+            "verts": "case_419/mesh.xyz"
+        }
+    ],
+    "419": [
+        {
+            "image": "case_420/img.nii.gz",
+            "label": "case_420/lab.nii.gz",
+            "verts": "case_420/mesh.xyz"
+        }
+    ],
+    "420": [
+        {
+            "image": "case_421/img.nii.gz",
+            "label": "case_421/lab.nii.gz",
+            "verts": "case_421/mesh.xyz"
+        }
+    ],
+    "421": [
+        {
+            "image": "case_422/img.nii.gz",
+            "label": "case_422/lab.nii.gz",
+            "verts": "case_422/mesh.xyz"
+        }
+    ],
+    "422": [
+        {
+            "image": "case_423/img.nii.gz",
+            "label": "case_423/lab.nii.gz",
+            "verts": "case_423/mesh.xyz"
+        }
+    ],
+    "423": [
+        {
+            "image": "case_424/img.nii.gz",
+            "label": "case_424/lab.nii.gz",
+            "verts": "case_424/mesh.xyz"
+        }
+    ],
+    "424": [
+        {
+            "image": "case_425/img.nii.gz",
+            "label": "case_425/lab.nii.gz",
+            "verts": "case_425/mesh.xyz"
+        }
+    ],
+    "425": [
+        {
+            "image": "case_426/img.nii.gz",
+            "label": "case_426/lab.nii.gz",
+            "verts": "case_426/mesh.xyz"
+        }
+    ],
+    "426": [
+        {
+            "image": "case_427/img.nii.gz",
+            "label": "case_427/lab.nii.gz",
+            "verts": "case_427/mesh.xyz"
+        }
+    ],
+    "427": [
+        {
+            "image": "case_428/img.nii.gz",
+            "label": "case_428/lab.nii.gz",
+            "verts": "case_428/mesh.xyz"
+        }
+    ],
+    "428": [
+        {
+            "image": "case_429/img.nii.gz",
+            "label": "case_429/lab.nii.gz",
+            "verts": "case_429/mesh.xyz"
+        }
+    ],
+    "429": [
+        {
+            "image": "case_430/img.nii.gz",
+            "label": "case_430/lab.nii.gz",
+            "verts": "case_430/mesh.xyz"
+        }
+    ],
+    "430": [
+        {
+            "image": "case_431/img.nii.gz",
+            "label": "case_431/lab.nii.gz",
+            "verts": "case_431/mesh.xyz"
+        }
+    ],
+    "431": [
+        {
+            "image": "case_432/img.nii.gz",
+            "label": "case_432/lab.nii.gz",
+            "verts": "case_432/mesh.xyz"
+        }
+    ],
+    "432": [
+        {
+            "image": "case_433/img.nii.gz",
+            "label": "case_433/lab.nii.gz",
+            "verts": "case_433/mesh.xyz"
+        }
+    ],
+    "433": [
+        {
+            "image": "case_434/img.nii.gz",
+            "label": "case_434/lab.nii.gz",
+            "verts": "case_434/mesh.xyz"
+        }
+    ],
+    "434": [
+        {
+            "image": "case_435/img.nii.gz",
+            "label": "case_435/lab.nii.gz",
+            "verts": "case_435/mesh.xyz"
+        }
+    ],
+    "435": [
+        {
+            "image": "case_436/img.nii.gz",
+            "label": "case_436/lab.nii.gz",
+            "verts": "case_436/mesh.xyz"
+        }
+    ],
+    "436": [
+        {
+            "image": "case_437/img.nii.gz",
+            "label": "case_437/lab.nii.gz",
+            "verts": "case_437/mesh.xyz"
+        }
+    ],
+    "437": [
+        {
+            "image": "case_438/img.nii.gz",
+            "label": "case_438/lab.nii.gz",
+            "verts": "case_438/mesh.xyz"
+        }
+    ],
+    "438": [
+        {
+            "image": "case_439/img.nii.gz",
+            "label": "case_439/lab.nii.gz",
+            "verts": "case_439/mesh.xyz"
+        }
+    ],
+    "439": [
+        {
+            "image": "case_440/img.nii.gz",
+            "label": "case_440/lab.nii.gz",
+            "verts": "case_440/mesh.xyz"
+        }
+    ],
+    "440": [
+        {
+            "image": "case_441/img.nii.gz",
+            "label": "case_441/lab.nii.gz",
+            "verts": "case_441/mesh.xyz"
+        }
+    ],
+    "441": [
+        {
+            "image": "case_442/img.nii.gz",
+            "label": "case_442/lab.nii.gz",
+            "verts": "case_442/mesh.xyz"
+        }
+    ],
+    "442": [
+        {
+            "image": "case_443/img.nii.gz",
+            "label": "case_443/lab.nii.gz",
+            "verts": "case_443/mesh.xyz"
+        }
+    ],
+    "443": [
+        {
+            "image": "case_444/img.nii.gz",
+            "label": "case_444/lab.nii.gz",
+            "verts": "case_444/mesh.xyz"
+        }
+    ],
+    "444": [
+        {
+            "image": "case_445/img.nii.gz",
+            "label": "case_445/lab.nii.gz",
+            "verts": "case_445/mesh.xyz"
+        }
+    ],
+    "445": [
+        {
+            "image": "case_446/img.nii.gz",
+            "label": "case_446/lab.nii.gz",
+            "verts": "case_446/mesh.xyz"
+        }
+    ],
+    "446": [
+        {
+            "image": "case_447/img.nii.gz",
+            "label": "case_447/lab.nii.gz",
+            "verts": "case_447/mesh.xyz"
+        }
+    ],
+    "447": [
+        {
+            "image": "case_448/img.nii.gz",
+            "label": "case_448/lab.nii.gz",
+            "verts": "case_448/mesh.xyz"
+        }
+    ],
+    "448": [
+        {
+            "image": "case_449/img.nii.gz",
+            "label": "case_449/lab.nii.gz",
+            "verts": "case_449/mesh.xyz"
+        }
+    ],
+    "449": [
+        {
+            "image": "case_450/img.nii.gz",
+            "label": "case_450/lab.nii.gz",
+            "verts": "case_450/mesh.xyz"
+        }
+    ],
+    "450": [
+        {
+            "image": "case_451/img.nii.gz",
+            "label": "case_451/lab.nii.gz",
+            "verts": "case_451/mesh.xyz"
+        }
+    ],
+    "451": [
+        {
+            "image": "case_452/img.nii.gz",
+            "label": "case_452/lab.nii.gz",
+            "verts": "case_452/mesh.xyz"
+        }
+    ],
+    "452": [
+        {
+            "image": "case_453/img.nii.gz",
+            "label": "case_453/lab.nii.gz",
+            "verts": "case_453/mesh.xyz"
+        }
+    ],
+    "453": [
+        {
+            "image": "case_454/img.nii.gz",
+            "label": "case_454/lab.nii.gz",
+            "verts": "case_454/mesh.xyz"
+        }
+    ],
+    "454": [
+        {
+            "image": "case_455/img.nii.gz",
+            "label": "case_455/lab.nii.gz",
+            "verts": "case_455/mesh.xyz"
+        }
+    ],
+    "455": [
+        {
+            "image": "case_456/img.nii.gz",
+            "label": "case_456/lab.nii.gz",
+            "verts": "case_456/mesh.xyz"
+        }
+    ],
+    "456": [
+        {
+            "image": "case_457/img.nii.gz",
+            "label": "case_457/lab.nii.gz",
+            "verts": "case_457/mesh.xyz"
+        }
+    ],
+    "457": [
+        {
+            "image": "case_458/img.nii.gz",
+            "label": "case_458/lab.nii.gz",
+            "verts": "case_458/mesh.xyz"
+        }
+    ],
+    "458": [
+        {
+            "image": "case_459/img.nii.gz",
+            "label": "case_459/lab.nii.gz",
+            "verts": "case_459/mesh.xyz"
+        }
+    ],
+    "459": [
+        {
+            "image": "case_460/img.nii.gz",
+            "label": "case_460/lab.nii.gz",
+            "verts": "case_460/mesh.xyz"
+        }
+    ],
+    "460": [
+        {
+            "image": "case_461/img.nii.gz",
+            "label": "case_461/lab.nii.gz",
+            "verts": "case_461/mesh.xyz"
+        }
+    ],
+    "461": [
+        {
+            "image": "case_462/img.nii.gz",
+            "label": "case_462/lab.nii.gz",
+            "verts": "case_462/mesh.xyz"
+        }
+    ],
+    "462": [
+        {
+            "image": "case_463/img.nii.gz",
+            "label": "case_463/lab.nii.gz",
+            "verts": "case_463/mesh.xyz"
+        }
+    ],
+    "463": [
+        {
+            "image": "case_464/img.nii.gz",
+            "label": "case_464/lab.nii.gz",
+            "verts": "case_464/mesh.xyz"
+        }
+    ],
+    "464": [
+        {
+            "image": "case_465/img.nii.gz",
+            "label": "case_465/lab.nii.gz",
+            "verts": "case_465/mesh.xyz"
+        }
+    ],
+    "465": [
+        {
+            "image": "case_466/img.nii.gz",
+            "label": "case_466/lab.nii.gz",
+            "verts": "case_466/mesh.xyz"
+        }
+    ],
+    "466": [
+        {
+            "image": "case_467/img.nii.gz",
+            "label": "case_467/lab.nii.gz",
+            "verts": "case_467/mesh.xyz"
+        }
+    ],
+    "467": [
+        {
+            "image": "case_468/img.nii.gz",
+            "label": "case_468/lab.nii.gz",
+            "verts": "case_468/mesh.xyz"
+        }
+    ],
+    "468": [
+        {
+            "image": "case_469/img.nii.gz",
+            "label": "case_469/lab.nii.gz",
+            "verts": "case_469/mesh.xyz"
+        }
+    ],
+    "469": [
+        {
+            "image": "case_470/img.nii.gz",
+            "label": "case_470/lab.nii.gz",
+            "verts": "case_470/mesh.xyz"
+        }
+    ],
+    "470": [
+        {
+            "image": "case_471/img.nii.gz",
+            "label": "case_471/lab.nii.gz",
+            "verts": "case_471/mesh.xyz"
+        }
+    ],
+    "471": [
+        {
+            "image": "case_472/img.nii.gz",
+            "label": "case_472/lab.nii.gz",
+            "verts": "case_472/mesh.xyz"
+        }
+    ],
+    "472": [
+        {
+            "image": "case_473/img.nii.gz",
+            "label": "case_473/lab.nii.gz",
+            "verts": "case_473/mesh.xyz"
+        }
+    ],
+    "473": [
+        {
+            "image": "case_474/img.nii.gz",
+            "label": "case_474/lab.nii.gz",
+            "verts": "case_474/mesh.xyz"
+        }
+    ],
+    "474": [
+        {
+            "image": "case_475/img.nii.gz",
+            "label": "case_475/lab.nii.gz",
+            "verts": "case_475/mesh.xyz"
+        }
+    ],
+    "475": [
+        {
+            "image": "case_476/img.nii.gz",
+            "label": "case_476/lab.nii.gz",
+            "verts": "case_476/mesh.xyz"
+        }
+    ],
+    "476": [
+        {
+            "image": "case_477/img.nii.gz",
+            "label": "case_477/lab.nii.gz",
+            "verts": "case_477/mesh.xyz"
+        }
+    ],
+    "477": [
+        {
+            "image": "case_478/img.nii.gz",
+            "label": "case_478/lab.nii.gz",
+            "verts": "case_478/mesh.xyz"
+        }
+    ],
+    "478": [
+        {
+            "image": "case_479/img.nii.gz",
+            "label": "case_479/lab.nii.gz",
+            "verts": "case_479/mesh.xyz"
+        }
+    ],
+    "479": [
+        {
+            "image": "case_480/img.nii.gz",
+            "label": "case_480/lab.nii.gz",
+            "verts": "case_480/mesh.xyz"
+        }
+    ],
+    "480": [
+        {
+            "image": "case_481/img.nii.gz",
+            "label": "case_481/lab.nii.gz",
+            "verts": "case_481/mesh.xyz"
+        }
+    ],
+    "481": [
+        {
+            "image": "case_482/img.nii.gz",
+            "label": "case_482/lab.nii.gz",
+            "verts": "case_482/mesh.xyz"
+        }
+    ],
+    "482": [
+        {
+            "image": "case_483/img.nii.gz",
+            "label": "case_483/lab.nii.gz",
+            "verts": "case_483/mesh.xyz"
+        }
+    ],
+    "483": [
+        {
+            "image": "case_484/img.nii.gz",
+            "label": "case_484/lab.nii.gz",
+            "verts": "case_484/mesh.xyz"
+        }
+    ],
+    "484": [
+        {
+            "image": "case_485/img.nii.gz",
+            "label": "case_485/lab.nii.gz",
+            "verts": "case_485/mesh.xyz"
+        }
+    ],
+    "485": [
+        {
+            "image": "case_486/img.nii.gz",
+            "label": "case_486/lab.nii.gz",
+            "verts": "case_486/mesh.xyz"
+        }
+    ],
+    "486": [
+        {
+            "image": "case_487/img.nii.gz",
+            "label": "case_487/lab.nii.gz",
+            "verts": "case_487/mesh.xyz"
+        }
+    ],
+    "487": [
+        {
+            "image": "case_488/img.nii.gz",
+            "label": "case_488/lab.nii.gz",
+            "verts": "case_488/mesh.xyz"
+        }
+    ],
+    "488": [
+        {
+            "image": "case_489/img.nii.gz",
+            "label": "case_489/lab.nii.gz",
+            "verts": "case_489/mesh.xyz"
+        }
+    ],
+    "489": [
+        {
+            "image": "case_490/img.nii.gz",
+            "label": "case_490/lab.nii.gz",
+            "verts": "case_490/mesh.xyz"
+        }
+    ],
+    "490": [
+        {
+            "image": "case_491/img.nii.gz",
+            "label": "case_491/lab.nii.gz",
+            "verts": "case_491/mesh.xyz"
+        }
+    ],
+    "491": [
+        {
+            "image": "case_492/img.nii.gz",
+            "label": "case_492/lab.nii.gz",
+            "verts": "case_492/mesh.xyz"
+        }
+    ],
+    "492": [
+        {
+            "image": "case_493/img.nii.gz",
+            "label": "case_493/lab.nii.gz",
+            "verts": "case_493/mesh.xyz"
+        }
+    ],
+    "493": [
+        {
+            "image": "case_494/img.nii.gz",
+            "label": "case_494/lab.nii.gz",
+            "verts": "case_494/mesh.xyz"
+        }
+    ],
+    "494": [
+        {
+            "image": "case_495/img.nii.gz",
+            "label": "case_495/lab.nii.gz",
+            "verts": "case_495/mesh.xyz"
+        }
+    ],
+    "495": [
+        {
+            "image": "case_496/img.nii.gz",
+            "label": "case_496/lab.nii.gz",
+            "verts": "case_496/mesh.xyz"
+        }
+    ],
+    "496": [
+        {
+            "image": "case_497/img.nii.gz",
+            "label": "case_497/lab.nii.gz",
+            "verts": "case_497/mesh.xyz"
+        }
+    ],
+    "497": [
+        {
+            "image": "case_498/img.nii.gz",
+            "label": "case_498/lab.nii.gz",
+            "verts": "case_498/mesh.xyz"
+        }
+    ],
+    "498": [
+        {
+            "image": "case_499/img.nii.gz",
+            "label": "case_499/lab.nii.gz",
+            "verts": "case_499/mesh.xyz"
+        }
+    ],
+    "499": [
+        {
+            "image": "case_500/img.nii.gz",
+            "label": "case_500/lab.nii.gz",
+            "verts": "case_500/mesh.xyz"
+        }
+    ],
+    "500": [
+        {
+            "image": "case_501/img.nii.gz",
+            "label": "case_501/lab.nii.gz",
+            "verts": "case_501/mesh.xyz"
+        }
+    ],
+    "501": [
+        {
+            "image": "case_502/img.nii.gz",
+            "label": "case_502/lab.nii.gz",
+            "verts": "case_502/mesh.xyz"
+        }
+    ],
+    "502": [
+        {
+            "image": "case_503/img.nii.gz",
+            "label": "case_503/lab.nii.gz",
+            "verts": "case_503/mesh.xyz"
+        }
+    ],
+    "503": [
+        {
+            "image": "case_504/img.nii.gz",
+            "label": "case_504/lab.nii.gz",
+            "verts": "case_504/mesh.xyz"
+        }
+    ],
+    "504": [
+        {
+            "image": "case_505/img.nii.gz",
+            "label": "case_505/lab.nii.gz",
+            "verts": "case_505/mesh.xyz"
+        }
+    ],
+    "505": [
+        {
+            "image": "case_506/img.nii.gz",
+            "label": "case_506/lab.nii.gz",
+            "verts": "case_506/mesh.xyz"
+        }
+    ],
+    "506": [
+        {
+            "image": "case_507/img.nii.gz",
+            "label": "case_507/lab.nii.gz",
+            "verts": "case_507/mesh.xyz"
+        }
+    ],
+    "507": [
+        {
+            "image": "case_508/img.nii.gz",
+            "label": "case_508/lab.nii.gz",
+            "verts": "case_508/mesh.xyz"
+        }
+    ],
+    "508": [
+        {
+            "image": "case_509/img.nii.gz",
+            "label": "case_509/lab.nii.gz",
+            "verts": "case_509/mesh.xyz"
+        }
+    ],
+    "509": [
+        {
+            "image": "case_510/img.nii.gz",
+            "label": "case_510/lab.nii.gz",
+            "verts": "case_510/mesh.xyz"
+        }
+    ],
+    "510": [
+        {
+            "image": "case_511/img.nii.gz",
+            "label": "case_511/lab.nii.gz",
+            "verts": "case_511/mesh.xyz"
+        }
+    ],
+    "511": [
+        {
+            "image": "case_512/img.nii.gz",
+            "label": "case_512/lab.nii.gz",
+            "verts": "case_512/mesh.xyz"
+        }
+    ],
+    "512": [
+        {
+            "image": "case_513/img.nii.gz",
+            "label": "case_513/lab.nii.gz",
+            "verts": "case_513/mesh.xyz"
+        }
+    ],
+    "513": [
+        {
+            "image": "case_514/img.nii.gz",
+            "label": "case_514/lab.nii.gz",
+            "verts": "case_514/mesh.xyz"
+        }
+    ],
+    "514": [
+        {
+            "image": "case_515/img.nii.gz",
+            "label": "case_515/lab.nii.gz",
+            "verts": "case_515/mesh.xyz"
+        }
+    ],
+    "515": [
+        {
+            "image": "case_516/img.nii.gz",
+            "label": "case_516/lab.nii.gz",
+            "verts": "case_516/mesh.xyz"
+        }
+    ],
+    "516": [
+        {
+            "image": "case_517/img.nii.gz",
+            "label": "case_517/lab.nii.gz",
+            "verts": "case_517/mesh.xyz"
+        }
+    ],
+    "517": [
+        {
+            "image": "case_518/img.nii.gz",
+            "label": "case_518/lab.nii.gz",
+            "verts": "case_518/mesh.xyz"
+        }
+    ],
+    "518": [
+        {
+            "image": "case_519/img.nii.gz",
+            "label": "case_519/lab.nii.gz",
+            "verts": "case_519/mesh.xyz"
+        }
+    ],
+    "519": [
+        {
+            "image": "case_520/img.nii.gz",
+            "label": "case_520/lab.nii.gz",
+            "verts": "case_520/mesh.xyz"
+        }
+    ],
+    "520": [
+        {
+            "image": "case_521/img.nii.gz",
+            "label": "case_521/lab.nii.gz",
+            "verts": "case_521/mesh.xyz"
+        }
+    ],
+    "521": [
+        {
+            "image": "case_522/img.nii.gz",
+            "label": "case_522/lab.nii.gz",
+            "verts": "case_522/mesh.xyz"
+        }
+    ],
+    "522": [
+        {
+            "image": "case_523/img.nii.gz",
+            "label": "case_523/lab.nii.gz",
+            "verts": "case_523/mesh.xyz"
+        }
+    ],
+    "523": [
+        {
+            "image": "case_524/img.nii.gz",
+            "label": "case_524/lab.nii.gz",
+            "verts": "case_524/mesh.xyz"
+        }
+    ],
+    "524": [
+        {
+            "image": "case_525/img.nii.gz",
+            "label": "case_525/lab.nii.gz",
+            "verts": "case_525/mesh.xyz"
+        }
+    ],
+    "525": [
+        {
+            "image": "case_526/img.nii.gz",
+            "label": "case_526/lab.nii.gz",
+            "verts": "case_526/mesh.xyz"
+        }
+    ],
+    "526": [
+        {
+            "image": "case_527/img.nii.gz",
+            "label": "case_527/lab.nii.gz",
+            "verts": "case_527/mesh.xyz"
+        }
+    ],
+    "527": [
+        {
+            "image": "case_528/img.nii.gz",
+            "label": "case_528/lab.nii.gz",
+            "verts": "case_528/mesh.xyz"
+        }
+    ],
+    "528": [
+        {
+            "image": "case_529/img.nii.gz",
+            "label": "case_529/lab.nii.gz",
+            "verts": "case_529/mesh.xyz"
+        }
+    ],
+    "529": [
+        {
+            "image": "case_530/img.nii.gz",
+            "label": "case_530/lab.nii.gz",
+            "verts": "case_530/mesh.xyz"
+        }
+    ],
+    "530": [
+        {
+            "image": "case_531/img.nii.gz",
+            "label": "case_531/lab.nii.gz",
+            "verts": "case_531/mesh.xyz"
+        }
+    ],
+    "531": [
+        {
+            "image": "case_532/img.nii.gz",
+            "label": "case_532/lab.nii.gz",
+            "verts": "case_532/mesh.xyz"
+        }
+    ],
+    "532": [
+        {
+            "image": "case_533/img.nii.gz",
+            "label": "case_533/lab.nii.gz",
+            "verts": "case_533/mesh.xyz"
+        }
+    ],
+    "533": [
+        {
+            "image": "case_534/img.nii.gz",
+            "label": "case_534/lab.nii.gz",
+            "verts": "case_534/mesh.xyz"
+        }
+    ],
+    "534": [
+        {
+            "image": "case_535/img.nii.gz",
+            "label": "case_535/lab.nii.gz",
+            "verts": "case_535/mesh.xyz"
+        }
+    ],
+    "535": [
+        {
+            "image": "case_536/img.nii.gz",
+            "label": "case_536/lab.nii.gz",
+            "verts": "case_536/mesh.xyz"
+        }
+    ],
+    "536": [
+        {
+            "image": "case_537/img.nii.gz",
+            "label": "case_537/lab.nii.gz",
+            "verts": "case_537/mesh.xyz"
+        }
+    ],
+    "537": [
+        {
+            "image": "case_538/img.nii.gz",
+            "label": "case_538/lab.nii.gz",
+            "verts": "case_538/mesh.xyz"
+        }
+    ],
+    "538": [
+        {
+            "image": "case_539/img.nii.gz",
+            "label": "case_539/lab.nii.gz",
+            "verts": "case_539/mesh.xyz"
+        }
+    ],
+    "539": [
+        {
+            "image": "case_540/img.nii.gz",
+            "label": "case_540/lab.nii.gz",
+            "verts": "case_540/mesh.xyz"
+        }
+    ],
+    "540": [
+        {
+            "image": "case_541/img.nii.gz",
+            "label": "case_541/lab.nii.gz",
+            "verts": "case_541/mesh.xyz"
+        }
+    ],
+    "541": [
+        {
+            "image": "case_542/img.nii.gz",
+            "label": "case_542/lab.nii.gz",
+            "verts": "case_542/mesh.xyz"
+        }
+    ],
+    "542": [
+        {
+            "image": "case_543/img.nii.gz",
+            "label": "case_543/lab.nii.gz",
+            "verts": "case_543/mesh.xyz"
+        }
+    ],
+    "543": [
+        {
+            "image": "case_544/img.nii.gz",
+            "label": "case_544/lab.nii.gz",
+            "verts": "case_544/mesh.xyz"
+        }
+    ],
+    "544": [
+        {
+            "image": "case_545/img.nii.gz",
+            "label": "case_545/lab.nii.gz",
+            "verts": "case_545/mesh.xyz"
+        }
+    ],
+    "545": [
+        {
+            "image": "case_546/img.nii.gz",
+            "label": "case_546/lab.nii.gz",
+            "verts": "case_546/mesh.xyz"
+        }
+    ],
+    "546": [
+        {
+            "image": "case_547/img.nii.gz",
+            "label": "case_547/lab.nii.gz",
+            "verts": "case_547/mesh.xyz"
+        }
+    ],
+    "547": [
+        {
+            "image": "case_548/img.nii.gz",
+            "label": "case_548/lab.nii.gz",
+            "verts": "case_548/mesh.xyz"
+        }
+    ],
+    "548": [
+        {
+            "image": "case_549/img.nii.gz",
+            "label": "case_549/lab.nii.gz",
+            "verts": "case_549/mesh.xyz"
+        }
+    ],
+    "549": [
+        {
+            "image": "case_550/img.nii.gz",
+            "label": "case_550/lab.nii.gz",
+            "verts": "case_550/mesh.xyz"
+        }
+    ],
+    "550": [
+        {
+            "image": "case_551/img.nii.gz",
+            "label": "case_551/lab.nii.gz",
+            "verts": "case_551/mesh.xyz"
+        }
+    ],
+    "551": [
+        {
+            "image": "case_552/img.nii.gz",
+            "label": "case_552/lab.nii.gz",
+            "verts": "case_552/mesh.xyz"
+        }
+    ],
+    "552": [
+        {
+            "image": "case_553/img.nii.gz",
+            "label": "case_553/lab.nii.gz",
+            "verts": "case_553/mesh.xyz"
+        }
+    ],
+    "553": [
+        {
+            "image": "case_554/img.nii.gz",
+            "label": "case_554/lab.nii.gz",
+            "verts": "case_554/mesh.xyz"
+        }
+    ],
+    "554": [
+        {
+            "image": "case_555/img.nii.gz",
+            "label": "case_555/lab.nii.gz",
+            "verts": "case_555/mesh.xyz"
+        }
+    ],
+    "555": [
+        {
+            "image": "case_556/img.nii.gz",
+            "label": "case_556/lab.nii.gz",
+            "verts": "case_556/mesh.xyz"
+        }
+    ],
+    "556": [
+        {
+            "image": "case_557/img.nii.gz",
+            "label": "case_557/lab.nii.gz",
+            "verts": "case_557/mesh.xyz"
+        }
+    ],
+    "557": [
+        {
+            "image": "case_558/img.nii.gz",
+            "label": "case_558/lab.nii.gz",
+            "verts": "case_558/mesh.xyz"
+        }
+    ],
+    "558": [
+        {
+            "image": "case_559/img.nii.gz",
+            "label": "case_559/lab.nii.gz",
+            "verts": "case_559/mesh.xyz"
+        }
+    ],
+    "559": [
+        {
+            "image": "case_560/img.nii.gz",
+            "label": "case_560/lab.nii.gz",
+            "verts": "case_560/mesh.xyz"
+        }
+    ],
+    "560": [
+        {
+            "image": "case_561/img.nii.gz",
+            "label": "case_561/lab.nii.gz",
+            "verts": "case_561/mesh.xyz"
+        }
+    ],
+    "561": [
+        {
+            "image": "case_562/img.nii.gz",
+            "label": "case_562/lab.nii.gz",
+            "verts": "case_562/mesh.xyz"
+        }
+    ],
+    "562": [
+        {
+            "image": "case_563/img.nii.gz",
+            "label": "case_563/lab.nii.gz",
+            "verts": "case_563/mesh.xyz"
+        }
+    ],
+    "563": [
+        {
+            "image": "case_564/img.nii.gz",
+            "label": "case_564/lab.nii.gz",
+            "verts": "case_564/mesh.xyz"
+        }
+    ],
+    "564": [
+        {
+            "image": "case_565/img.nii.gz",
+            "label": "case_565/lab.nii.gz",
+            "verts": "case_565/mesh.xyz"
+        }
+    ],
+    "565": [
+        {
+            "image": "case_566/img.nii.gz",
+            "label": "case_566/lab.nii.gz",
+            "verts": "case_566/mesh.xyz"
+        }
+    ],
+    "566": [
+        {
+            "image": "case_567/img.nii.gz",
+            "label": "case_567/lab.nii.gz",
+            "verts": "case_567/mesh.xyz"
+        }
+    ],
+    "567": [
+        {
+            "image": "case_568/img.nii.gz",
+            "label": "case_568/lab.nii.gz",
+            "verts": "case_568/mesh.xyz"
+        }
+    ],
+    "568": [
+        {
+            "image": "case_569/img.nii.gz",
+            "label": "case_569/lab.nii.gz",
+            "verts": "case_569/mesh.xyz"
+        }
+    ],
+    "569": [
+        {
+            "image": "case_570/img.nii.gz",
+            "label": "case_570/lab.nii.gz",
+            "verts": "case_570/mesh.xyz"
+        }
+    ],
+    "570": [
+        {
+            "image": "case_571/img.nii.gz",
+            "label": "case_571/lab.nii.gz",
+            "verts": "case_571/mesh.xyz"
+        }
+    ],
+    "571": [
+        {
+            "image": "case_572/img.nii.gz",
+            "label": "case_572/lab.nii.gz",
+            "verts": "case_572/mesh.xyz"
+        }
+    ],
+    "572": [
+        {
+            "image": "case_573/img.nii.gz",
+            "label": "case_573/lab.nii.gz",
+            "verts": "case_573/mesh.xyz"
+        }
+    ],
+    "573": [
+        {
+            "image": "case_574/img.nii.gz",
+            "label": "case_574/lab.nii.gz",
+            "verts": "case_574/mesh.xyz"
+        }
+    ],
+    "574": [
+        {
+            "image": "case_575/img.nii.gz",
+            "label": "case_575/lab.nii.gz",
+            "verts": "case_575/mesh.xyz"
+        }
+    ],
+    "575": [
+        {
+            "image": "case_576/img.nii.gz",
+            "label": "case_576/lab.nii.gz",
+            "verts": "case_576/mesh.xyz"
+        }
+    ],
+    "576": [
+        {
+            "image": "case_577/img.nii.gz",
+            "label": "case_577/lab.nii.gz",
+            "verts": "case_577/mesh.xyz"
+        }
+    ],
+    "577": [
+        {
+            "image": "case_578/img.nii.gz",
+            "label": "case_578/lab.nii.gz",
+            "verts": "case_578/mesh.xyz"
+        }
+    ],
+    "578": [
+        {
+            "image": "case_579/img.nii.gz",
+            "label": "case_579/lab.nii.gz",
+            "verts": "case_579/mesh.xyz"
+        }
+    ],
+    "579": [
+        {
+            "image": "case_580/img.nii.gz",
+            "label": "case_580/lab.nii.gz",
+            "verts": "case_580/mesh.xyz"
+        }
+    ],
+    "580": [
+        {
+            "image": "case_581/img.nii.gz",
+            "label": "case_581/lab.nii.gz",
+            "verts": "case_581/mesh.xyz"
+        }
+    ],
+    "581": [
+        {
+            "image": "case_582/img.nii.gz",
+            "label": "case_582/lab.nii.gz",
+            "verts": "case_582/mesh.xyz"
+        }
+    ],
+    "582": [
+        {
+            "image": "case_583/img.nii.gz",
+            "label": "case_583/lab.nii.gz",
+            "verts": "case_583/mesh.xyz"
+        }
+    ],
+    "583": [
+        {
+            "image": "case_584/img.nii.gz",
+            "label": "case_584/lab.nii.gz",
+            "verts": "case_584/mesh.xyz"
+        }
+    ],
+    "584": [
+        {
+            "image": "case_585/img.nii.gz",
+            "label": "case_585/lab.nii.gz",
+            "verts": "case_585/mesh.xyz"
+        }
+    ],
+    "585": [
+        {
+            "image": "case_586/img.nii.gz",
+            "label": "case_586/lab.nii.gz",
+            "verts": "case_586/mesh.xyz"
+        }
+    ],
+    "586": [
+        {
+            "image": "case_587/img.nii.gz",
+            "label": "case_587/lab.nii.gz",
+            "verts": "case_587/mesh.xyz"
+        }
+    ],
+    "587": [
+        {
+            "image": "case_588/img.nii.gz",
+            "label": "case_588/lab.nii.gz",
+            "verts": "case_588/mesh.xyz"
+        }
+    ],
+    "588": [
+        {
+            "image": "case_589/img.nii.gz",
+            "label": "case_589/lab.nii.gz",
+            "verts": "case_589/mesh.xyz"
+        }
+    ],
+    "589": [
+        {
+            "image": "case_590/img.nii.gz",
+            "label": "case_590/lab.nii.gz",
+            "verts": "case_590/mesh.xyz"
+        }
+    ],
+    "590": [
+        {
+            "image": "case_591/img.nii.gz",
+            "label": "case_591/lab.nii.gz",
+            "verts": "case_591/mesh.xyz"
+        }
+    ],
+    "591": [
+        {
+            "image": "case_592/img.nii.gz",
+            "label": "case_592/lab.nii.gz",
+            "verts": "case_592/mesh.xyz"
+        }
+    ],
+    "592": [
+        {
+            "image": "case_593/img.nii.gz",
+            "label": "case_593/lab.nii.gz",
+            "verts": "case_593/mesh.xyz"
+        }
+    ],
+    "593": [
+        {
+            "image": "case_594/img.nii.gz",
+            "label": "case_594/lab.nii.gz",
+            "verts": "case_594/mesh.xyz"
+        }
+    ],
+    "594": [
+        {
+            "image": "case_595/img.nii.gz",
+            "label": "case_595/lab.nii.gz",
+            "verts": "case_595/mesh.xyz"
+        }
+    ],
+    "595": [
+        {
+            "image": "case_596/img.nii.gz",
+            "label": "case_596/lab.nii.gz",
+            "verts": "case_596/mesh.xyz"
+        }
+    ],
+    "596": [
+        {
+            "image": "case_597/img.nii.gz",
+            "label": "case_597/lab.nii.gz",
+            "verts": "case_597/mesh.xyz"
+        }
+    ],
+    "597": [
+        {
+            "image": "case_598/img.nii.gz",
+            "label": "case_598/lab.nii.gz",
+            "verts": "case_598/mesh.xyz"
+        }
+    ],
+    "598": [
+        {
+            "image": "case_599/img.nii.gz",
+            "label": "case_599/lab.nii.gz",
+            "verts": "case_599/mesh.xyz"
+        }
+    ],
+    "599": [
+        {
+            "image": "case_600/img.nii.gz",
+            "label": "case_600/lab.nii.gz",
+            "verts": "case_600/mesh.xyz"
+        }
+    ],
+    "600": [
+        {
+            "image": "case_601/img.nii.gz",
+            "label": "case_601/lab.nii.gz",
+            "verts": "case_601/mesh.xyz"
+        }
+    ],
+    "601": [
+        {
+            "image": "case_602/img.nii.gz",
+            "label": "case_602/lab.nii.gz",
+            "verts": "case_602/mesh.xyz"
+        }
+    ],
+    "602": [
+        {
+            "image": "case_603/img.nii.gz",
+            "label": "case_603/lab.nii.gz",
+            "verts": "case_603/mesh.xyz"
+        }
+    ],
+    "603": [
+        {
+            "image": "case_604/img.nii.gz",
+            "label": "case_604/lab.nii.gz",
+            "verts": "case_604/mesh.xyz"
+        }
+    ],
+    "604": [
+        {
+            "image": "case_605/img.nii.gz",
+            "label": "case_605/lab.nii.gz",
+            "verts": "case_605/mesh.xyz"
+        }
+    ],
+    "605": [
+        {
+            "image": "case_606/img.nii.gz",
+            "label": "case_606/lab.nii.gz",
+            "verts": "case_606/mesh.xyz"
+        }
+    ],
+    "606": [
+        {
+            "image": "case_607/img.nii.gz",
+            "label": "case_607/lab.nii.gz",
+            "verts": "case_607/mesh.xyz"
+        }
+    ],
+    "607": [
+        {
+            "image": "case_608/img.nii.gz",
+            "label": "case_608/lab.nii.gz",
+            "verts": "case_608/mesh.xyz"
+        }
+    ],
+    "608": [
+        {
+            "image": "case_609/img.nii.gz",
+            "label": "case_609/lab.nii.gz",
+            "verts": "case_609/mesh.xyz"
+        }
+    ],
+    "609": [
+        {
+            "image": "case_610/img.nii.gz",
+            "label": "case_610/lab.nii.gz",
+            "verts": "case_610/mesh.xyz"
+        }
+    ],
+    "610": [
+        {
+            "image": "case_611/img.nii.gz",
+            "label": "case_611/lab.nii.gz",
+            "verts": "case_611/mesh.xyz"
+        }
+    ],
+    "611": [
+        {
+            "image": "case_612/img.nii.gz",
+            "label": "case_612/lab.nii.gz",
+            "verts": "case_612/mesh.xyz"
+        }
+    ],
+    "612": [
+        {
+            "image": "case_613/img.nii.gz",
+            "label": "case_613/lab.nii.gz",
+            "verts": "case_613/mesh.xyz"
+        }
+    ],
+    "613": [
+        {
+            "image": "case_614/img.nii.gz",
+            "label": "case_614/lab.nii.gz",
+            "verts": "case_614/mesh.xyz"
+        }
+    ],
+    "614": [
+        {
+            "image": "case_615/img.nii.gz",
+            "label": "case_615/lab.nii.gz",
+            "verts": "case_615/mesh.xyz"
+        }
+    ],
+    "615": [
+        {
+            "image": "case_616/img.nii.gz",
+            "label": "case_616/lab.nii.gz",
+            "verts": "case_616/mesh.xyz"
+        }
+    ],
+    "616": [
+        {
+            "image": "case_617/img.nii.gz",
+            "label": "case_617/lab.nii.gz",
+            "verts": "case_617/mesh.xyz"
+        }
+    ],
+    "617": [
+        {
+            "image": "case_618/img.nii.gz",
+            "label": "case_618/lab.nii.gz",
+            "verts": "case_618/mesh.xyz"
+        }
+    ],
+    "618": [
+        {
+            "image": "case_619/img.nii.gz",
+            "label": "case_619/lab.nii.gz",
+            "verts": "case_619/mesh.xyz"
+        }
+    ],
+    "619": [
+        {
+            "image": "case_620/img.nii.gz",
+            "label": "case_620/lab.nii.gz",
+            "verts": "case_620/mesh.xyz"
+        }
+    ],
+    "620": [
+        {
+            "image": "case_621/img.nii.gz",
+            "label": "case_621/lab.nii.gz",
+            "verts": "case_621/mesh.xyz"
+        }
+    ],
+    "621": [
+        {
+            "image": "case_622/img.nii.gz",
+            "label": "case_622/lab.nii.gz",
+            "verts": "case_622/mesh.xyz"
+        }
+    ],
+    "622": [
+        {
+            "image": "case_623/img.nii.gz",
+            "label": "case_623/lab.nii.gz",
+            "verts": "case_623/mesh.xyz"
+        }
+    ],
+    "623": [
+        {
+            "image": "case_624/img.nii.gz",
+            "label": "case_624/lab.nii.gz",
+            "verts": "case_624/mesh.xyz"
+        }
+    ],
+    "624": [
+        {
+            "image": "case_625/img.nii.gz",
+            "label": "case_625/lab.nii.gz",
+            "verts": "case_625/mesh.xyz"
+        }
+    ],
+    "625": [
+        {
+            "image": "case_626/img.nii.gz",
+            "label": "case_626/lab.nii.gz",
+            "verts": "case_626/mesh.xyz"
+        }
+    ],
+    "626": [
+        {
+            "image": "case_627/img.nii.gz",
+            "label": "case_627/lab.nii.gz",
+            "verts": "case_627/mesh.xyz"
+        }
+    ],
+    "627": [
+        {
+            "image": "case_628/img.nii.gz",
+            "label": "case_628/lab.nii.gz",
+            "verts": "case_628/mesh.xyz"
+        }
+    ],
+    "628": [
+        {
+            "image": "case_629/img.nii.gz",
+            "label": "case_629/lab.nii.gz",
+            "verts": "case_629/mesh.xyz"
+        }
+    ],
+    "629": [
+        {
+            "image": "case_630/img.nii.gz",
+            "label": "case_630/lab.nii.gz",
+            "verts": "case_630/mesh.xyz"
+        }
+    ],
+    "630": [
+        {
+            "image": "case_631/img.nii.gz",
+            "label": "case_631/lab.nii.gz",
+            "verts": "case_631/mesh.xyz"
+        }
+    ],
+    "631": [
+        {
+            "image": "case_632/img.nii.gz",
+            "label": "case_632/lab.nii.gz",
+            "verts": "case_632/mesh.xyz"
+        }
+    ],
+    "632": [
+        {
+            "image": "case_633/img.nii.gz",
+            "label": "case_633/lab.nii.gz",
+            "verts": "case_633/mesh.xyz"
+        }
+    ],
+    "633": [
+        {
+            "image": "case_634/img.nii.gz",
+            "label": "case_634/lab.nii.gz",
+            "verts": "case_634/mesh.xyz"
+        }
+    ],
+    "634": [
+        {
+            "image": "case_635/img.nii.gz",
+            "label": "case_635/lab.nii.gz",
+            "verts": "case_635/mesh.xyz"
+        }
+    ],
+    "635": [
+        {
+            "image": "case_636/img.nii.gz",
+            "label": "case_636/lab.nii.gz",
+            "verts": "case_636/mesh.xyz"
+        }
+    ],
+    "636": [
+        {
+            "image": "case_637/img.nii.gz",
+            "label": "case_637/lab.nii.gz",
+            "verts": "case_637/mesh.xyz"
+        }
+    ],
+    "637": [
+        {
+            "image": "case_638/img.nii.gz",
+            "label": "case_638/lab.nii.gz",
+            "verts": "case_638/mesh.xyz"
+        }
+    ],
+    "638": [
+        {
+            "image": "case_639/img.nii.gz",
+            "label": "case_639/lab.nii.gz",
+            "verts": "case_639/mesh.xyz"
+        }
+    ],
+    "639": [
+        {
+            "image": "case_640/img.nii.gz",
+            "label": "case_640/lab.nii.gz",
+            "verts": "case_640/mesh.xyz"
+        }
+    ],
+    "640": [
+        {
+            "image": "case_641/img.nii.gz",
+            "label": "case_641/lab.nii.gz",
+            "verts": "case_641/mesh.xyz"
+        }
+    ],
+    "641": [
+        {
+            "image": "case_642/img.nii.gz",
+            "label": "case_642/lab.nii.gz",
+            "verts": "case_642/mesh.xyz"
+        }
+    ],
+    "642": [
+        {
+            "image": "case_643/img.nii.gz",
+            "label": "case_643/lab.nii.gz",
+            "verts": "case_643/mesh.xyz"
+        }
+    ],
+    "643": [
+        {
+            "image": "case_644/img.nii.gz",
+            "label": "case_644/lab.nii.gz",
+            "verts": "case_644/mesh.xyz"
+        }
+    ],
+    "644": [
+        {
+            "image": "case_645/img.nii.gz",
+            "label": "case_645/lab.nii.gz",
+            "verts": "case_645/mesh.xyz"
+        }
+    ],
+    "645": [
+        {
+            "image": "case_646/img.nii.gz",
+            "label": "case_646/lab.nii.gz",
+            "verts": "case_646/mesh.xyz"
+        }
+    ],
+    "646": [
+        {
+            "image": "case_647/img.nii.gz",
+            "label": "case_647/lab.nii.gz",
+            "verts": "case_647/mesh.xyz"
+        }
+    ],
+    "647": [
+        {
+            "image": "case_648/img.nii.gz",
+            "label": "case_648/lab.nii.gz",
+            "verts": "case_648/mesh.xyz"
+        }
+    ],
+    "648": [
+        {
+            "image": "case_649/img.nii.gz",
+            "label": "case_649/lab.nii.gz",
+            "verts": "case_649/mesh.xyz"
+        }
+    ],
+    "649": [
+        {
+            "image": "case_650/img.nii.gz",
+            "label": "case_650/lab.nii.gz",
+            "verts": "case_650/mesh.xyz"
+        }
+    ],
+    "650": [
+        {
+            "image": "case_651/img.nii.gz",
+            "label": "case_651/lab.nii.gz",
+            "verts": "case_651/mesh.xyz"
+        }
+    ],
+    "651": [
+        {
+            "image": "case_652/img.nii.gz",
+            "label": "case_652/lab.nii.gz",
+            "verts": "case_652/mesh.xyz"
+        }
+    ],
+    "652": [
+        {
+            "image": "case_653/img.nii.gz",
+            "label": "case_653/lab.nii.gz",
+            "verts": "case_653/mesh.xyz"
+        }
+    ],
+    "653": [
+        {
+            "image": "case_654/img.nii.gz",
+            "label": "case_654/lab.nii.gz",
+            "verts": "case_654/mesh.xyz"
+        }
+    ],
+    "654": [
+        {
+            "image": "case_655/img.nii.gz",
+            "label": "case_655/lab.nii.gz",
+            "verts": "case_655/mesh.xyz"
+        }
+    ],
+    "655": [
+        {
+            "image": "case_656/img.nii.gz",
+            "label": "case_656/lab.nii.gz",
+            "verts": "case_656/mesh.xyz"
+        }
+    ],
+    "656": [
+        {
+            "image": "case_657/img.nii.gz",
+            "label": "case_657/lab.nii.gz",
+            "verts": "case_657/mesh.xyz"
+        }
+    ],
+    "657": [
+        {
+            "image": "case_658/img.nii.gz",
+            "label": "case_658/lab.nii.gz",
+            "verts": "case_658/mesh.xyz"
+        }
+    ],
+    "658": [
+        {
+            "image": "case_659/img.nii.gz",
+            "label": "case_659/lab.nii.gz",
+            "verts": "case_659/mesh.xyz"
+        }
+    ],
+    "659": [
+        {
+            "image": "case_660/img.nii.gz",
+            "label": "case_660/lab.nii.gz",
+            "verts": "case_660/mesh.xyz"
+        }
+    ],
+    "660": [
+        {
+            "image": "case_661/img.nii.gz",
+            "label": "case_661/lab.nii.gz",
+            "verts": "case_661/mesh.xyz"
+        }
+    ],
+    "661": [
+        {
+            "image": "case_662/img.nii.gz",
+            "label": "case_662/lab.nii.gz",
+            "verts": "case_662/mesh.xyz"
+        }
+    ],
+    "662": [
+        {
+            "image": "case_663/img.nii.gz",
+            "label": "case_663/lab.nii.gz",
+            "verts": "case_663/mesh.xyz"
+        }
+    ],
+    "663": [
+        {
+            "image": "case_664/img.nii.gz",
+            "label": "case_664/lab.nii.gz",
+            "verts": "case_664/mesh.xyz"
+        }
+    ],
+    "664": [
+        {
+            "image": "case_665/img.nii.gz",
+            "label": "case_665/lab.nii.gz",
+            "verts": "case_665/mesh.xyz"
+        }
+    ],
+    "665": [
+        {
+            "image": "case_666/img.nii.gz",
+            "label": "case_666/lab.nii.gz",
+            "verts": "case_666/mesh.xyz"
+        }
+    ],
+    "666": [
+        {
+            "image": "case_667/img.nii.gz",
+            "label": "case_667/lab.nii.gz",
+            "verts": "case_667/mesh.xyz"
+        }
+    ],
+    "667": [
+        {
+            "image": "case_668/img.nii.gz",
+            "label": "case_668/lab.nii.gz",
+            "verts": "case_668/mesh.xyz"
+        }
+    ],
+    "668": [
+        {
+            "image": "case_669/img.nii.gz",
+            "label": "case_669/lab.nii.gz",
+            "verts": "case_669/mesh.xyz"
+        }
+    ],
+    "669": [
+        {
+            "image": "case_670/img.nii.gz",
+            "label": "case_670/lab.nii.gz",
+            "verts": "case_670/mesh.xyz"
+        }
+    ],
+    "670": [
+        {
+            "image": "case_671/img.nii.gz",
+            "label": "case_671/lab.nii.gz",
+            "verts": "case_671/mesh.xyz"
+        }
+    ],
+    "671": [
+        {
+            "image": "case_672/img.nii.gz",
+            "label": "case_672/lab.nii.gz",
+            "verts": "case_672/mesh.xyz"
+        }
+    ],
+    "672": [
+        {
+            "image": "case_673/img.nii.gz",
+            "label": "case_673/lab.nii.gz",
+            "verts": "case_673/mesh.xyz"
+        }
+    ],
+    "673": [
+        {
+            "image": "case_674/img.nii.gz",
+            "label": "case_674/lab.nii.gz",
+            "verts": "case_674/mesh.xyz"
+        }
+    ],
+    "674": [
+        {
+            "image": "case_675/img.nii.gz",
+            "label": "case_675/lab.nii.gz",
+            "verts": "case_675/mesh.xyz"
+        }
+    ],
+    "675": [
+        {
+            "image": "case_676/img.nii.gz",
+            "label": "case_676/lab.nii.gz",
+            "verts": "case_676/mesh.xyz"
+        }
+    ],
+    "676": [
+        {
+            "image": "case_677/img.nii.gz",
+            "label": "case_677/lab.nii.gz",
+            "verts": "case_677/mesh.xyz"
+        }
+    ],
+    "677": [
+        {
+            "image": "case_678/img.nii.gz",
+            "label": "case_678/lab.nii.gz",
+            "verts": "case_678/mesh.xyz"
+        }
+    ],
+    "678": [
+        {
+            "image": "case_679/img.nii.gz",
+            "label": "case_679/lab.nii.gz",
+            "verts": "case_679/mesh.xyz"
+        }
+    ],
+    "679": [
+        {
+            "image": "case_680/img.nii.gz",
+            "label": "case_680/lab.nii.gz",
+            "verts": "case_680/mesh.xyz"
+        }
+    ],
+    "680": [
+        {
+            "image": "case_681/img.nii.gz",
+            "label": "case_681/lab.nii.gz",
+            "verts": "case_681/mesh.xyz"
+        }
+    ],
+    "681": [
+        {
+            "image": "case_682/img.nii.gz",
+            "label": "case_682/lab.nii.gz",
+            "verts": "case_682/mesh.xyz"
+        }
+    ],
+    "682": [
+        {
+            "image": "case_683/img.nii.gz",
+            "label": "case_683/lab.nii.gz",
+            "verts": "case_683/mesh.xyz"
+        }
+    ],
+    "683": [
+        {
+            "image": "case_684/img.nii.gz",
+            "label": "case_684/lab.nii.gz",
+            "verts": "case_684/mesh.xyz"
+        }
+    ],
+    "684": [
+        {
+            "image": "case_685/img.nii.gz",
+            "label": "case_685/lab.nii.gz",
+            "verts": "case_685/mesh.xyz"
+        }
+    ],
+    "685": [
+        {
+            "image": "case_686/img.nii.gz",
+            "label": "case_686/lab.nii.gz",
+            "verts": "case_686/mesh.xyz"
+        }
+    ],
+    "686": [
+        {
+            "image": "case_687/img.nii.gz",
+            "label": "case_687/lab.nii.gz",
+            "verts": "case_687/mesh.xyz"
+        }
+    ],
+    "687": [
+        {
+            "image": "case_688/img.nii.gz",
+            "label": "case_688/lab.nii.gz",
+            "verts": "case_688/mesh.xyz"
+        }
+    ],
+    "688": [
+        {
+            "image": "case_689/img.nii.gz",
+            "label": "case_689/lab.nii.gz",
+            "verts": "case_689/mesh.xyz"
+        }
+    ],
+    "689": [
+        {
+            "image": "case_690/img.nii.gz",
+            "label": "case_690/lab.nii.gz",
+            "verts": "case_690/mesh.xyz"
+        }
+    ],
+    "690": [
+        {
+            "image": "case_691/img.nii.gz",
+            "label": "case_691/lab.nii.gz",
+            "verts": "case_691/mesh.xyz"
+        }
+    ],
+    "691": [
+        {
+            "image": "case_692/img.nii.gz",
+            "label": "case_692/lab.nii.gz",
+            "verts": "case_692/mesh.xyz"
+        }
+    ],
+    "692": [
+        {
+            "image": "case_693/img.nii.gz",
+            "label": "case_693/lab.nii.gz",
+            "verts": "case_693/mesh.xyz"
+        }
+    ],
+    "693": [
+        {
+            "image": "case_694/img.nii.gz",
+            "label": "case_694/lab.nii.gz",
+            "verts": "case_694/mesh.xyz"
+        }
+    ],
+    "694": [
+        {
+            "image": "case_695/img.nii.gz",
+            "label": "case_695/lab.nii.gz",
+            "verts": "case_695/mesh.xyz"
+        }
+    ],
+    "695": [
+        {
+            "image": "case_696/img.nii.gz",
+            "label": "case_696/lab.nii.gz",
+            "verts": "case_696/mesh.xyz"
+        }
+    ],
+    "696": [
+        {
+            "image": "case_697/img.nii.gz",
+            "label": "case_697/lab.nii.gz",
+            "verts": "case_697/mesh.xyz"
+        }
+    ],
+    "697": [
+        {
+            "image": "case_698/img.nii.gz",
+            "label": "case_698/lab.nii.gz",
+            "verts": "case_698/mesh.xyz"
+        }
+    ],
+    "698": [
+        {
+            "image": "case_699/img.nii.gz",
+            "label": "case_699/lab.nii.gz",
+            "verts": "case_699/mesh.xyz"
+        }
+    ],
+    "699": [
+        {
+            "image": "case_700/img.nii.gz",
+            "label": "case_700/lab.nii.gz",
+            "verts": "case_700/mesh.xyz"
+        }
+    ],
+    "700": [
+        {
+            "image": "case_701/img.nii.gz",
+            "label": "case_701/lab.nii.gz",
+            "verts": "case_701/mesh.xyz"
+        }
+    ],
+    "701": [
+        {
+            "image": "case_702/img.nii.gz",
+            "label": "case_702/lab.nii.gz",
+            "verts": "case_702/mesh.xyz"
+        }
+    ],
+    "702": [
+        {
+            "image": "case_703/img.nii.gz",
+            "label": "case_703/lab.nii.gz",
+            "verts": "case_703/mesh.xyz"
+        }
+    ],
+    "703": [
+        {
+            "image": "case_704/img.nii.gz",
+            "label": "case_704/lab.nii.gz",
+            "verts": "case_704/mesh.xyz"
+        }
+    ],
+    "704": [
+        {
+            "image": "case_705/img.nii.gz",
+            "label": "case_705/lab.nii.gz",
+            "verts": "case_705/mesh.xyz"
+        }
+    ],
+    "705": [
+        {
+            "image": "case_706/img.nii.gz",
+            "label": "case_706/lab.nii.gz",
+            "verts": "case_706/mesh.xyz"
+        }
+    ],
+    "706": [
+        {
+            "image": "case_707/img.nii.gz",
+            "label": "case_707/lab.nii.gz",
+            "verts": "case_707/mesh.xyz"
+        }
+    ],
+    "707": [
+        {
+            "image": "case_708/img.nii.gz",
+            "label": "case_708/lab.nii.gz",
+            "verts": "case_708/mesh.xyz"
+        }
+    ],
+    "708": [
+        {
+            "image": "case_709/img.nii.gz",
+            "label": "case_709/lab.nii.gz",
+            "verts": "case_709/mesh.xyz"
+        }
+    ],
+    "709": [
+        {
+            "image": "case_710/img.nii.gz",
+            "label": "case_710/lab.nii.gz",
+            "verts": "case_710/mesh.xyz"
+        }
+    ],
+    "710": [
+        {
+            "image": "case_711/img.nii.gz",
+            "label": "case_711/lab.nii.gz",
+            "verts": "case_711/mesh.xyz"
+        }
+    ],
+    "711": [
+        {
+            "image": "case_712/img.nii.gz",
+            "label": "case_712/lab.nii.gz",
+            "verts": "case_712/mesh.xyz"
+        }
+    ],
+    "712": [
+        {
+            "image": "case_713/img.nii.gz",
+            "label": "case_713/lab.nii.gz",
+            "verts": "case_713/mesh.xyz"
+        }
+    ],
+    "713": [
+        {
+            "image": "case_714/img.nii.gz",
+            "label": "case_714/lab.nii.gz",
+            "verts": "case_714/mesh.xyz"
+        }
+    ],
+    "714": [
+        {
+            "image": "case_715/img.nii.gz",
+            "label": "case_715/lab.nii.gz",
+            "verts": "case_715/mesh.xyz"
+        }
+    ],
+    "715": [
+        {
+            "image": "case_716/img.nii.gz",
+            "label": "case_716/lab.nii.gz",
+            "verts": "case_716/mesh.xyz"
+        }
+    ],
+    "716": [
+        {
+            "image": "case_717/img.nii.gz",
+            "label": "case_717/lab.nii.gz",
+            "verts": "case_717/mesh.xyz"
+        }
+    ],
+    "717": [
+        {
+            "image": "case_718/img.nii.gz",
+            "label": "case_718/lab.nii.gz",
+            "verts": "case_718/mesh.xyz"
+        }
+    ],
+    "718": [
+        {
+            "image": "case_719/img.nii.gz",
+            "label": "case_719/lab.nii.gz",
+            "verts": "case_719/mesh.xyz"
+        }
+    ],
+    "719": [
+        {
+            "image": "case_720/img.nii.gz",
+            "label": "case_720/lab.nii.gz",
+            "verts": "case_720/mesh.xyz"
+        }
+    ],
+    "720": [
+        {
+            "image": "case_721/img.nii.gz",
+            "label": "case_721/lab.nii.gz",
+            "verts": "case_721/mesh.xyz"
+        }
+    ],
+    "721": [
+        {
+            "image": "case_722/img.nii.gz",
+            "label": "case_722/lab.nii.gz",
+            "verts": "case_722/mesh.xyz"
+        }
+    ],
+    "722": [
+        {
+            "image": "case_723/img.nii.gz",
+            "label": "case_723/lab.nii.gz",
+            "verts": "case_723/mesh.xyz"
+        }
+    ],
+    "723": [
+        {
+            "image": "case_724/img.nii.gz",
+            "label": "case_724/lab.nii.gz",
+            "verts": "case_724/mesh.xyz"
+        }
+    ],
+    "724": [
+        {
+            "image": "case_725/img.nii.gz",
+            "label": "case_725/lab.nii.gz",
+            "verts": "case_725/mesh.xyz"
+        }
+    ],
+    "725": [
+        {
+            "image": "case_726/img.nii.gz",
+            "label": "case_726/lab.nii.gz",
+            "verts": "case_726/mesh.xyz"
+        }
+    ],
+    "726": [
+        {
+            "image": "case_727/img.nii.gz",
+            "label": "case_727/lab.nii.gz",
+            "verts": "case_727/mesh.xyz"
+        }
+    ],
+    "727": [
+        {
+            "image": "case_728/img.nii.gz",
+            "label": "case_728/lab.nii.gz",
+            "verts": "case_728/mesh.xyz"
+        }
+    ],
+    "728": [
+        {
+            "image": "case_729/img.nii.gz",
+            "label": "case_729/lab.nii.gz",
+            "verts": "case_729/mesh.xyz"
+        }
+    ],
+    "729": [
+        {
+            "image": "case_730/img.nii.gz",
+            "label": "case_730/lab.nii.gz",
+            "verts": "case_730/mesh.xyz"
+        }
+    ],
+    "730": [
+        {
+            "image": "case_731/img.nii.gz",
+            "label": "case_731/lab.nii.gz",
+            "verts": "case_731/mesh.xyz"
+        }
+    ],
+    "731": [
+        {
+            "image": "case_732/img.nii.gz",
+            "label": "case_732/lab.nii.gz",
+            "verts": "case_732/mesh.xyz"
+        }
+    ],
+    "732": [
+        {
+            "image": "case_733/img.nii.gz",
+            "label": "case_733/lab.nii.gz",
+            "verts": "case_733/mesh.xyz"
+        }
+    ],
+    "733": [
+        {
+            "image": "case_734/img.nii.gz",
+            "label": "case_734/lab.nii.gz",
+            "verts": "case_734/mesh.xyz"
+        }
+    ],
+    "734": [
+        {
+            "image": "case_735/img.nii.gz",
+            "label": "case_735/lab.nii.gz",
+            "verts": "case_735/mesh.xyz"
+        }
+    ],
+    "735": [
+        {
+            "image": "case_736/img.nii.gz",
+            "label": "case_736/lab.nii.gz",
+            "verts": "case_736/mesh.xyz"
+        }
+    ],
+    "736": [
+        {
+            "image": "case_737/img.nii.gz",
+            "label": "case_737/lab.nii.gz",
+            "verts": "case_737/mesh.xyz"
+        }
+    ],
+    "737": [
+        {
+            "image": "case_738/img.nii.gz",
+            "label": "case_738/lab.nii.gz",
+            "verts": "case_738/mesh.xyz"
+        }
+    ],
+    "738": [
+        {
+            "image": "case_739/img.nii.gz",
+            "label": "case_739/lab.nii.gz",
+            "verts": "case_739/mesh.xyz"
+        }
+    ],
+    "739": [
+        {
+            "image": "case_740/img.nii.gz",
+            "label": "case_740/lab.nii.gz",
+            "verts": "case_740/mesh.xyz"
+        }
+    ],
+    "740": [
+        {
+            "image": "case_741/img.nii.gz",
+            "label": "case_741/lab.nii.gz",
+            "verts": "case_741/mesh.xyz"
+        }
+    ],
+    "741": [
+        {
+            "image": "case_742/img.nii.gz",
+            "label": "case_742/lab.nii.gz",
+            "verts": "case_742/mesh.xyz"
+        }
+    ],
+    "742": [
+        {
+            "image": "case_743/img.nii.gz",
+            "label": "case_743/lab.nii.gz",
+            "verts": "case_743/mesh.xyz"
+        }
+    ],
+    "743": [
+        {
+            "image": "case_744/img.nii.gz",
+            "label": "case_744/lab.nii.gz",
+            "verts": "case_744/mesh.xyz"
+        }
+    ],
+    "744": [
+        {
+            "image": "case_745/img.nii.gz",
+            "label": "case_745/lab.nii.gz",
+            "verts": "case_745/mesh.xyz"
+        }
+    ],
+    "745": [
+        {
+            "image": "case_746/img.nii.gz",
+            "label": "case_746/lab.nii.gz",
+            "verts": "case_746/mesh.xyz"
+        }
+    ],
+    "746": [
+        {
+            "image": "case_747/img.nii.gz",
+            "label": "case_747/lab.nii.gz",
+            "verts": "case_747/mesh.xyz"
+        }
+    ],
+    "747": [
+        {
+            "image": "case_748/img.nii.gz",
+            "label": "case_748/lab.nii.gz",
+            "verts": "case_748/mesh.xyz"
+        }
+    ],
+    "748": [
+        {
+            "image": "case_749/img.nii.gz",
+            "label": "case_749/lab.nii.gz",
+            "verts": "case_749/mesh.xyz"
+        }
+    ],
+    "749": [
+        {
+            "image": "case_750/img.nii.gz",
+            "label": "case_750/lab.nii.gz",
+            "verts": "case_750/mesh.xyz"
+        }
+    ],
+    "750": [
+        {
+            "image": "case_751/img.nii.gz",
+            "label": "case_751/lab.nii.gz",
+            "verts": "case_751/mesh.xyz"
+        }
+    ],
+    "751": [
+        {
+            "image": "case_752/img.nii.gz",
+            "label": "case_752/lab.nii.gz",
+            "verts": "case_752/mesh.xyz"
+        }
+    ],
+    "752": [
+        {
+            "image": "case_753/img.nii.gz",
+            "label": "case_753/lab.nii.gz",
+            "verts": "case_753/mesh.xyz"
+        }
+    ],
+    "753": [
+        {
+            "image": "case_754/img.nii.gz",
+            "label": "case_754/lab.nii.gz",
+            "verts": "case_754/mesh.xyz"
+        }
+    ],
+    "754": [
+        {
+            "image": "case_755/img.nii.gz",
+            "label": "case_755/lab.nii.gz",
+            "verts": "case_755/mesh.xyz"
+        }
+    ],
+    "755": [
+        {
+            "image": "case_756/img.nii.gz",
+            "label": "case_756/lab.nii.gz",
+            "verts": "case_756/mesh.xyz"
+        }
+    ],
+    "756": [
+        {
+            "image": "case_757/img.nii.gz",
+            "label": "case_757/lab.nii.gz",
+            "verts": "case_757/mesh.xyz"
+        }
+    ],
+    "757": [
+        {
+            "image": "case_758/img.nii.gz",
+            "label": "case_758/lab.nii.gz",
+            "verts": "case_758/mesh.xyz"
+        }
+    ],
+    "758": [
+        {
+            "image": "case_759/img.nii.gz",
+            "label": "case_759/lab.nii.gz",
+            "verts": "case_759/mesh.xyz"
+        }
+    ],
+    "759": [
+        {
+            "image": "case_760/img.nii.gz",
+            "label": "case_760/lab.nii.gz",
+            "verts": "case_760/mesh.xyz"
+        }
+    ],
+    "760": [
+        {
+            "image": "case_761/img.nii.gz",
+            "label": "case_761/lab.nii.gz",
+            "verts": "case_761/mesh.xyz"
+        }
+    ],
+    "761": [
+        {
+            "image": "case_762/img.nii.gz",
+            "label": "case_762/lab.nii.gz",
+            "verts": "case_762/mesh.xyz"
+        }
+    ],
+    "762": [
+        {
+            "image": "case_763/img.nii.gz",
+            "label": "case_763/lab.nii.gz",
+            "verts": "case_763/mesh.xyz"
+        }
+    ],
+    "763": [
+        {
+            "image": "case_764/img.nii.gz",
+            "label": "case_764/lab.nii.gz",
+            "verts": "case_764/mesh.xyz"
+        }
+    ],
+    "764": [
+        {
+            "image": "case_765/img.nii.gz",
+            "label": "case_765/lab.nii.gz",
+            "verts": "case_765/mesh.xyz"
+        }
+    ],
+    "765": [
+        {
+            "image": "case_766/img.nii.gz",
+            "label": "case_766/lab.nii.gz",
+            "verts": "case_766/mesh.xyz"
+        }
+    ],
+    "766": [
+        {
+            "image": "case_767/img.nii.gz",
+            "label": "case_767/lab.nii.gz",
+            "verts": "case_767/mesh.xyz"
+        }
+    ],
+    "767": [
+        {
+            "image": "case_768/img.nii.gz",
+            "label": "case_768/lab.nii.gz",
+            "verts": "case_768/mesh.xyz"
+        }
+    ],
+    "768": [
+        {
+            "image": "case_769/img.nii.gz",
+            "label": "case_769/lab.nii.gz",
+            "verts": "case_769/mesh.xyz"
+        }
+    ],
+    "769": [
+        {
+            "image": "case_770/img.nii.gz",
+            "label": "case_770/lab.nii.gz",
+            "verts": "case_770/mesh.xyz"
+        }
+    ],
+    "770": [
+        {
+            "image": "case_771/img.nii.gz",
+            "label": "case_771/lab.nii.gz",
+            "verts": "case_771/mesh.xyz"
+        }
+    ],
+    "771": [
+        {
+            "image": "case_772/img.nii.gz",
+            "label": "case_772/lab.nii.gz",
+            "verts": "case_772/mesh.xyz"
+        }
+    ],
+    "772": [
+        {
+            "image": "case_773/img.nii.gz",
+            "label": "case_773/lab.nii.gz",
+            "verts": "case_773/mesh.xyz"
+        }
+    ],
+    "773": [
+        {
+            "image": "case_774/img.nii.gz",
+            "label": "case_774/lab.nii.gz",
+            "verts": "case_774/mesh.xyz"
+        }
+    ],
+    "774": [
+        {
+            "image": "case_775/img.nii.gz",
+            "label": "case_775/lab.nii.gz",
+            "verts": "case_775/mesh.xyz"
+        }
+    ],
+    "775": [
+        {
+            "image": "case_776/img.nii.gz",
+            "label": "case_776/lab.nii.gz",
+            "verts": "case_776/mesh.xyz"
+        }
+    ],
+    "776": [
+        {
+            "image": "case_777/img.nii.gz",
+            "label": "case_777/lab.nii.gz",
+            "verts": "case_777/mesh.xyz"
+        }
+    ],
+    "777": [
+        {
+            "image": "case_778/img.nii.gz",
+            "label": "case_778/lab.nii.gz",
+            "verts": "case_778/mesh.xyz"
+        }
+    ],
+    "778": [
+        {
+            "image": "case_779/img.nii.gz",
+            "label": "case_779/lab.nii.gz",
+            "verts": "case_779/mesh.xyz"
+        }
+    ],
+    "779": [
+        {
+            "image": "case_780/img.nii.gz",
+            "label": "case_780/lab.nii.gz",
+            "verts": "case_780/mesh.xyz"
+        }
+    ],
+    "780": [
+        {
+            "image": "case_781/img.nii.gz",
+            "label": "case_781/lab.nii.gz",
+            "verts": "case_781/mesh.xyz"
+        }
+    ],
+    "781": [
+        {
+            "image": "case_782/img.nii.gz",
+            "label": "case_782/lab.nii.gz",
+            "verts": "case_782/mesh.xyz"
+        }
+    ],
+    "782": [
+        {
+            "image": "case_783/img.nii.gz",
+            "label": "case_783/lab.nii.gz",
+            "verts": "case_783/mesh.xyz"
+        }
+    ],
+    "783": [
+        {
+            "image": "case_784/img.nii.gz",
+            "label": "case_784/lab.nii.gz",
+            "verts": "case_784/mesh.xyz"
+        }
+    ],
+    "784": [
+        {
+            "image": "case_785/img.nii.gz",
+            "label": "case_785/lab.nii.gz",
+            "verts": "case_785/mesh.xyz"
+        }
+    ],
+    "785": [
+        {
+            "image": "case_786/img.nii.gz",
+            "label": "case_786/lab.nii.gz",
+            "verts": "case_786/mesh.xyz"
+        }
+    ],
+    "786": [
+        {
+            "image": "case_787/img.nii.gz",
+            "label": "case_787/lab.nii.gz",
+            "verts": "case_787/mesh.xyz"
+        }
+    ],
+    "787": [
+        {
+            "image": "case_788/img.nii.gz",
+            "label": "case_788/lab.nii.gz",
+            "verts": "case_788/mesh.xyz"
+        }
+    ],
+    "788": [
+        {
+            "image": "case_789/img.nii.gz",
+            "label": "case_789/lab.nii.gz",
+            "verts": "case_789/mesh.xyz"
+        }
+    ],
+    "789": [
+        {
+            "image": "case_790/img.nii.gz",
+            "label": "case_790/lab.nii.gz",
+            "verts": "case_790/mesh.xyz"
+        }
+    ],
+    "790": [
+        {
+            "image": "case_791/img.nii.gz",
+            "label": "case_791/lab.nii.gz",
+            "verts": "case_791/mesh.xyz"
+        }
+    ],
+    "791": [
+        {
+            "image": "case_792/img.nii.gz",
+            "label": "case_792/lab.nii.gz",
+            "verts": "case_792/mesh.xyz"
+        }
+    ],
+    "792": [
+        {
+            "image": "case_793/img.nii.gz",
+            "label": "case_793/lab.nii.gz",
+            "verts": "case_793/mesh.xyz"
+        }
+    ],
+    "793": [
+        {
+            "image": "case_794/img.nii.gz",
+            "label": "case_794/lab.nii.gz",
+            "verts": "case_794/mesh.xyz"
+        }
+    ],
+    "794": [
+        {
+            "image": "case_795/img.nii.gz",
+            "label": "case_795/lab.nii.gz",
+            "verts": "case_795/mesh.xyz"
+        }
+    ],
+    "795": [
+        {
+            "image": "case_796/img.nii.gz",
+            "label": "case_796/lab.nii.gz",
+            "verts": "case_796/mesh.xyz"
+        }
+    ],
+    "796": [
+        {
+            "image": "case_797/img.nii.gz",
+            "label": "case_797/lab.nii.gz",
+            "verts": "case_797/mesh.xyz"
+        }
+    ],
+    "797": [
+        {
+            "image": "case_798/img.nii.gz",
+            "label": "case_798/lab.nii.gz",
+            "verts": "case_798/mesh.xyz"
+        }
+    ],
+    "798": [
+        {
+            "image": "case_799/img.nii.gz",
+            "label": "case_799/lab.nii.gz",
+            "verts": "case_799/mesh.xyz"
+        }
+    ],
+    "799": [
+        {
+            "image": "case_800/img.nii.gz",
+            "label": "case_800/lab.nii.gz",
+            "verts": "case_800/mesh.xyz"
+        }
+    ],
+    "800": [
+        {
+            "image": "case_801/img.nii.gz",
+            "label": "case_801/lab.nii.gz",
+            "verts": "case_801/mesh.xyz"
+        }
+    ],
+    "801": [
+        {
+            "image": "case_802/img.nii.gz",
+            "label": "case_802/lab.nii.gz",
+            "verts": "case_802/mesh.xyz"
+        }
+    ],
+    "802": [
+        {
+            "image": "case_803/img.nii.gz",
+            "label": "case_803/lab.nii.gz",
+            "verts": "case_803/mesh.xyz"
+        }
+    ],
+    "803": [
+        {
+            "image": "case_804/img.nii.gz",
+            "label": "case_804/lab.nii.gz",
+            "verts": "case_804/mesh.xyz"
+        }
+    ],
+    "804": [
+        {
+            "image": "case_805/img.nii.gz",
+            "label": "case_805/lab.nii.gz",
+            "verts": "case_805/mesh.xyz"
+        }
+    ],
+    "805": [
+        {
+            "image": "case_806/img.nii.gz",
+            "label": "case_806/lab.nii.gz",
+            "verts": "case_806/mesh.xyz"
+        }
+    ],
+    "806": [
+        {
+            "image": "case_807/img.nii.gz",
+            "label": "case_807/lab.nii.gz",
+            "verts": "case_807/mesh.xyz"
+        }
+    ],
+    "807": [
+        {
+            "image": "case_808/img.nii.gz",
+            "label": "case_808/lab.nii.gz",
+            "verts": "case_808/mesh.xyz"
+        }
+    ],
+    "808": [
+        {
+            "image": "case_809/img.nii.gz",
+            "label": "case_809/lab.nii.gz",
+            "verts": "case_809/mesh.xyz"
+        }
+    ],
+    "809": [
+        {
+            "image": "case_810/img.nii.gz",
+            "label": "case_810/lab.nii.gz",
+            "verts": "case_810/mesh.xyz"
+        }
+    ],
+    "810": [
+        {
+            "image": "case_811/img.nii.gz",
+            "label": "case_811/lab.nii.gz",
+            "verts": "case_811/mesh.xyz"
+        }
+    ],
+    "811": [
+        {
+            "image": "case_812/img.nii.gz",
+            "label": "case_812/lab.nii.gz",
+            "verts": "case_812/mesh.xyz"
+        }
+    ],
+    "812": [
+        {
+            "image": "case_813/img.nii.gz",
+            "label": "case_813/lab.nii.gz",
+            "verts": "case_813/mesh.xyz"
+        }
+    ],
+    "813": [
+        {
+            "image": "case_814/img.nii.gz",
+            "label": "case_814/lab.nii.gz",
+            "verts": "case_814/mesh.xyz"
+        }
+    ],
+    "814": [
+        {
+            "image": "case_815/img.nii.gz",
+            "label": "case_815/lab.nii.gz",
+            "verts": "case_815/mesh.xyz"
+        }
+    ],
+    "815": [
+        {
+            "image": "case_816/img.nii.gz",
+            "label": "case_816/lab.nii.gz",
+            "verts": "case_816/mesh.xyz"
+        }
+    ],
+    "816": [
+        {
+            "image": "case_817/img.nii.gz",
+            "label": "case_817/lab.nii.gz",
+            "verts": "case_817/mesh.xyz"
+        }
+    ],
+    "817": [
+        {
+            "image": "case_818/img.nii.gz",
+            "label": "case_818/lab.nii.gz",
+            "verts": "case_818/mesh.xyz"
+        }
+    ],
+    "818": [
+        {
+            "image": "case_819/img.nii.gz",
+            "label": "case_819/lab.nii.gz",
+            "verts": "case_819/mesh.xyz"
+        }
+    ],
+    "819": [
+        {
+            "image": "case_820/img.nii.gz",
+            "label": "case_820/lab.nii.gz",
+            "verts": "case_820/mesh.xyz"
+        }
+    ],
+    "820": [
+        {
+            "image": "case_821/img.nii.gz",
+            "label": "case_821/lab.nii.gz",
+            "verts": "case_821/mesh.xyz"
+        }
+    ],
+    "821": [
+        {
+            "image": "case_822/img.nii.gz",
+            "label": "case_822/lab.nii.gz",
+            "verts": "case_822/mesh.xyz"
+        }
+    ],
+    "822": [
+        {
+            "image": "case_823/img.nii.gz",
+            "label": "case_823/lab.nii.gz",
+            "verts": "case_823/mesh.xyz"
+        }
+    ],
+    "823": [
+        {
+            "image": "case_824/img.nii.gz",
+            "label": "case_824/lab.nii.gz",
+            "verts": "case_824/mesh.xyz"
+        }
+    ],
+    "824": [
+        {
+            "image": "case_825/img.nii.gz",
+            "label": "case_825/lab.nii.gz",
+            "verts": "case_825/mesh.xyz"
+        }
+    ],
+    "825": [
+        {
+            "image": "case_826/img.nii.gz",
+            "label": "case_826/lab.nii.gz",
+            "verts": "case_826/mesh.xyz"
+        }
+    ],
+    "826": [
+        {
+            "image": "case_827/img.nii.gz",
+            "label": "case_827/lab.nii.gz",
+            "verts": "case_827/mesh.xyz"
+        }
+    ],
+    "827": [
+        {
+            "image": "case_828/img.nii.gz",
+            "label": "case_828/lab.nii.gz",
+            "verts": "case_828/mesh.xyz"
+        }
+    ],
+    "828": [
+        {
+            "image": "case_829/img.nii.gz",
+            "label": "case_829/lab.nii.gz",
+            "verts": "case_829/mesh.xyz"
+        }
+    ],
+    "829": [
+        {
+            "image": "case_830/img.nii.gz",
+            "label": "case_830/lab.nii.gz",
+            "verts": "case_830/mesh.xyz"
+        }
+    ],
+    "830": [
+        {
+            "image": "case_831/img.nii.gz",
+            "label": "case_831/lab.nii.gz",
+            "verts": "case_831/mesh.xyz"
+        }
+    ],
+    "831": [
+        {
+            "image": "case_832/img.nii.gz",
+            "label": "case_832/lab.nii.gz",
+            "verts": "case_832/mesh.xyz"
+        }
+    ],
+    "832": [
+        {
+            "image": "case_833/img.nii.gz",
+            "label": "case_833/lab.nii.gz",
+            "verts": "case_833/mesh.xyz"
+        }
+    ],
+    "833": [
+        {
+            "image": "case_834/img.nii.gz",
+            "label": "case_834/lab.nii.gz",
+            "verts": "case_834/mesh.xyz"
+        }
+    ],
+    "834": [
+        {
+            "image": "case_835/img.nii.gz",
+            "label": "case_835/lab.nii.gz",
+            "verts": "case_835/mesh.xyz"
+        }
+    ],
+    "835": [
+        {
+            "image": "case_836/img.nii.gz",
+            "label": "case_836/lab.nii.gz",
+            "verts": "case_836/mesh.xyz"
+        }
+    ],
+    "836": [
+        {
+            "image": "case_837/img.nii.gz",
+            "label": "case_837/lab.nii.gz",
+            "verts": "case_837/mesh.xyz"
+        }
+    ],
+    "837": [
+        {
+            "image": "case_838/img.nii.gz",
+            "label": "case_838/lab.nii.gz",
+            "verts": "case_838/mesh.xyz"
+        }
+    ],
+    "838": [
+        {
+            "image": "case_839/img.nii.gz",
+            "label": "case_839/lab.nii.gz",
+            "verts": "case_839/mesh.xyz"
+        }
+    ],
+    "839": [
+        {
+            "image": "case_840/img.nii.gz",
+            "label": "case_840/lab.nii.gz",
+            "verts": "case_840/mesh.xyz"
+        }
+    ],
+    "840": [
+        {
+            "image": "case_841/img.nii.gz",
+            "label": "case_841/lab.nii.gz",
+            "verts": "case_841/mesh.xyz"
+        }
+    ],
+    "841": [
+        {
+            "image": "case_842/img.nii.gz",
+            "label": "case_842/lab.nii.gz",
+            "verts": "case_842/mesh.xyz"
+        }
+    ],
+    "842": [
+        {
+            "image": "case_843/img.nii.gz",
+            "label": "case_843/lab.nii.gz",
+            "verts": "case_843/mesh.xyz"
+        }
+    ],
+    "843": [
+        {
+            "image": "case_844/img.nii.gz",
+            "label": "case_844/lab.nii.gz",
+            "verts": "case_844/mesh.xyz"
+        }
+    ],
+    "844": [
+        {
+            "image": "case_845/img.nii.gz",
+            "label": "case_845/lab.nii.gz",
+            "verts": "case_845/mesh.xyz"
+        }
+    ],
+    "845": [
+        {
+            "image": "case_846/img.nii.gz",
+            "label": "case_846/lab.nii.gz",
+            "verts": "case_846/mesh.xyz"
+        }
+    ],
+    "846": [
+        {
+            "image": "case_847/img.nii.gz",
+            "label": "case_847/lab.nii.gz",
+            "verts": "case_847/mesh.xyz"
+        }
+    ],
+    "847": [
+        {
+            "image": "case_848/img.nii.gz",
+            "label": "case_848/lab.nii.gz",
+            "verts": "case_848/mesh.xyz"
+        }
+    ],
+    "848": [
+        {
+            "image": "case_849/img.nii.gz",
+            "label": "case_849/lab.nii.gz",
+            "verts": "case_849/mesh.xyz"
+        }
+    ],
+    "849": [
+        {
+            "image": "case_850/img.nii.gz",
+            "label": "case_850/lab.nii.gz",
+            "verts": "case_850/mesh.xyz"
+        }
+    ],
+    "850": [
+        {
+            "image": "case_851/img.nii.gz",
+            "label": "case_851/lab.nii.gz",
+            "verts": "case_851/mesh.xyz"
+        }
+    ],
+    "851": [
+        {
+            "image": "case_852/img.nii.gz",
+            "label": "case_852/lab.nii.gz",
+            "verts": "case_852/mesh.xyz"
+        }
+    ],
+    "852": [
+        {
+            "image": "case_853/img.nii.gz",
+            "label": "case_853/lab.nii.gz",
+            "verts": "case_853/mesh.xyz"
+        }
+    ],
+    "853": [
+        {
+            "image": "case_854/img.nii.gz",
+            "label": "case_854/lab.nii.gz",
+            "verts": "case_854/mesh.xyz"
+        }
+    ],
+    "854": [
+        {
+            "image": "case_855/img.nii.gz",
+            "label": "case_855/lab.nii.gz",
+            "verts": "case_855/mesh.xyz"
+        }
+    ],
+    "855": [
+        {
+            "image": "case_856/img.nii.gz",
+            "label": "case_856/lab.nii.gz",
+            "verts": "case_856/mesh.xyz"
+        }
+    ],
+    "856": [
+        {
+            "image": "case_857/img.nii.gz",
+            "label": "case_857/lab.nii.gz",
+            "verts": "case_857/mesh.xyz"
+        }
+    ],
+    "857": [
+        {
+            "image": "case_858/img.nii.gz",
+            "label": "case_858/lab.nii.gz",
+            "verts": "case_858/mesh.xyz"
+        }
+    ],
+    "858": [
+        {
+            "image": "case_859/img.nii.gz",
+            "label": "case_859/lab.nii.gz",
+            "verts": "case_859/mesh.xyz"
+        }
+    ],
+    "859": [
+        {
+            "image": "case_860/img.nii.gz",
+            "label": "case_860/lab.nii.gz",
+            "verts": "case_860/mesh.xyz"
+        }
+    ],
+    "860": [
+        {
+            "image": "case_861/img.nii.gz",
+            "label": "case_861/lab.nii.gz",
+            "verts": "case_861/mesh.xyz"
+        }
+    ],
+    "861": [
+        {
+            "image": "case_862/img.nii.gz",
+            "label": "case_862/lab.nii.gz",
+            "verts": "case_862/mesh.xyz"
+        }
+    ],
+    "862": [
+        {
+            "image": "case_863/img.nii.gz",
+            "label": "case_863/lab.nii.gz",
+            "verts": "case_863/mesh.xyz"
+        }
+    ],
+    "863": [
+        {
+            "image": "case_864/img.nii.gz",
+            "label": "case_864/lab.nii.gz",
+            "verts": "case_864/mesh.xyz"
+        }
+    ],
+    "864": [
+        {
+            "image": "case_865/img.nii.gz",
+            "label": "case_865/lab.nii.gz",
+            "verts": "case_865/mesh.xyz"
+        }
+    ],
+    "865": [
+        {
+            "image": "case_866/img.nii.gz",
+            "label": "case_866/lab.nii.gz",
+            "verts": "case_866/mesh.xyz"
+        }
+    ],
+    "866": [
+        {
+            "image": "case_867/img.nii.gz",
+            "label": "case_867/lab.nii.gz",
+            "verts": "case_867/mesh.xyz"
+        }
+    ],
+    "867": [
+        {
+            "image": "case_868/img.nii.gz",
+            "label": "case_868/lab.nii.gz",
+            "verts": "case_868/mesh.xyz"
+        }
+    ],
+    "868": [
+        {
+            "image": "case_869/img.nii.gz",
+            "label": "case_869/lab.nii.gz",
+            "verts": "case_869/mesh.xyz"
+        }
+    ],
+    "869": [
+        {
+            "image": "case_870/img.nii.gz",
+            "label": "case_870/lab.nii.gz",
+            "verts": "case_870/mesh.xyz"
+        }
+    ],
+    "870": [
+        {
+            "image": "case_871/img.nii.gz",
+            "label": "case_871/lab.nii.gz",
+            "verts": "case_871/mesh.xyz"
+        }
+    ],
+    "871": [
+        {
+            "image": "case_872/img.nii.gz",
+            "label": "case_872/lab.nii.gz",
+            "verts": "case_872/mesh.xyz"
+        }
+    ],
+    "872": [
+        {
+            "image": "case_873/img.nii.gz",
+            "label": "case_873/lab.nii.gz",
+            "verts": "case_873/mesh.xyz"
+        }
+    ],
+    "873": [
+        {
+            "image": "case_874/img.nii.gz",
+            "label": "case_874/lab.nii.gz",
+            "verts": "case_874/mesh.xyz"
+        }
+    ],
+    "874": [
+        {
+            "image": "case_875/img.nii.gz",
+            "label": "case_875/lab.nii.gz",
+            "verts": "case_875/mesh.xyz"
+        }
+    ],
+    "875": [
+        {
+            "image": "case_876/img.nii.gz",
+            "label": "case_876/lab.nii.gz",
+            "verts": "case_876/mesh.xyz"
+        }
+    ],
+    "876": [
+        {
+            "image": "case_877/img.nii.gz",
+            "label": "case_877/lab.nii.gz",
+            "verts": "case_877/mesh.xyz"
+        }
+    ],
+    "877": [
+        {
+            "image": "case_878/img.nii.gz",
+            "label": "case_878/lab.nii.gz",
+            "verts": "case_878/mesh.xyz"
+        }
+    ],
+    "878": [
+        {
+            "image": "case_879/img.nii.gz",
+            "label": "case_879/lab.nii.gz",
+            "verts": "case_879/mesh.xyz"
+        }
+    ],
+    "879": [
+        {
+            "image": "case_880/img.nii.gz",
+            "label": "case_880/lab.nii.gz",
+            "verts": "case_880/mesh.xyz"
+        }
+    ],
+    "880": [
+        {
+            "image": "case_881/img.nii.gz",
+            "label": "case_881/lab.nii.gz",
+            "verts": "case_881/mesh.xyz"
+        }
+    ],
+    "881": [
+        {
+            "image": "case_882/img.nii.gz",
+            "label": "case_882/lab.nii.gz",
+            "verts": "case_882/mesh.xyz"
+        }
+    ],
+    "882": [
+        {
+            "image": "case_883/img.nii.gz",
+            "label": "case_883/lab.nii.gz",
+            "verts": "case_883/mesh.xyz"
+        }
+    ],
+    "883": [
+        {
+            "image": "case_884/img.nii.gz",
+            "label": "case_884/lab.nii.gz",
+            "verts": "case_884/mesh.xyz"
+        }
+    ],
+    "884": [
+        {
+            "image": "case_885/img.nii.gz",
+            "label": "case_885/lab.nii.gz",
+            "verts": "case_885/mesh.xyz"
+        }
+    ],
+    "885": [
+        {
+            "image": "case_886/img.nii.gz",
+            "label": "case_886/lab.nii.gz",
+            "verts": "case_886/mesh.xyz"
+        }
+    ],
+    "886": [
+        {
+            "image": "case_887/img.nii.gz",
+            "label": "case_887/lab.nii.gz",
+            "verts": "case_887/mesh.xyz"
+        }
+    ],
+    "887": [
+        {
+            "image": "case_888/img.nii.gz",
+            "label": "case_888/lab.nii.gz",
+            "verts": "case_888/mesh.xyz"
+        }
+    ],
+    "888": [
+        {
+            "image": "case_889/img.nii.gz",
+            "label": "case_889/lab.nii.gz",
+            "verts": "case_889/mesh.xyz"
+        }
+    ],
+    "889": [
+        {
+            "image": "case_890/img.nii.gz",
+            "label": "case_890/lab.nii.gz",
+            "verts": "case_890/mesh.xyz"
+        }
+    ],
+    "890": [
+        {
+            "image": "case_891/img.nii.gz",
+            "label": "case_891/lab.nii.gz",
+            "verts": "case_891/mesh.xyz"
+        }
+    ],
+    "891": [
+        {
+            "image": "case_892/img.nii.gz",
+            "label": "case_892/lab.nii.gz",
+            "verts": "case_892/mesh.xyz"
+        }
+    ],
+    "892": [
+        {
+            "image": "case_893/img.nii.gz",
+            "label": "case_893/lab.nii.gz",
+            "verts": "case_893/mesh.xyz"
+        }
+    ],
+    "893": [
+        {
+            "image": "case_894/img.nii.gz",
+            "label": "case_894/lab.nii.gz",
+            "verts": "case_894/mesh.xyz"
+        }
+    ],
+    "894": [
+        {
+            "image": "case_895/img.nii.gz",
+            "label": "case_895/lab.nii.gz",
+            "verts": "case_895/mesh.xyz"
+        }
+    ],
+    "895": [
+        {
+            "image": "case_896/img.nii.gz",
+            "label": "case_896/lab.nii.gz",
+            "verts": "case_896/mesh.xyz"
+        }
+    ],
+    "896": [
+        {
+            "image": "case_897/img.nii.gz",
+            "label": "case_897/lab.nii.gz",
+            "verts": "case_897/mesh.xyz"
+        }
+    ],
+    "897": [
+        {
+            "image": "case_898/img.nii.gz",
+            "label": "case_898/lab.nii.gz",
+            "verts": "case_898/mesh.xyz"
+        }
+    ],
+    "898": [
+        {
+            "image": "case_899/img.nii.gz",
+            "label": "case_899/lab.nii.gz",
+            "verts": "case_899/mesh.xyz"
+        }
+    ],
+    "899": [
+        {
+            "image": "case_900/img.nii.gz",
+            "label": "case_900/lab.nii.gz",
+            "verts": "case_900/mesh.xyz"
+        }
+    ],
+    "900": [
+        {
+            "image": "case_901/img.nii.gz",
+            "label": "case_901/lab.nii.gz",
+            "verts": "case_901/mesh.xyz"
+        }
+    ],
+    "901": [
+        {
+            "image": "case_902/img.nii.gz",
+            "label": "case_902/lab.nii.gz",
+            "verts": "case_902/mesh.xyz"
+        }
+    ],
+    "902": [
+        {
+            "image": "case_903/img.nii.gz",
+            "label": "case_903/lab.nii.gz",
+            "verts": "case_903/mesh.xyz"
+        }
+    ],
+    "903": [
+        {
+            "image": "case_904/img.nii.gz",
+            "label": "case_904/lab.nii.gz",
+            "verts": "case_904/mesh.xyz"
+        }
+    ],
+    "904": [
+        {
+            "image": "case_905/img.nii.gz",
+            "label": "case_905/lab.nii.gz",
+            "verts": "case_905/mesh.xyz"
+        }
+    ],
+    "905": [
+        {
+            "image": "case_906/img.nii.gz",
+            "label": "case_906/lab.nii.gz",
+            "verts": "case_906/mesh.xyz"
+        }
+    ],
+    "906": [
+        {
+            "image": "case_907/img.nii.gz",
+            "label": "case_907/lab.nii.gz",
+            "verts": "case_907/mesh.xyz"
+        }
+    ],
+    "907": [
+        {
+            "image": "case_908/img.nii.gz",
+            "label": "case_908/lab.nii.gz",
+            "verts": "case_908/mesh.xyz"
+        }
+    ],
+    "908": [
+        {
+            "image": "case_909/img.nii.gz",
+            "label": "case_909/lab.nii.gz",
+            "verts": "case_909/mesh.xyz"
+        }
+    ],
+    "909": [
+        {
+            "image": "case_910/img.nii.gz",
+            "label": "case_910/lab.nii.gz",
+            "verts": "case_910/mesh.xyz"
+        }
+    ],
+    "910": [
+        {
+            "image": "case_911/img.nii.gz",
+            "label": "case_911/lab.nii.gz",
+            "verts": "case_911/mesh.xyz"
+        }
+    ],
+    "911": [
+        {
+            "image": "case_912/img.nii.gz",
+            "label": "case_912/lab.nii.gz",
+            "verts": "case_912/mesh.xyz"
+        }
+    ],
+    "912": [
+        {
+            "image": "case_913/img.nii.gz",
+            "label": "case_913/lab.nii.gz",
+            "verts": "case_913/mesh.xyz"
+        }
+    ],
+    "913": [
+        {
+            "image": "case_914/img.nii.gz",
+            "label": "case_914/lab.nii.gz",
+            "verts": "case_914/mesh.xyz"
+        }
+    ],
+    "914": [
+        {
+            "image": "case_915/img.nii.gz",
+            "label": "case_915/lab.nii.gz",
+            "verts": "case_915/mesh.xyz"
+        }
+    ],
+    "915": [
+        {
+            "image": "case_916/img.nii.gz",
+            "label": "case_916/lab.nii.gz",
+            "verts": "case_916/mesh.xyz"
+        }
+    ],
+    "916": [
+        {
+            "image": "case_917/img.nii.gz",
+            "label": "case_917/lab.nii.gz",
+            "verts": "case_917/mesh.xyz"
+        }
+    ],
+    "917": [
+        {
+            "image": "case_918/img.nii.gz",
+            "label": "case_918/lab.nii.gz",
+            "verts": "case_918/mesh.xyz"
+        }
+    ],
+    "918": [
+        {
+            "image": "case_919/img.nii.gz",
+            "label": "case_919/lab.nii.gz",
+            "verts": "case_919/mesh.xyz"
+        }
+    ],
+    "919": [
+        {
+            "image": "case_920/img.nii.gz",
+            "label": "case_920/lab.nii.gz",
+            "verts": "case_920/mesh.xyz"
+        }
+    ],
+    "920": [
+        {
+            "image": "case_921/img.nii.gz",
+            "label": "case_921/lab.nii.gz",
+            "verts": "case_921/mesh.xyz"
+        }
+    ],
+    "921": [
+        {
+            "image": "case_922/img.nii.gz",
+            "label": "case_922/lab.nii.gz",
+            "verts": "case_922/mesh.xyz"
+        }
+    ],
+    "922": [
+        {
+            "image": "case_923/img.nii.gz",
+            "label": "case_923/lab.nii.gz",
+            "verts": "case_923/mesh.xyz"
+        }
+    ],
+    "923": [
+        {
+            "image": "case_924/img.nii.gz",
+            "label": "case_924/lab.nii.gz",
+            "verts": "case_924/mesh.xyz"
+        }
+    ],
+    "924": [
+        {
+            "image": "case_925/img.nii.gz",
+            "label": "case_925/lab.nii.gz",
+            "verts": "case_925/mesh.xyz"
+        }
+    ],
+    "925": [
+        {
+            "image": "case_926/img.nii.gz",
+            "label": "case_926/lab.nii.gz",
+            "verts": "case_926/mesh.xyz"
+        }
+    ],
+    "926": [
+        {
+            "image": "case_927/img.nii.gz",
+            "label": "case_927/lab.nii.gz",
+            "verts": "case_927/mesh.xyz"
+        }
+    ],
+    "927": [
+        {
+            "image": "case_928/img.nii.gz",
+            "label": "case_928/lab.nii.gz",
+            "verts": "case_928/mesh.xyz"
+        }
+    ],
+    "928": [
+        {
+            "image": "case_929/img.nii.gz",
+            "label": "case_929/lab.nii.gz",
+            "verts": "case_929/mesh.xyz"
+        }
+    ],
+    "929": [
+        {
+            "image": "case_930/img.nii.gz",
+            "label": "case_930/lab.nii.gz",
+            "verts": "case_930/mesh.xyz"
+        }
+    ],
+    "930": [
+        {
+            "image": "case_931/img.nii.gz",
+            "label": "case_931/lab.nii.gz",
+            "verts": "case_931/mesh.xyz"
+        }
+    ],
+    "931": [
+        {
+            "image": "case_932/img.nii.gz",
+            "label": "case_932/lab.nii.gz",
+            "verts": "case_932/mesh.xyz"
+        }
+    ],
+    "932": [
+        {
+            "image": "case_933/img.nii.gz",
+            "label": "case_933/lab.nii.gz",
+            "verts": "case_933/mesh.xyz"
+        }
+    ],
+    "933": [
+        {
+            "image": "case_934/img.nii.gz",
+            "label": "case_934/lab.nii.gz",
+            "verts": "case_934/mesh.xyz"
+        }
+    ],
+    "934": [
+        {
+            "image": "case_935/img.nii.gz",
+            "label": "case_935/lab.nii.gz",
+            "verts": "case_935/mesh.xyz"
+        }
+    ],
+    "935": [
+        {
+            "image": "case_936/img.nii.gz",
+            "label": "case_936/lab.nii.gz",
+            "verts": "case_936/mesh.xyz"
+        }
+    ],
+    "936": [
+        {
+            "image": "case_937/img.nii.gz",
+            "label": "case_937/lab.nii.gz",
+            "verts": "case_937/mesh.xyz"
+        }
+    ],
+    "937": [
+        {
+            "image": "case_938/img.nii.gz",
+            "label": "case_938/lab.nii.gz",
+            "verts": "case_938/mesh.xyz"
+        }
+    ],
+    "938": [
+        {
+            "image": "case_939/img.nii.gz",
+            "label": "case_939/lab.nii.gz",
+            "verts": "case_939/mesh.xyz"
+        }
+    ],
+    "939": [
+        {
+            "image": "case_940/img.nii.gz",
+            "label": "case_940/lab.nii.gz",
+            "verts": "case_940/mesh.xyz"
+        }
+    ],
+    "940": [
+        {
+            "image": "case_941/img.nii.gz",
+            "label": "case_941/lab.nii.gz",
+            "verts": "case_941/mesh.xyz"
+        }
+    ],
+    "941": [
+        {
+            "image": "case_942/img.nii.gz",
+            "label": "case_942/lab.nii.gz",
+            "verts": "case_942/mesh.xyz"
+        }
+    ],
+    "942": [
+        {
+            "image": "case_943/img.nii.gz",
+            "label": "case_943/lab.nii.gz",
+            "verts": "case_943/mesh.xyz"
+        }
+    ],
+    "943": [
+        {
+            "image": "case_944/img.nii.gz",
+            "label": "case_944/lab.nii.gz",
+            "verts": "case_944/mesh.xyz"
+        }
+    ],
+    "944": [
+        {
+            "image": "case_945/img.nii.gz",
+            "label": "case_945/lab.nii.gz",
+            "verts": "case_945/mesh.xyz"
+        }
+    ],
+    "945": [
+        {
+            "image": "case_946/img.nii.gz",
+            "label": "case_946/lab.nii.gz",
+            "verts": "case_946/mesh.xyz"
+        }
+    ],
+    "946": [
+        {
+            "image": "case_947/img.nii.gz",
+            "label": "case_947/lab.nii.gz",
+            "verts": "case_947/mesh.xyz"
+        }
+    ],
+    "947": [
+        {
+            "image": "case_948/img.nii.gz",
+            "label": "case_948/lab.nii.gz",
+            "verts": "case_948/mesh.xyz"
+        }
+    ],
+    "948": [
+        {
+            "image": "case_949/img.nii.gz",
+            "label": "case_949/lab.nii.gz",
+            "verts": "case_949/mesh.xyz"
+        }
+    ],
+    "949": [
+        {
+            "image": "case_950/img.nii.gz",
+            "label": "case_950/lab.nii.gz",
+            "verts": "case_950/mesh.xyz"
+        }
+    ],
+    "950": [
+        {
+            "image": "case_951/img.nii.gz",
+            "label": "case_951/lab.nii.gz",
+            "verts": "case_951/mesh.xyz"
+        }
+    ],
+    "951": [
+        {
+            "image": "case_952/img.nii.gz",
+            "label": "case_952/lab.nii.gz",
+            "verts": "case_952/mesh.xyz"
+        }
+    ],
+    "952": [
+        {
+            "image": "case_953/img.nii.gz",
+            "label": "case_953/lab.nii.gz",
+            "verts": "case_953/mesh.xyz"
+        }
+    ],
+    "953": [
+        {
+            "image": "case_954/img.nii.gz",
+            "label": "case_954/lab.nii.gz",
+            "verts": "case_954/mesh.xyz"
+        }
+    ],
+    "954": [
+        {
+            "image": "case_955/img.nii.gz",
+            "label": "case_955/lab.nii.gz",
+            "verts": "case_955/mesh.xyz"
+        }
+    ],
+    "955": [
+        {
+            "image": "case_956/img.nii.gz",
+            "label": "case_956/lab.nii.gz",
+            "verts": "case_956/mesh.xyz"
+        }
+    ],
+    "956": [
+        {
+            "image": "case_957/img.nii.gz",
+            "label": "case_957/lab.nii.gz",
+            "verts": "case_957/mesh.xyz"
+        }
+    ],
+    "957": [
+        {
+            "image": "case_958/img.nii.gz",
+            "label": "case_958/lab.nii.gz",
+            "verts": "case_958/mesh.xyz"
+        }
+    ],
+    "958": [
+        {
+            "image": "case_959/img.nii.gz",
+            "label": "case_959/lab.nii.gz",
+            "verts": "case_959/mesh.xyz"
+        }
+    ],
+    "959": [
+        {
+            "image": "case_960/img.nii.gz",
+            "label": "case_960/lab.nii.gz",
+            "verts": "case_960/mesh.xyz"
+        }
+    ],
+    "960": [
+        {
+            "image": "case_961/img.nii.gz",
+            "label": "case_961/lab.nii.gz",
+            "verts": "case_961/mesh.xyz"
+        }
+    ],
+    "961": [
+        {
+            "image": "case_962/img.nii.gz",
+            "label": "case_962/lab.nii.gz",
+            "verts": "case_962/mesh.xyz"
+        }
+    ],
+    "962": [
+        {
+            "image": "case_963/img.nii.gz",
+            "label": "case_963/lab.nii.gz",
+            "verts": "case_963/mesh.xyz"
+        }
+    ],
+    "963": [
+        {
+            "image": "case_964/img.nii.gz",
+            "label": "case_964/lab.nii.gz",
+            "verts": "case_964/mesh.xyz"
+        }
+    ],
+    "964": [
+        {
+            "image": "case_965/img.nii.gz",
+            "label": "case_965/lab.nii.gz",
+            "verts": "case_965/mesh.xyz"
+        }
+    ],
+    "965": [
+        {
+            "image": "case_966/img.nii.gz",
+            "label": "case_966/lab.nii.gz",
+            "verts": "case_966/mesh.xyz"
+        }
+    ],
+    "966": [
+        {
+            "image": "case_967/img.nii.gz",
+            "label": "case_967/lab.nii.gz",
+            "verts": "case_967/mesh.xyz"
+        }
+    ],
+    "967": [
+        {
+            "image": "case_968/img.nii.gz",
+            "label": "case_968/lab.nii.gz",
+            "verts": "case_968/mesh.xyz"
+        }
+    ],
+    "968": [
+        {
+            "image": "case_969/img.nii.gz",
+            "label": "case_969/lab.nii.gz",
+            "verts": "case_969/mesh.xyz"
+        }
+    ],
+    "969": [
+        {
+            "image": "case_970/img.nii.gz",
+            "label": "case_970/lab.nii.gz",
+            "verts": "case_970/mesh.xyz"
+        }
+    ],
+    "970": [
+        {
+            "image": "case_971/img.nii.gz",
+            "label": "case_971/lab.nii.gz",
+            "verts": "case_971/mesh.xyz"
+        }
+    ],
+    "971": [
+        {
+            "image": "case_972/img.nii.gz",
+            "label": "case_972/lab.nii.gz",
+            "verts": "case_972/mesh.xyz"
+        }
+    ],
+    "972": [
+        {
+            "image": "case_973/img.nii.gz",
+            "label": "case_973/lab.nii.gz",
+            "verts": "case_973/mesh.xyz"
+        }
+    ],
+    "973": [
+        {
+            "image": "case_974/img.nii.gz",
+            "label": "case_974/lab.nii.gz",
+            "verts": "case_974/mesh.xyz"
+        }
+    ],
+    "974": [
+        {
+            "image": "case_975/img.nii.gz",
+            "label": "case_975/lab.nii.gz",
+            "verts": "case_975/mesh.xyz"
+        }
+    ],
+    "975": [
+        {
+            "image": "case_976/img.nii.gz",
+            "label": "case_976/lab.nii.gz",
+            "verts": "case_976/mesh.xyz"
+        }
+    ],
+    "976": [
+        {
+            "image": "case_977/img.nii.gz",
+            "label": "case_977/lab.nii.gz",
+            "verts": "case_977/mesh.xyz"
+        }
+    ],
+    "977": [
+        {
+            "image": "case_978/img.nii.gz",
+            "label": "case_978/lab.nii.gz",
+            "verts": "case_978/mesh.xyz"
+        }
+    ],
+    "978": [
+        {
+            "image": "case_979/img.nii.gz",
+            "label": "case_979/lab.nii.gz",
+            "verts": "case_979/mesh.xyz"
+        }
+    ],
+    "979": [
+        {
+            "image": "case_980/img.nii.gz",
+            "label": "case_980/lab.nii.gz",
+            "verts": "case_980/mesh.xyz"
+        }
+    ],
+    "980": [
+        {
+            "image": "case_981/img.nii.gz",
+            "label": "case_981/lab.nii.gz",
+            "verts": "case_981/mesh.xyz"
+        }
+    ],
+    "981": [
+        {
+            "image": "case_982/img.nii.gz",
+            "label": "case_982/lab.nii.gz",
+            "verts": "case_982/mesh.xyz"
+        }
+    ],
+    "982": [
+        {
+            "image": "case_983/img.nii.gz",
+            "label": "case_983/lab.nii.gz",
+            "verts": "case_983/mesh.xyz"
+        }
+    ],
+    "983": [
+        {
+            "image": "case_984/img.nii.gz",
+            "label": "case_984/lab.nii.gz",
+            "verts": "case_984/mesh.xyz"
+        }
+    ],
+    "984": [
+        {
+            "image": "case_985/img.nii.gz",
+            "label": "case_985/lab.nii.gz",
+            "verts": "case_985/mesh.xyz"
+        }
+    ],
+    "985": [
+        {
+            "image": "case_986/img.nii.gz",
+            "label": "case_986/lab.nii.gz",
+            "verts": "case_986/mesh.xyz"
+        }
+    ],
+    "986": [
+        {
+            "image": "case_987/img.nii.gz",
+            "label": "case_987/lab.nii.gz",
+            "verts": "case_987/mesh.xyz"
+        }
+    ],
+    "987": [
+        {
+            "image": "case_988/img.nii.gz",
+            "label": "case_988/lab.nii.gz",
+            "verts": "case_988/mesh.xyz"
+        }
+    ],
+    "988": [
+        {
+            "image": "case_989/img.nii.gz",
+            "label": "case_989/lab.nii.gz",
+            "verts": "case_989/mesh.xyz"
+        }
+    ],
+    "989": [
+        {
+            "image": "case_990/img.nii.gz",
+            "label": "case_990/lab.nii.gz",
+            "verts": "case_990/mesh.xyz"
+        }
+    ],
+    "990": [
+        {
+            "image": "case_991/img.nii.gz",
+            "label": "case_991/lab.nii.gz",
+            "verts": "case_991/mesh.xyz"
+        }
+    ],
+    "991": [
+        {
+            "image": "case_992/img.nii.gz",
+            "label": "case_992/lab.nii.gz",
+            "verts": "case_992/mesh.xyz"
+        }
+    ],
+    "992": [
+        {
+            "image": "case_993/img.nii.gz",
+            "label": "case_993/lab.nii.gz",
+            "verts": "case_993/mesh.xyz"
+        }
+    ],
+    "993": [
+        {
+            "image": "case_994/img.nii.gz",
+            "label": "case_994/lab.nii.gz",
+            "verts": "case_994/mesh.xyz"
+        }
+    ],
+    "994": [
+        {
+            "image": "case_995/img.nii.gz",
+            "label": "case_995/lab.nii.gz",
+            "verts": "case_995/mesh.xyz"
+        }
+    ],
+    "995": [
+        {
+            "image": "case_996/img.nii.gz",
+            "label": "case_996/lab.nii.gz",
+            "verts": "case_996/mesh.xyz"
+        }
+    ],
+    "996": [
+        {
+            "image": "case_997/img.nii.gz",
+            "label": "case_997/lab.nii.gz",
+            "verts": "case_997/mesh.xyz"
+        }
+    ],
+    "997": [
+        {
+            "image": "case_998/img.nii.gz",
+            "label": "case_998/lab.nii.gz",
+            "verts": "case_998/mesh.xyz"
+        }
+    ],
+    "998": [
+        {
+            "image": "case_999/img.nii.gz",
+            "label": "case_999/lab.nii.gz",
+            "verts": "case_999/mesh.xyz"
+        }
+    ],
+    "999": [
+        {
+            "image": "case_1000/img.nii.gz",
+            "label": "case_1000/lab.nii.gz",
+            "verts": "case_1000/mesh.xyz"
+        }
+    ]
+}

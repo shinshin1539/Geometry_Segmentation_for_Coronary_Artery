@@ -1,0 +1,1001 @@
+2025-07-04 06:07:09  [INFO]:  
+config:
+{'dataset': {'batch_size': 1,
+             'defin_parm': {},
+             'defin_path': './dataset.py',
+             'defin_sampler': None,
+             'is_shuffle': True,
+             'isdroplast': False,
+             'num_worker': 8,
+             'param_sampler': {}},
+ 'monitor': {'index': 'chamfer',
+             'logger': True,
+             'stdstream': True,
+             'tensorboardx': True},
+ 'network': {'criterions': {'Graphloss': {'defin_parm': {},
+                                          'defin_path': './models/GraphLoss.py',
+                                          'weight': 1},
+                            'Imageloss': {'defin_parm': {},
+                                          'defin_path': './models/ImageLoss.py',
+                                          'weight': 1}},
+             'modules': {'Gseg': {'cur_params': None,
+                                  'defin_parm': {'coords_dim': 3,
+                                                 'feats_dims': [32, 16, 8],
+                                                 'hidden_dim': 192},
+                                  'defin_path': './models/GraphSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}},
+                         'Unet': {'cur_params': None,
+                                  'defin_parm': {'channels': [16, 32, 64],
+                                                 'in_channels': 1,
+                                                 'out_channels': 1},
+                                  'defin_path': './models/VoxelSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}}},
+             'use_cuda': True,
+             'use_parallel': True},
+ 'tag': 'GeometrySegmentation-CoronaryArtery-s1',
+ 'trainer': {'checkpoint_mode': {'dire': './checkpoints', 'type': 'key_epoch'},
+             'current_epoch': 1,
+             'threshold_grad': '1e5',
+             'total_epoches': 210,
+             'validation_step': 2}}
+
+
+2025-07-04 06:07:09  [INFO]:  
+-----------------------------------------------
+----------------  Data Loading ----------------
+-----------------------------------------------
+
+2025-07-04 06:08:22  [INFO]:  
+config:
+{'dataset': {'batch_size': 1,
+             'defin_parm': {},
+             'defin_path': './dataset.py',
+             'defin_sampler': None,
+             'is_shuffle': True,
+             'isdroplast': False,
+             'num_worker': 8,
+             'param_sampler': {}},
+ 'monitor': {'index': 'chamfer',
+             'logger': True,
+             'stdstream': True,
+             'tensorboardx': True},
+ 'network': {'criterions': {'Graphloss': {'defin_parm': {},
+                                          'defin_path': './models/GraphLoss.py',
+                                          'weight': 1},
+                            'Imageloss': {'defin_parm': {},
+                                          'defin_path': './models/ImageLoss.py',
+                                          'weight': 1}},
+             'modules': {'Gseg': {'cur_params': None,
+                                  'defin_parm': {'coords_dim': 3,
+                                                 'feats_dims': [32, 16, 8],
+                                                 'hidden_dim': 192},
+                                  'defin_path': './models/GraphSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}},
+                         'Unet': {'cur_params': None,
+                                  'defin_parm': {'channels': [16, 32, 64],
+                                                 'in_channels': 1,
+                                                 'out_channels': 1},
+                                  'defin_path': './models/VoxelSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}}},
+             'use_cuda': True,
+             'use_parallel': True},
+ 'tag': 'GeometrySegmentation-CoronaryArtery-s1',
+ 'trainer': {'checkpoint_mode': {'dire': './checkpoints', 'type': 'key_epoch'},
+             'current_epoch': 1,
+             'threshold_grad': '1e5',
+             'total_epoches': 210,
+             'validation_step': 2}}
+
+
+2025-07-04 06:08:22  [INFO]:  
+-----------------------------------------------
+----------------  Data Loading ----------------
+-----------------------------------------------
+
+2025-07-04 06:09:25  [INFO]:  
+config:
+{'dataset': {'batch_size': 1,
+             'defin_parm': {},
+             'defin_path': './dataset.py',
+             'defin_sampler': None,
+             'is_shuffle': True,
+             'isdroplast': False,
+             'num_worker': 8,
+             'param_sampler': {}},
+ 'monitor': {'index': 'chamfer',
+             'logger': True,
+             'stdstream': True,
+             'tensorboardx': True},
+ 'network': {'criterions': {'Graphloss': {'defin_parm': {},
+                                          'defin_path': './models/GraphLoss.py',
+                                          'weight': 1},
+                            'Imageloss': {'defin_parm': {},
+                                          'defin_path': './models/ImageLoss.py',
+                                          'weight': 1}},
+             'modules': {'Gseg': {'cur_params': None,
+                                  'defin_parm': {'coords_dim': 3,
+                                                 'feats_dims': [32, 16, 8],
+                                                 'hidden_dim': 192},
+                                  'defin_path': './models/GraphSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}},
+                         'Unet': {'cur_params': None,
+                                  'defin_parm': {'channels': [16, 32, 64],
+                                                 'in_channels': 1,
+                                                 'out_channels': 1},
+                                  'defin_path': './models/VoxelSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}}},
+             'use_cuda': True,
+             'use_parallel': True},
+ 'tag': 'GeometrySegmentation-CoronaryArtery-s1',
+ 'trainer': {'checkpoint_mode': {'dire': './checkpoints', 'type': 'key_epoch'},
+             'current_epoch': 1,
+             'threshold_grad': '1e5',
+             'total_epoches': 210,
+             'validation_step': 2}}
+
+
+2025-07-04 06:09:25  [INFO]:  
+-----------------------------------------------
+----------------  Data Loading ----------------
+-----------------------------------------------
+
+2025-07-04 06:09:26  [INFO]:  Batch  size:1
+Worker num:8
+Train  num:998
+Valid  num:2
+Drop last :False
+Shuffle: True
+
+2025-07-04 06:09:26  [INFO]:  
+-----------------------------------------------
+----------------  Model Loading ---------------
+-----------------------------------------------
+
+2025-07-04 06:09:26  [INFO]:  
+Module: Unet3D loaded ! Init Method:kaiming
+2025-07-04 06:09:27  [INFO]:  
+Module: GraphSeg loaded ! Init Method:kaiming
+2025-07-04 06:09:27  [INFO]:  Model Structure:
+[Unet3D(
+  (incoder): Sequential(
+    (0): Conv3d(1, 8, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+    (1): LeakyReLU(negative_slope=0.01)
+  )
+  (encoders): ModuleList(
+    (0): ConvEncoder3D(
+      (encoder): Sequential(
+        (0): ConvBlock3D(
+          (conv): Sequential(
+            (0): Conv3d(8, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (1): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): LeakyReLU(negative_slope=0.01)
+            (3): Conv3d(16, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (4): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (5): LeakyReLU(negative_slope=0.01)
+          )
+        )
+        (1): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+      )
+    )
+    (1): ConvEncoder3D(
+      (encoder): Sequential(
+        (0): ConvBlock3D(
+          (conv): Sequential(
+            (0): Conv3d(16, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (1): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): LeakyReLU(negative_slope=0.01)
+            (3): Conv3d(32, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (4): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (5): LeakyReLU(negative_slope=0.01)
+          )
+        )
+        (1): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+      )
+    )
+    (2): ConvEncoder3D(
+      (encoder): Sequential(
+        (0): ConvBlock3D(
+          (conv): Sequential(
+            (0): Conv3d(32, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (1): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): LeakyReLU(negative_slope=0.01)
+            (3): Conv3d(64, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (4): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (5): LeakyReLU(negative_slope=0.01)
+          )
+        )
+        (1): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+      )
+    )
+  )
+  (decoders): ModuleList(
+    (0): ConvDecoder3D(
+      (up): ConvTranspose3d(64, 32, kernel_size=(2, 2, 2), stride=(2, 2, 2))
+      (conv): ConvBlock3D(
+        (conv): Sequential(
+          (0): Conv3d(64, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (1): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): LeakyReLU(negative_slope=0.01)
+          (3): Conv3d(32, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (4): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (5): LeakyReLU(negative_slope=0.01)
+        )
+      )
+    )
+    (1): ConvDecoder3D(
+      (up): ConvTranspose3d(32, 16, kernel_size=(2, 2, 2), stride=(2, 2, 2))
+      (conv): ConvBlock3D(
+        (conv): Sequential(
+          (0): Conv3d(32, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (1): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): LeakyReLU(negative_slope=0.01)
+          (3): Conv3d(16, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (4): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (5): LeakyReLU(negative_slope=0.01)
+        )
+      )
+    )
+    (2): ConvDecoder3D(
+      (up): ConvTranspose3d(16, 8, kernel_size=(2, 2, 2), stride=(2, 2, 2))
+      (conv): ConvBlock3D(
+        (conv): Sequential(
+          (0): Conv3d(16, 8, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (1): BatchNorm3d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): LeakyReLU(negative_slope=0.01)
+          (3): Conv3d(8, 8, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (4): BatchNorm3d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (5): LeakyReLU(negative_slope=0.01)
+        )
+      )
+    )
+  )
+  (outcoder): Conv3d(8, 1, kernel_size=(1, 1, 1), stride=(1, 1, 1))
+), GraphSeg(
+  (gcn_projn): ModuleList(
+    (0): GProjection3D(
+      (sum_neighbourhood): Conv2d(32, 32, kernel_size=(1, 27), stride=(1, 1))
+      (shift_delta): Conv1d(32, 81, kernel_size=(1,), stride=(1,))
+      (feature_diff_1): Linear(in_features=35, out_features=32, bias=True)
+      (feature_diff_2): Linear(in_features=32, out_features=32, bias=True)
+      (feature_center_1): Linear(in_features=35, out_features=32, bias=True)
+      (feature_center_2): Linear(in_features=32, out_features=32, bias=True)
+    )
+    (1): GProjection3D(
+      (sum_neighbourhood): Conv2d(16, 16, kernel_size=(1, 27), stride=(1, 1))
+      (shift_delta): Conv1d(16, 81, kernel_size=(1,), stride=(1,))
+      (feature_diff_1): Linear(in_features=19, out_features=16, bias=True)
+      (feature_diff_2): Linear(in_features=16, out_features=16, bias=True)
+      (feature_center_1): Linear(in_features=19, out_features=16, bias=True)
+      (feature_center_2): Linear(in_features=16, out_features=16, bias=True)
+    )
+    (2): GProjection3D(
+      (sum_neighbourhood): Conv2d(8, 8, kernel_size=(1, 27), stride=(1, 1))
+      (shift_delta): Conv1d(8, 81, kernel_size=(1,), stride=(1,))
+      (feature_diff_1): Linear(in_features=11, out_features=8, bias=True)
+      (feature_diff_2): Linear(in_features=8, out_features=8, bias=True)
+      (feature_center_1): Linear(in_features=11, out_features=8, bias=True)
+      (feature_center_2): Linear(in_features=8, out_features=8, bias=True)
+    )
+  )
+  (gcn_model): ModuleList(
+    (0): GBottleNeck(
+      (model): Sequential(
+        (0) - GCNConv(59, 192): x, edge_index -> x
+        (1) - ReLU(): x -> x
+        (2) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (3) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (4) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (5) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (6) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (7) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+      )
+      (gconv): GCNConv(192, 3)
+    )
+    (1): GBottleNeck(
+      (model): Sequential(
+        (0) - GCNConv(251, 192): x, edge_index -> x
+        (1) - ReLU(): x -> x
+        (2) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (3) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (4) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (5) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (6) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (7) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+      )
+      (gconv): GCNConv(192, 3)
+    )
+    (2): GBottleNeck(
+      (model): Sequential(
+        (0) - GCNConv(251, 192): x, edge_index -> x
+        (1) - ReLU(): x -> x
+        (2) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (3) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (4) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (5) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (6) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (7) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+      )
+      (gconv): GCNConv(192, 192)
+    )
+  )
+  (gcn_final): Sequential(
+    (0) - ReLU(): x -> x
+    (1) - GCNConv(192, 3): x, edge_index -> x
+  )
+  (gcn_unpol): GUnpooling()
+)]
+Criterion:
+[[ImageLoss(
+  (ce): BCEWithLogitsLoss()
+  (dc): SoftDiceLoss()
+), 1], [GraphLoss(
+  (criterion): MeshLoss()
+), 1]]
+Use CUDA:      False
+Use Parallel:  False
+
+2025-07-04 06:09:27  [INFO]:  
+-----------------------------------------------
+--------------  Optimizer Loading -------------
+-----------------------------------------------
+
+2025-07-04 06:09:27  [INFO]:  Module: Unet 
+Optimizer:
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+2025-07-04 06:09:27  [INFO]:  Module: Gseg 
+Optimizer:
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+2025-07-04 06:09:27  [INFO]:  
+-----------------------------------------------
+--------------  Scheduler Loading -------------
+-----------------------------------------------
+
+2025-07-04 06:17:27  [INFO]:  
+config:
+{'dataset': {'batch_size': 1,
+             'defin_parm': {},
+             'defin_path': './dataset.py',
+             'defin_sampler': None,
+             'is_shuffle': True,
+             'isdroplast': False,
+             'num_worker': 8,
+             'param_sampler': {}},
+ 'monitor': {'index': 'chamfer',
+             'logger': True,
+             'stdstream': True,
+             'tensorboardx': True},
+ 'network': {'criterions': {'Graphloss': {'defin_parm': {},
+                                          'defin_path': './models/GraphLoss.py',
+                                          'weight': 1},
+                            'Imageloss': {'defin_parm': {},
+                                          'defin_path': './models/ImageLoss.py',
+                                          'weight': 1}},
+             'modules': {'Gseg': {'cur_params': None,
+                                  'defin_parm': {'coords_dim': 3,
+                                                 'feats_dims': [32, 16, 8],
+                                                 'hidden_dim': 192},
+                                  'defin_path': './models/GraphSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}},
+                         'Unet': {'cur_params': None,
+                                  'defin_parm': {'channels': [16, 32, 64],
+                                                 'in_channels': 1,
+                                                 'out_channels': 1},
+                                  'defin_path': './models/VoxelSeg.py',
+                                  'int_method': 'kaiming',
+                                  'optimizers': {'cur_params': None,
+                                                 'lr': 0.001,
+                                                 'type': 'Adam'},
+                                  'schedulers': {'eta_min': 1e-06,
+                                                 'half_cycle': 200,
+                                                 'type': 'CosineAnnealingLR'}}},
+             'use_cuda': True,
+             'use_parallel': True},
+ 'tag': 'GeometrySegmentation-CoronaryArtery-s1',
+ 'trainer': {'checkpoint_mode': {'dire': './checkpoints', 'type': 'key_epoch'},
+             'current_epoch': 1,
+             'threshold_grad': '1e5',
+             'total_epoches': 210,
+             'validation_step': 2}}
+
+
+2025-07-04 06:17:27  [INFO]:  
+-----------------------------------------------
+----------------  Data Loading ----------------
+-----------------------------------------------
+
+2025-07-04 06:17:27  [INFO]:  Batch  size:1
+Worker num:8
+Train  num:998
+Valid  num:2
+Drop last :False
+Shuffle: True
+
+2025-07-04 06:17:27  [INFO]:  
+-----------------------------------------------
+----------------  Model Loading ---------------
+-----------------------------------------------
+
+2025-07-04 06:17:28  [INFO]:  
+Module: Unet3D loaded ! Init Method:kaiming
+2025-07-04 06:17:28  [INFO]:  
+Module: GraphSeg loaded ! Init Method:kaiming
+2025-07-04 06:17:28  [INFO]:  Model Structure:
+[Unet3D(
+  (incoder): Sequential(
+    (0): Conv3d(1, 8, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+    (1): LeakyReLU(negative_slope=0.01)
+  )
+  (encoders): ModuleList(
+    (0): ConvEncoder3D(
+      (encoder): Sequential(
+        (0): ConvBlock3D(
+          (conv): Sequential(
+            (0): Conv3d(8, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (1): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): LeakyReLU(negative_slope=0.01)
+            (3): Conv3d(16, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (4): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (5): LeakyReLU(negative_slope=0.01)
+          )
+        )
+        (1): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+      )
+    )
+    (1): ConvEncoder3D(
+      (encoder): Sequential(
+        (0): ConvBlock3D(
+          (conv): Sequential(
+            (0): Conv3d(16, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (1): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): LeakyReLU(negative_slope=0.01)
+            (3): Conv3d(32, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (4): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (5): LeakyReLU(negative_slope=0.01)
+          )
+        )
+        (1): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+      )
+    )
+    (2): ConvEncoder3D(
+      (encoder): Sequential(
+        (0): ConvBlock3D(
+          (conv): Sequential(
+            (0): Conv3d(32, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (1): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): LeakyReLU(negative_slope=0.01)
+            (3): Conv3d(64, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+            (4): BatchNorm3d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (5): LeakyReLU(negative_slope=0.01)
+          )
+        )
+        (1): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+      )
+    )
+  )
+  (decoders): ModuleList(
+    (0): ConvDecoder3D(
+      (up): ConvTranspose3d(64, 32, kernel_size=(2, 2, 2), stride=(2, 2, 2))
+      (conv): ConvBlock3D(
+        (conv): Sequential(
+          (0): Conv3d(64, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (1): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): LeakyReLU(negative_slope=0.01)
+          (3): Conv3d(32, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (4): BatchNorm3d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (5): LeakyReLU(negative_slope=0.01)
+        )
+      )
+    )
+    (1): ConvDecoder3D(
+      (up): ConvTranspose3d(32, 16, kernel_size=(2, 2, 2), stride=(2, 2, 2))
+      (conv): ConvBlock3D(
+        (conv): Sequential(
+          (0): Conv3d(32, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (1): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): LeakyReLU(negative_slope=0.01)
+          (3): Conv3d(16, 16, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (4): BatchNorm3d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (5): LeakyReLU(negative_slope=0.01)
+        )
+      )
+    )
+    (2): ConvDecoder3D(
+      (up): ConvTranspose3d(16, 8, kernel_size=(2, 2, 2), stride=(2, 2, 2))
+      (conv): ConvBlock3D(
+        (conv): Sequential(
+          (0): Conv3d(16, 8, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (1): BatchNorm3d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): LeakyReLU(negative_slope=0.01)
+          (3): Conv3d(8, 8, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1))
+          (4): BatchNorm3d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (5): LeakyReLU(negative_slope=0.01)
+        )
+      )
+    )
+  )
+  (outcoder): Conv3d(8, 1, kernel_size=(1, 1, 1), stride=(1, 1, 1))
+), GraphSeg(
+  (gcn_projn): ModuleList(
+    (0): GProjection3D(
+      (sum_neighbourhood): Conv2d(32, 32, kernel_size=(1, 27), stride=(1, 1))
+      (shift_delta): Conv1d(32, 81, kernel_size=(1,), stride=(1,))
+      (feature_diff_1): Linear(in_features=35, out_features=32, bias=True)
+      (feature_diff_2): Linear(in_features=32, out_features=32, bias=True)
+      (feature_center_1): Linear(in_features=35, out_features=32, bias=True)
+      (feature_center_2): Linear(in_features=32, out_features=32, bias=True)
+    )
+    (1): GProjection3D(
+      (sum_neighbourhood): Conv2d(16, 16, kernel_size=(1, 27), stride=(1, 1))
+      (shift_delta): Conv1d(16, 81, kernel_size=(1,), stride=(1,))
+      (feature_diff_1): Linear(in_features=19, out_features=16, bias=True)
+      (feature_diff_2): Linear(in_features=16, out_features=16, bias=True)
+      (feature_center_1): Linear(in_features=19, out_features=16, bias=True)
+      (feature_center_2): Linear(in_features=16, out_features=16, bias=True)
+    )
+    (2): GProjection3D(
+      (sum_neighbourhood): Conv2d(8, 8, kernel_size=(1, 27), stride=(1, 1))
+      (shift_delta): Conv1d(8, 81, kernel_size=(1,), stride=(1,))
+      (feature_diff_1): Linear(in_features=11, out_features=8, bias=True)
+      (feature_diff_2): Linear(in_features=8, out_features=8, bias=True)
+      (feature_center_1): Linear(in_features=11, out_features=8, bias=True)
+      (feature_center_2): Linear(in_features=8, out_features=8, bias=True)
+    )
+  )
+  (gcn_model): ModuleList(
+    (0): GBottleNeck(
+      (model): Sequential(
+        (0) - GCNConv(59, 192): x, edge_index -> x
+        (1) - ReLU(): x -> x
+        (2) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (3) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (4) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (5) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (6) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (7) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+      )
+      (gconv): GCNConv(192, 3)
+    )
+    (1): GBottleNeck(
+      (model): Sequential(
+        (0) - GCNConv(251, 192): x, edge_index -> x
+        (1) - ReLU(): x -> x
+        (2) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (3) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (4) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (5) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (6) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (7) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+      )
+      (gconv): GCNConv(192, 3)
+    )
+    (2): GBottleNeck(
+      (model): Sequential(
+        (0) - GCNConv(251, 192): x, edge_index -> x
+        (1) - ReLU(): x -> x
+        (2) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (3) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (4) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (5) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (6) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+        (7) - GResBlock(
+        (model): Sequential(
+          (0) - GCNConv(192, 192): x, edge_index -> x
+          (1) - ReLU(): x -> x
+          (2) - GCNConv(192, 192): x, edge_index -> x
+          (3) - ReLU(): x -> x
+        )
+      ): x, edge_index -> x
+      )
+      (gconv): GCNConv(192, 192)
+    )
+  )
+  (gcn_final): Sequential(
+    (0) - ReLU(): x -> x
+    (1) - GCNConv(192, 3): x, edge_index -> x
+  )
+  (gcn_unpol): GUnpooling()
+)]
+Criterion:
+[[ImageLoss(
+  (ce): BCEWithLogitsLoss()
+  (dc): SoftDiceLoss()
+), 1], [GraphLoss(
+  (criterion): MeshLoss()
+), 1]]
+Use CUDA:      False
+Use Parallel:  False
+
+2025-07-04 06:17:28  [INFO]:  
+-----------------------------------------------
+--------------  Optimizer Loading -------------
+-----------------------------------------------
+
+2025-07-04 06:17:28  [INFO]:  Module: Unet 
+Optimizer:
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+2025-07-04 06:17:28  [INFO]:  Module: Gseg 
+Optimizer:
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+2025-07-04 06:17:28  [INFO]:  
+-----------------------------------------------
+--------------  Scheduler Loading -------------
+-----------------------------------------------
+
+2025-07-04 06:17:28  [INFO]:  Module: Unet 
+Scheduler: CosineAnnealingLR 
+{'T_max': 200,
+ '_get_lr_called_within_step': False,
+ '_last_lr': [0.001],
+ '_step_count': 1,
+ 'base_lrs': [0.001],
+ 'eta_min': 1e-06,
+ 'last_epoch': 0,
+ 'verbose': False}
+
+2025-07-04 06:17:28  [INFO]:  Module: Gseg 
+Scheduler: CosineAnnealingLR 
+{'T_max': 200,
+ '_get_lr_called_within_step': False,
+ '_last_lr': [0.001],
+ '_step_count': 1,
+ 'base_lrs': [0.001],
+ 'eta_min': 1e-06,
+ 'last_epoch': 0,
+ 'verbose': False}
+
+2025-07-04 06:17:28  [INFO]:  
+-----------------------------------------------
+-----------------  Run Trainer  ---------------
+-----------------------------------------------
+Total epoches:210
+Current epoch:1
+Criterion: {'Imageloss': [ImageLoss(
+  (ce): BCEWithLogitsLoss()
+  (dc): SoftDiceLoss()
+), 1], 'Graphloss': [GraphLoss(
+  (criterion): MeshLoss()
+), 1]}
+
+2025-07-04 06:17:28  [INFO]:  
+-----------------------------------------------
+-----------------  Evaluation  ----------------
+-----------------------------------------------

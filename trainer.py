@@ -22,8 +22,8 @@ def source_import(file_path):
 
 
 def get_dice(y_pred, y_true):
-    y_pred = np.atleast_1d(y_pred.astype(np.bool))
-    y_true = np.atleast_1d(y_true.astype(np.bool))
+    y_pred = np.atleast_1d(y_pred.astype(bool))
+    y_true = np.atleast_1d(y_true.astype(bool))
 
     intersection = np.count_nonzero(y_pred & y_true)
 
@@ -268,13 +268,16 @@ class Trainer(object):
                 if sched_param['type'] == 'CosineAnnealingLR':
                     half_cycle = sched_param['half_cycle']
                     eta_min = sched_param['eta_min']
-                    self.scheduler[key] = torch.optim.lr_scheduler.CosineAnnealingLR(
-                        optim, T_max=half_cycle, eta_min=eta_min)
+                    self.scheduler[key] = (
+                        'CosineAnnealingLR',
+                        torch.optim.lr_scheduler.CosineAnnealingLR(
+                            optim, T_max=half_cycle, eta_min=eta_min)
+                    )
                 else:
                     assert 'No recognized scheduler!'
 
                 if 'cur_params' in sched_param and sched_param['cur_params'] is not None:
-                    self.scheduler[key].load_state_dict(torch.load(sched_param['cur_params'])['scheduler'][key])
+                    self.scheduler[key][1].load_state_dict(torch.load(sched_param['cur_params'])['scheduler'][key])
                     self.show_outputs("Scheduler: {} Checkpoint: {} loaded !\n".format(key, sched_param['cur_params']))
 
         for key, (type, sched) in self.scheduler.items():
